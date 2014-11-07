@@ -1,1 +1,8 @@
-You're really reading it!
+PROJECT IDEA 1:
+
+I had an idea for a little plugin inspired by my natural language processing
+class and by the tedium organizing my emails. How cool would it be if I could
+write a program to process my emails for me, instead of me having to organize
+them myself? So that's the goal of this project. I want to mark incoming emails
+by comparing them to emails that I've already marked to see if I can determine
+which inbox they belong in.
