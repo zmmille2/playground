@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lists>
+<list
+   path="https://subversion.ews.illinois.edu/svn/fa15-cs242/zmmille2">
+<entry
+   kind="dir">
+<name>Assignment0</name>
+<commit
+   revision="2705">
+<author>zmmille2</author>
+<date>2015-09-04T14:49:11.350296Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/datastore.c</name>
+<size>6835</size>
+<commit
+   revision="2705">
+<author>zmmille2</author>
+<date>2015-09-04T14:49:11.350296Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/datastore.h</name>
+<size>1716</size>
+<commit
+   revision="2705">
+<author>zmmille2</author>
+<date>2015-09-04T14:49:11.350296Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/datastore_control.c</name>
+<size>1523</size>
+<commit
+   revision="2705">
+<author>zmmille2</author>
+<date>2015-09-04T14:49:11.350296Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/datastore_control.h</name>
+<size>498</size>
+<commit
+   revision="2705">
+<author>zmmille2</author>
+<date>2015-09-04T14:49:11.350296Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1</name>
+<commit
+   revision="5985">
+<author>zmmille2</author>
+<date>2015-09-25T15:58:19.764741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.DS_Store</name>
+<size>6148</size>
+<commit
+   revision="5907">
+<author>zmmille2</author>
+<date>2015-09-25T05:48:01.716868Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/.idea</name>
+<commit
+   revision="5985">
+<author>zmmille2</author>
+<date>2015-09-25T15:58:19.764741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/compiler.xml</name>
+<size>686</size>
+<commit
+   revision="5985">
+<author>zmmille2</author>
+<date>2015-09-25T15:58:19.764741Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/.idea/copyright</name>
+<commit
+   revision="5985">
+<author>zmmille2</author>
+<date>2015-09-25T15:58:19.764741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/copyright/profiles_settings.xml</name>
+<size>74</size>
+<commit
+   revision="5985">
+<author>zmmille2</author>
+<date>2015-09-25T15:58:19.764741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/misc.xml</name>
+<size>185</size>
+<commit
+   revision="5985">
+<author>zmmille2</author>
+<date>2015-09-25T15:58:19.764741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/modules.xml</name>
+<size>144</size>
+<commit
+   revision="5985">
+<author>zmmille2</author>
+<date>2015-09-25T15:58:19.764741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/vcs.xml</name>
+<size>164</size>
+<commit
+   revision="5985">
+<author>zmmille2</author>
+<date>2015-09-25T15:58:19.764741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/workspace.xml</name>
+<size>56664</size>
+<commit
+   revision="5985">
+<author>zmmille2</author>
+<date>2015-09-25T15:58:19.764741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/chess.iml</name>
+<size>1086</size>
+<commit
+   revision="5907">
+<author>zmmille2</author>
+<date>2015-09-25T05:48:01.716868Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out</name>
+<commit
+   revision="5907">
+<author>zmmille2</author>
+<date>2015-09-25T05:48:01.716868Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/.DS_Store</name>
+<size>6148</size>
+<commit
+   revision="4463">
+<author>zmmille2</author>
+<date>2015-09-17T17:19:36.951229Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production</name>
+<commit
+   revision="5907">
+<author>zmmille2</author>
+<date>2015-09-25T05:48:01.716868Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/.DS_Store</name>
+<size>6148</size>
+<commit
+   revision="4463">
+<author>zmmille2</author>
+<date>2015-09-17T17:19:36.951229Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/out/production/chess</name>
+<commit
+   revision="5907">
+<author>zmmille2</author>
+<date>2015-09-25T05:48:01.716868Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/chess/.DS_Store</name>
+<size>6148</size>
+<commit
+   revision="5907">
+<author>zmmille2</author>
+<date>2015-09-25T05:48:01.716868Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/chess/Bishop.class</name>
+<size>1108</size>
+<commit
+   revision="4463">
+<author>zmmille2</author>
+<date>2015-09-17T17:19:36.951229Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/chess/BishopTest.class</name>
+<size>3007</size>
+<commit
+   revision="4463">
+<author>zmmille2</author>
+<date>2015-09-17T17:19:36.951229Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/chess/Board$1.class</name>
+<size>550</size>
+<commit
+   revision="4463">
+<author>zmmille2</author>
+<date>2015-09-17T17:19:36.951229Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/chess/Board.class</name>
+<size>5846</size>
+<commit
+   revision="4463">
+<author>zmmille2</author>
+<date>2015-09-17T17:19:36.951229Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/chess/BoardTest.class</name>
+<size>743</size>
+<commit
+   revision="4463">
+<author>zmmille2</author>
+<date>2015-09-17T17:19:36.951229Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/chess/Direction.class</name>
+<size>1182</size>
+<commit
+   revision="4463">
+<author>zmmille2</author>
+<date>2015-09-17T17:19:36.951229Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/chess/GameTest.class</name>
+<size>887</size>
+<commit
+   revision="4463">
+<author>zmmille2</author>
+<date>2015-09-17T17:19:36.951229Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/chess/King.class</name>
+<size>931</size>
+<commit
+   revision="4463">
+<author>zmmille2</author>
+<date>2015-09-17T17:19:36.951229Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/chess/KingTest.class</name>
+<size>3203</size>
+<commit
+   revision="4463">
+<author>zmmille2</author>
+<date>2015-09-17T17:19:36.951229Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/chess/Knight.class</name>
+<size>1084</size>
+<commit
+   revision="4463">
+<author>zmmille2</author>
+<date>2015-09-17T17:19:36.951229Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/chess/KnightTest.class</name>
+<size>2669</size>
+<commit
+   revision="4463">
+<author>zmmille2</author>
+<date>2015-09-17T17:19:36.951229Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/chess/Location$1.class</name>
+<size>872</size>
+<commit
+   revision="4463">
+<author>zmmille2</author>
+<date>2015-09-17T17:19:36.951229Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/chess/Location.class</name>
+<size>3165</size>
+<commit
+   revision="4463">
+<author>zmmille2</author>
+<date>2015-09-17T17:19:36.951229Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/chess/Pawn.class</name>
+<size>1660</size>
+<commit
+   revision="4463">
+<author>zmmille2</author>
+<date>2015-09-17T17:19:36.951229Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/chess/PawnTest.class</name>
+<size>3491</size>
+<commit
+   revision="4463">
+<author>zmmille2</author>
+<date>2015-09-17T17:19:36.951229Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/chess/Piece.class</name>
+<size>2395</size>
+<commit
+   revision="4463">
+<author>zmmille2</author>
+<date>2015-09-17T17:19:36.951229Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/chess/Queen.class</name>
+<size>1127</size>
+<commit
+   revision="4463">
+<author>zmmille2</author>
+<date>2015-09-17T17:19:36.951229Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/chess/QueenTest.class</name>
+<size>3187</size>
+<commit
+   revision="4463">
+<author>zmmille2</author>
+<date>2015-09-17T17:19:36.951229Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/chess/Rook.class</name>
+<size>1049</size>
+<commit
+   revision="4463">
+<author>zmmille2</author>
+<date>2015-09-17T17:19:36.951229Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/chess/RookTest.class</name>
+<size>2992</size>
+<commit
+   revision="4463">
+<author>zmmille2</author>
+<date>2015-09-17T17:19:36.951229Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/out/production/chess/Team.class</name>
+<size>832</size>
+<commit
+   revision="4463">
+<author>zmmille2</author>
+<date>2015-09-17T17:19:36.951229Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src</name>
+<commit
+   revision="5907">
+<author>zmmille2</author>
+<date>2015-09-25T05:48:01.716868Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/Chess</name>
+<commit
+   revision="5884">
+<author>zmmille2</author>
+<date>2015-09-25T03:58:51.960709Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Chess/Board.java</name>
+<size>5986</size>
+<commit
+   revision="5884">
+<author>zmmille2</author>
+<date>2015-09-25T03:58:51.960709Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Chess/Direction.java</name>
+<size>178</size>
+<commit
+   revision="5884">
+<author>zmmille2</author>
+<date>2015-09-25T03:58:51.960709Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Chess/Game.java</name>
+<size>4720</size>
+<commit
+   revision="5884">
+<author>zmmille2</author>
+<date>2015-09-25T03:58:51.960709Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Chess/Location.java</name>
+<size>2266</size>
+<commit
+   revision="5884">
+<author>zmmille2</author>
+<date>2015-09-25T03:58:51.960709Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Chess/Team.java</name>
+<size>97</size>
+<commit
+   revision="5884">
+<author>zmmille2</author>
+<date>2015-09-25T03:58:51.960709Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/Pieces</name>
+<commit
+   revision="5907">
+<author>zmmille2</author>
+<date>2015-09-25T05:48:01.716868Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Pieces/Bishop.java</name>
+<size>421</size>
+<commit
+   revision="5884">
+<author>zmmille2</author>
+<date>2015-09-25T03:58:51.960709Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Pieces/Guard.java</name>
+<size>927</size>
+<commit
+   revision="5884">
+<author>zmmille2</author>
+<date>2015-09-25T03:58:51.960709Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Pieces/King.java</name>
+<size>325</size>
+<commit
+   revision="5884">
+<author>zmmille2</author>
+<date>2015-09-25T03:58:51.960709Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Pieces/Knight.java</name>
+<size>573</size>
+<commit
+   revision="5884">
+<author>zmmille2</author>
+<date>2015-09-25T03:58:51.960709Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Pieces/Pawn.java</name>
+<size>1056</size>
+<commit
+   revision="5884">
+<author>zmmille2</author>
+<date>2015-09-25T03:58:51.960709Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Pieces/Piece.java</name>
+<size>643</size>
+<commit
+   revision="5884">
+<author>zmmille2</author>
+<date>2015-09-25T03:58:51.960709Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Pieces/Queen.java</name>
+<size>477</size>
+<commit
+   revision="5884">
+<author>zmmille2</author>
+<date>2015-09-25T03:58:51.960709Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Pieces/Rook.java</name>
+<size>360</size>
+<commit
+   revision="5884">
+<author>zmmille2</author>
+<date>2015-09-25T03:58:51.960709Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/Tests</name>
+<commit
+   revision="5907">
+<author>zmmille2</author>
+<date>2015-09-25T05:48:01.716868Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Tests/BishopTest.java</name>
+<size>3158</size>
+<commit
+   revision="5884">
+<author>zmmille2</author>
+<date>2015-09-25T03:58:51.960709Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Tests/BoardTest.java</name>
+<size>1698</size>
+<commit
+   revision="5884">
+<author>zmmille2</author>
+<date>2015-09-25T03:58:51.960709Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Tests/GameTest.java</name>
+<size>2227</size>
+<commit
+   revision="5884">
+<author>zmmille2</author>
+<date>2015-09-25T03:58:51.960709Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Tests/KingTest.java</name>
+<size>3457</size>
+<commit
+   revision="5884">
+<author>zmmille2</author>
+<date>2015-09-25T03:58:51.960709Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Tests/KnightTest.java</name>
+<size>2565</size>
+<commit
+   revision="5884">
+<author>zmmille2</author>
+<date>2015-09-25T03:58:51.960709Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Tests/PawnTest.java</name>
+<size>4091</size>
+<commit
+   revision="5884">
+<author>zmmille2</author>
+<date>2015-09-25T03:58:51.960709Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Tests/QueenTest.java</name>
+<size>3476</size>
+<commit
+   revision="5884">
+<author>zmmille2</author>
+<date>2015-09-25T03:58:51.960709Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Tests/RookTest.java</name>
+<size>3036</size>
+<commit
+   revision="5884">
+<author>zmmille2</author>
+<date>2015-09-25T03:58:51.960709Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2</name>
+<commit
+   revision="5891">
+<author>zmmille2</author>
+<date>2015-09-25T04:25:02.784938Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0</name>
+<commit
+   revision="7233">
+<author>zmmille2</author>
+<date>2015-10-08T21:59:05.853680Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/CSAir.py</name>
+<size>5537</size>
+<commit
+   revision="7233">
+<author>zmmille2</author>
+<date>2015-10-08T21:59:05.853680Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/data.json</name>
+<size>18121</size>
+<commit
+   revision="7233">
+<author>zmmille2</author>
+<date>2015-10-08T21:59:05.853680Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/test.lua</name>
+<size>40</size>
+<commit
+   revision="7233">
+<author>zmmille2</author>
+<date>2015-10-08T21:59:05.853680Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>shopping</name>
+<commit
+   revision="2509">
+<author>zmmille2</author>
+<date>2015-09-04T00:20:43.939962Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>shopping/list1.txt</name>
+<size>56</size>
+<commit
+   revision="2015">
+<author>zmmille2</author>
+<date>2015-09-02T23:04:27.580471Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>shopping/list2.txt</name>
+<size>76</size>
+<commit
+   revision="2502">
+<author>zmmille2</author>
+<date>2015-09-04T00:12:05.776725Z</date>
+</commit>
+</entry>
+</list>
+</lists>

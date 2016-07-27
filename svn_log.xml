@@ -1,0 +1,877 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="7233">
+<author>zmmille2</author>
+<date>2015-10-08T21:59:05.853680Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment2.0/CSAir.py</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment2.0/test.lua</path>
+<path
+   kind="dir"
+   action="A">/zmmille2/Assignment2.0</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment2.0/data.json</path>
+</paths>
+<msg>hope this doesn't delete my code like last time</msg>
+</logentry>
+<logentry
+   revision="5985">
+<author>zmmille2</author>
+<date>2015-09-25T15:58:19.764741Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/.idea/modules.xml</path>
+<path
+   kind="dir"
+   action="A">/zmmille2/Assignment1.1/.idea/copyright</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/.idea/compiler.xml</path>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment1.1/.idea/copyright/profiles_settings.xml</path>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment1.1/.idea/misc.xml</path>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment1.1/.idea/vcs.xml</path>
+<path
+   action="M"
+   kind="file">/zmmille2/Assignment1.1/.idea/workspace.xml</path>
+</paths>
+<msg>test</msg>
+</logentry>
+<logentry
+   revision="5907">
+<author>zmmille2</author>
+<date>2015-09-25T05:48:01.716868Z</date>
+<paths>
+<path
+   action="A"
+   kind="file"
+   copyfrom-path="/zmmille2/Assignment1.1/chess.iml"
+   copyfrom-rev="5887">/zmmille2/Assignment1.1/chess.iml</path>
+<path
+   action="D"
+   kind="file">/zmmille2/Assignment1.1/src/Tests/HopperTest.java</path>
+<path
+   action="D"
+   kind="dir">/zmmille2/Assignment1.1/out/production/chess/Chess</path>
+<path
+   action="D"
+   kind="dir">/zmmille2/Assignment1.1/out/production/chess/Pieces</path>
+<path
+   action="D"
+   kind="file">/zmmille2/Assignment1.1/src/Tests/GuardTest.java</path>
+<path
+   kind="file"
+   action="D">/zmmille2/Assignment1.1/src/Pieces/Hopper.java</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   copyfrom-path="/zmmille2/Assignment1.1/.DS_Store"
+   copyfrom-rev="5887"
+   action="A">/zmmille2/Assignment1.1/.DS_Store</path>
+<path
+   kind="dir"
+   action="A">/zmmille2/Assignment1.1/.idea</path>
+<path
+   action="M"
+   kind="file">/zmmille2/Assignment1.1/out/production/chess/.DS_Store</path>
+<path
+   action="D"
+   kind="dir">/zmmille2/Assignment1.1/out/production/chess/Tests</path>
+</paths>
+<msg>I'm so fucked</msg>
+</logentry>
+<logentry
+   revision="5896">
+<author>zmmille2</author>
+<date>2015-09-25T04:53:56.360729Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/out/production/chess/Pieces/Rook.class</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/out/production/chess/Chess/Direction.class</path>
+<path
+   kind="file"
+   action="D">/zmmille2/Assignment1.1/.DS_Store</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/out/production/chess/Chess/Board.class</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/out/production/chess/Pieces/Piece.class</path>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment1.1/out/production/chess/Tests/HopperTest.class</path>
+<path
+   action="A"
+   kind="dir">/zmmille2/Assignment1.1/out/production/chess/Chess</path>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment1.1/out/production/chess/Chess/Location$1.class</path>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment1.1/out/production/chess/Pieces/Hopper.class</path>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment1.1/src/Tests/GuardTest.java</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/src/Pieces/Hopper.java</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/out/production/chess/Tests/QueenTest.class</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/out/production/chess/Pieces/Queen.class</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/out/production/chess/Tests/BishopTest.class</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/out/production/chess/Tests/KnightTest.class</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/out/production/chess/Tests/BoardTest.class</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/out/production/chess/Tests/KingTest.class</path>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment1.1/out/production/chess/Chess/Team.class</path>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment1.1/out/production/chess/Pieces/Bishop.class</path>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment1.1/out/production/chess/Pieces/Knight.class</path>
+<path
+   action="A"
+   kind="dir">/zmmille2/Assignment1.1/out/production/chess/Tests</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/src/Tests/HopperTest.java</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/out/production/chess/Pieces/King.class</path>
+<path
+   kind="dir"
+   action="A">/zmmille2/Assignment1.1/out/production/chess/Pieces</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/out/production/chess/Tests/GuardTest.class</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/out/production/chess/Tests/PawnTest.class</path>
+<path
+   kind="dir"
+   action="D">/zmmille2/Assignment1.1/.idea</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/out/production/chess/Pieces/Guard.class</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/out/production/chess/Tests/GameTest.class</path>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment1.1/out/production/chess/Tests/RookTest.class</path>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment1.1/out/production/chess/Pieces/Pawn.class</path>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment1.1/out/production/chess/Chess/Location.class</path>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment1.1/out/production/chess/Chess/Game.class</path>
+<path
+   action="D"
+   kind="file">/zmmille2/Assignment1.1/chess.iml</path>
+</paths>
+<msg>god I hope this works</msg>
+</logentry>
+<logentry
+   revision="5891">
+<author>zmmille2</author>
+<date>2015-09-25T04:25:02.784938Z</date>
+<paths>
+<path
+   action="D"
+   kind="dir">/zmmille2/Assignment1.2/Assignment1.1</path>
+</paths>
+<msg>FUCK</msg>
+</logentry>
+<logentry
+   revision="5890">
+<author>zmmille2</author>
+<date>2015-09-25T04:15:40.854607Z</date>
+<paths>
+<path
+   kind="dir"
+   copyfrom-path="/zmmille2/Assignment1.1"
+   copyfrom-rev="5889"
+   action="A">/zmmille2/Assignment1.2/Assignment1.1</path>
+</paths>
+<msg>Putting new code in Assignment1.2</msg>
+</logentry>
+<logentry
+   revision="5888">
+<author>zmmille2</author>
+<date>2015-09-25T04:15:06.390686Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/zmmille2/Assignment1.2</path>
+</paths>
+<msg>Making Assignment1.2 folder</msg>
+</logentry>
+<logentry
+   revision="5887">
+<author>zmmille2</author>
+<date>2015-09-25T04:05:27.849433Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/zmmille2/Assignment1.1/.idea/workspace.xml</path>
+</paths>
+<msg>test</msg>
+</logentry>
+<logentry
+   revision="5884">
+<author>zmmille2</author>
+<date>2015-09-25T03:58:51.960709Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/zmmille2/Assignment1.1/src/Board.java</path>
+<path
+   kind="file"
+   action="D">/zmmille2/Assignment1.1/src/BoardTest.java</path>
+<path
+   action="A"
+   kind="dir">/zmmille2/Assignment1.1/src/Pieces</path>
+<path
+   action="D"
+   kind="file">/zmmille2/Assignment1.1/src/King.java</path>
+<path
+   action="D"
+   kind="file">/zmmille2/Assignment1.1/src/KingTest.java</path>
+<path
+   action="A"
+   kind="file"
+   copyfrom-path="/zmmille2/Assignment1.1/src/BoardTest.java"
+   copyfrom-rev="4464">/zmmille2/Assignment1.1/src/Tests/BoardTest.java</path>
+<path
+   copyfrom-path="/zmmille2/Assignment1.1/src/KingTest.java"
+   copyfrom-rev="4464"
+   action="A"
+   kind="file">/zmmille2/Assignment1.1/src/Tests/KingTest.java</path>
+<path
+   kind="file"
+   copyfrom-path="/zmmille2/Assignment1.1/src/Board.java"
+   copyfrom-rev="4707"
+   action="A">/zmmille2/Assignment1.1/src/Chess/Board.java</path>
+<path
+   kind="file"
+   copyfrom-path="/zmmille2/Assignment1.1/src/Piece.java"
+   copyfrom-rev="4707"
+   action="A">/zmmille2/Assignment1.1/src/Pieces/Piece.java</path>
+<path
+   kind="file"
+   action="M">/zmmille2/Assignment1.1/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="D">/zmmille2/Assignment1.1/src/Location.java</path>
+<path
+   kind="file"
+   copyfrom-path="/zmmille2/Assignment1.1/src/Guard.java"
+   copyfrom-rev="4707"
+   action="A">/zmmille2/Assignment1.1/src/Pieces/Guard.java</path>
+<path
+   action="D"
+   kind="file">/zmmille2/Assignment1.1/src/Rook.java</path>
+<path
+   action="D"
+   kind="file">/zmmille2/Assignment1.1/src/RookTest.java</path>
+<path
+   action="A"
+   kind="file"
+   copyfrom-path="/zmmille2/Assignment1.1/src/RookTest.java"
+   copyfrom-rev="4464">/zmmille2/Assignment1.1/src/Tests/RookTest.java</path>
+<path
+   action="A"
+   kind="file"
+   copyfrom-path="/zmmille2/Assignment1.1/src/Pawn.java"
+   copyfrom-rev="4707">/zmmille2/Assignment1.1/src/Pieces/Pawn.java</path>
+<path
+   copyfrom-path="/zmmille2/Assignment1.1/src/Game.java"
+   copyfrom-rev="4707"
+   action="A"
+   kind="file">/zmmille2/Assignment1.1/src/Chess/Game.java</path>
+<path
+   action="D"
+   kind="file">/zmmille2/Assignment1.1/src/Direction.java</path>
+<path
+   kind="dir"
+   action="A">/zmmille2/Assignment1.1/src/Tests</path>
+<path
+   kind="file"
+   copyfrom-path="/zmmille2/Assignment1.1/src/Queen.java"
+   copyfrom-rev="4707"
+   action="A">/zmmille2/Assignment1.1/src/Pieces/Queen.java</path>
+<path
+   kind="file"
+   action="D">/zmmille2/Assignment1.1/src/Piece.java</path>
+<path
+   kind="file"
+   copyfrom-path="/zmmille2/Assignment1.1/src/Direction.java"
+   copyfrom-rev="4464"
+   action="A">/zmmille2/Assignment1.1/src/Chess/Direction.java</path>
+<path
+   kind="file"
+   copyfrom-path="/zmmille2/Assignment1.1/src/Team.java"
+   copyfrom-rev="4464"
+   action="A">/zmmille2/Assignment1.1/src/Chess/Team.java</path>
+<path
+   kind="file"
+   copyfrom-path="/zmmille2/Assignment1.1/src/Knight.java"
+   copyfrom-rev="4707"
+   action="A">/zmmille2/Assignment1.1/src/Pieces/Knight.java</path>
+<path
+   action="A"
+   kind="file"
+   copyfrom-path="/zmmille2/Assignment1.1/src/Bishop.java"
+   copyfrom-rev="4707">/zmmille2/Assignment1.1/src/Pieces/Bishop.java</path>
+<path
+   action="A"
+   kind="file"
+   copyfrom-path="/zmmille2/Assignment1.1/src/King.java"
+   copyfrom-rev="4707">/zmmille2/Assignment1.1/src/Pieces/King.java</path>
+<path
+   action="D"
+   kind="file">/zmmille2/Assignment1.1/src/Guard.java</path>
+<path
+   action="M"
+   kind="file">/zmmille2/Assignment1.1/.idea/vcs.xml</path>
+<path
+   action="D"
+   kind="file">/zmmille2/Assignment1.1/src/Pawn.java</path>
+<path
+   action="D"
+   kind="file">/zmmille2/Assignment1.1/src/PawnTest.java</path>
+<path
+   kind="file"
+   action="M">/zmmille2/Assignment1.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   copyfrom-path="/zmmille2/Assignment1.1/src/PawnTest.java"
+   copyfrom-rev="4464"
+   action="A">/zmmille2/Assignment1.1/src/Tests/PawnTest.java</path>
+<path
+   kind="file"
+   action="D">/zmmille2/Assignment1.1/src/GameTest.java</path>
+<path
+   kind="file"
+   action="D">/zmmille2/Assignment1.1/src/Game.java</path>
+<path
+   kind="file"
+   copyfrom-path="/zmmille2/Assignment1.1/src/GameTest.java"
+   copyfrom-rev="4707"
+   action="A">/zmmille2/Assignment1.1/src/Tests/GameTest.java</path>
+<path
+   kind="file"
+   copyfrom-path="/zmmille2/Assignment1.1/src/Location.java"
+   copyfrom-rev="4707"
+   action="A">/zmmille2/Assignment1.1/src/Chess/Location.java</path>
+<path
+   action="D"
+   kind="file">/zmmille2/Assignment1.1/src/Queen.java</path>
+<path
+   action="D"
+   kind="file">/zmmille2/Assignment1.1/src/QueenTest.java</path>
+<path
+   action="A"
+   kind="file"
+   copyfrom-path="/zmmille2/Assignment1.1/src/QueenTest.java"
+   copyfrom-rev="4464">/zmmille2/Assignment1.1/src/Tests/QueenTest.java</path>
+<path
+   action="A"
+   kind="file"
+   copyfrom-path="/zmmille2/Assignment1.1/src/Rook.java"
+   copyfrom-rev="4707">/zmmille2/Assignment1.1/src/Pieces/Rook.java</path>
+<path
+   action="D"
+   kind="file">/zmmille2/Assignment1.1/src/Knight.java</path>
+<path
+   action="D"
+   kind="file">/zmmille2/Assignment1.1/src/KnightTest.java</path>
+<path
+   action="D"
+   kind="file">/zmmille2/Assignment1.1/src/Bishop.java</path>
+<path
+   kind="file"
+   action="D">/zmmille2/Assignment1.1/src/BishopTest.java</path>
+<path
+   kind="dir"
+   action="A">/zmmille2/Assignment1.1/src/Chess</path>
+<path
+   kind="file"
+   action="D">/zmmille2/Assignment1.1/src/Team.java</path>
+<path
+   kind="file"
+   copyfrom-path="/zmmille2/Assignment1.1/src/BishopTest.java"
+   copyfrom-rev="4464"
+   action="A">/zmmille2/Assignment1.1/src/Tests/BishopTest.java</path>
+<path
+   kind="file"
+   copyfrom-path="/zmmille2/Assignment1.1/src/KnightTest.java"
+   copyfrom-rev="4464"
+   action="A">/zmmille2/Assignment1.1/src/Tests/KnightTest.java</path>
+</paths>
+<msg>Reorganized code, model now functions properly</msg>
+</logentry>
+<logentry
+   revision="4707">
+<author>zmmille2</author>
+<date>2015-09-18T01:39:22.407464Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/zmmille2/Assignment1.1/src/Bishop.java</path>
+<path
+   kind="file"
+   action="M">/zmmille2/Assignment1.1/src/Knight.java</path>
+<path
+   kind="file"
+   action="M">/zmmille2/Assignment1.1/src/Pawn.java</path>
+<path
+   kind="file"
+   action="M">/zmmille2/Assignment1.1/src/Piece.java</path>
+<path
+   action="M"
+   kind="file">/zmmille2/Assignment1.1/src/Board.java</path>
+<path
+   action="M"
+   kind="file">/zmmille2/Assignment1.1/src/King.java</path>
+<path
+   action="M"
+   kind="file">/zmmille2/Assignment1.1/src/Location.java</path>
+<path
+   action="M"
+   kind="file">/zmmille2/Assignment1.1/src/Game.java</path>
+<path
+   action="M"
+   kind="file">/zmmille2/Assignment1.1/src/GameTest.java</path>
+<path
+   action="M"
+   kind="file">/zmmille2/Assignment1.1/src/Rook.java</path>
+<path
+   action="M"
+   kind="file">/zmmille2/Assignment1.1/src/Queen.java</path>
+<path
+   action="M"
+   kind="file">/zmmille2/Assignment1.1/src/Guard.java</path>
+</paths>
+<msg>Refactored code!</msg>
+</logentry>
+<logentry
+   revision="4463">
+<author>zmmille2</author>
+<date>2015-09-17T17:19:36.951229Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment1.1/out/production/chess/Location.class</path>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment1.1/.idea/.name</path>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment1.1/out/production/chess/GameTest.class</path>
+<path
+   action="A"
+   kind="dir">/zmmille2/Assignment1.1/.idea</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/out/production/chess/Rook.class</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/src/Rook.java</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/chess.iml</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/.idea/codeStyleSettings.xml</path>
+<path
+   kind="dir"
+   action="A">/zmmille2/Assignment1.1/.idea/libraries</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/src/Piece.java</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/out/production/.DS_Store</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/.DS_Store</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/out/production/chess/Location$1.class</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/src/Guard.java</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/src/Pawn.java</path>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment1.1/src/GameTest.java</path>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment1.1/out/production/chess/Queen.class</path>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment1.1/src/QueenTest.java</path>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment1.1/out/production/chess/BishopTest.class</path>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment1.1/out/production/chess/Knight.class</path>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment1.1/src/BishopTest.java</path>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment1.1/src/Knight.java</path>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment1.1/out/production/chess/BoardTest.class</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/src/BoardTest.java</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/out/production/chess/King.class</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/src/KingTest.java</path>
+<path
+   kind="dir"
+   action="A">/zmmille2/Assignment1.1/out</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/out/production/chess/PawnTest.class</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/src/Location.java</path>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment1.1/out/production/chess/RookTest.class</path>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment1.1/src/RookTest.java</path>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment1.1/out/production/chess/Board$1.class</path>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment1.1/src/Direction.java</path>
+<path
+   action="A"
+   kind="dir">/zmmille2/Assignment1.1/src</path>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment1.1/.idea/modules.xml</path>
+<path
+   action="A"
+   kind="dir">/zmmille2/Assignment1.1/.idea/copyright</path>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment1.1/out/production/chess/Piece.class</path>
+<path
+   kind="dir"
+   action="A">/zmmille2/Assignment1.1/.idea/dictionaries</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/out/production/chess/.DS_Store</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/out/.DS_Store</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/src/PawnTest.java</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/.idea/uiDesigner.xml</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/src/Game.java</path>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment1.1/out/production/chess/QueenTest.class</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/src/Queen.java</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/out/production/chess/Direction.class</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/.idea/dictionaries/zmmille2.xml</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/.idea/compiler.xml</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/.idea/copyright/profiles_settings.xml</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/out/production/chess/KnightTest.class</path>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment1.1/out/production/chess/Bishop.class</path>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment1.1/src/KnightTest.java</path>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment1.1/src/Bishop.java</path>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment1.1/out/production/chess/Team.class</path>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment1.1/out/production/chess/Board.class</path>
+<path
+   action="A"
+   kind="dir">/zmmille2/Assignment1.1/out/production</path>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment1.1/src/Team.java</path>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment1.1/out/production/chess/KingTest.class</path>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment1.1/src/Board.java</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/src/King.java</path>
+<path
+   kind="dir"
+   action="A">/zmmille2/Assignment1.1/out/production/chess</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/.idea/libraries/junit_4_12.xml</path>
+<path
+   kind="file"
+   action="A">/zmmille2/Assignment1.1/out/production/chess/Pawn.class</path>
+</paths>
+<msg>Pre-refactored code with custom pieces and most tests</msg>
+</logentry>
+<logentry
+   revision="4462">
+<author>zmmille2</author>
+<date>2015-09-17T17:18:53.707684Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/zmmille2/Assignment1.1</path>
+</paths>
+<msg>Pre-refactored code with custom pieces and most tests</msg>
+</logentry>
+<logentry
+   revision="2705">
+<author>zmmille2</author>
+<date>2015-09-04T14:49:11.350296Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment0/datastore.c</path>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment0/datastore_control.c</path>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment0/datastore.h</path>
+<path
+   action="A"
+   kind="file">/zmmille2/Assignment0/datastore_control.h</path>
+<path
+   kind="dir"
+   action="A">/zmmille2/Assignment0</path>
+</paths>
+<msg>committing Assignment0</msg>
+</logentry>
+<logentry
+   revision="2509">
+<author>zmmille2</author>
+<date>2015-09-04T00:20:43.939962Z</date>
+<paths>
+<path
+   kind="dir"
+   action="M">/zmmille2/shopping</path>
+</paths>
+<msg>Ignored the list3.txt from all future commits</msg>
+</logentry>
+<logentry
+   revision="2505">
+<author>zmmille2</author>
+<date>2015-09-04T00:16:40.915973Z</date>
+<paths>
+<path
+   kind="dir"
+   copyfrom-path="/zmmille2/grocery"
+   copyfrom-rev="2504"
+   action="A">/zmmille2/shopping</path>
+<path
+   action="D"
+   kind="dir">/zmmille2/grocery</path>
+</paths>
+<msg>Moved grocery to shopping for clarity</msg>
+</logentry>
+<logentry
+   revision="2504">
+<author>zmmille2</author>
+<date>2015-09-04T00:13:46.954887Z</date>
+<paths>
+<path
+   action="D"
+   kind="file">/zmmille2/grocery/list3.txt</path>
+</paths>
+<msg>Discovered that I want to be a vegetarian</msg>
+</logentry>
+<logentry
+   revision="2503">
+<author>zmmille2</author>
+<date>2015-09-04T00:13:03.400951Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/zmmille2/grocery/list3.txt</path>
+</paths>
+<msg>Added list of meats</msg>
+</logentry>
+<logentry
+   revision="2502">
+<author>zmmille2</author>
+<date>2015-09-04T00:12:05.776725Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/zmmille2/grocery/list2.txt</path>
+</paths>
+<msg>Emphasize importance of carrot</msg>
+</logentry>
+<logentry
+   revision="2501">
+<author>zmmille2</author>
+<date>2015-09-04T00:09:43.002062Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/zmmille2/grocery/list2.txt</path>
+</paths>
+<msg>Put emphasis on carrot</msg>
+</logentry>
+<logentry
+   revision="2499">
+<author>zmmille2</author>
+<date>2015-09-04T00:03:02.101549Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/zmmille2/grocery/list2.txt</path>
+</paths>
+<msg>Added less important vegetable</msg>
+</logentry>
+<logentry
+   revision="2496">
+<author>zmmille2</author>
+<date>2015-09-03T23:59:25.420774Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/zmmille2/grocery/list2.txt</path>
+</paths>
+<msg>Added more important vegetable</msg>
+</logentry>
+<logentry
+   revision="2495">
+<author>zmmille2</author>
+<date>2015-09-03T23:55:14.106182Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/zmmille2/grocery/list2.txt</path>
+</paths>
+<msg>Adding more vegetables</msg>
+</logentry>
+<logentry
+   revision="2015">
+<author>zmmille2</author>
+<date>2015-09-02T23:04:27.580471Z</date>
+<paths>
+<path
+   kind="file"
+   action="R">/zmmille2/grocery/list2.txt</path>
+<path
+   kind="file"
+   action="R">/zmmille2/grocery/list1.txt</path>
+</paths>
+<msg>buhhh</msg>
+</logentry>
+<logentry
+   revision="2013">
+<author>zmmille2</author>
+<date>2015-09-02T22:57:55.800574Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/zmmille2/grocery/list1.txt</path>
+<path
+   action="A"
+   kind="file">/zmmille2/grocery/list2.txt</path>
+<path
+   action="A"
+   kind="dir">/zmmille2/grocery</path>
+</paths>
+<msg>importing grocery project</msg>
+</logentry>
+<logentry
+   revision="210">
+<author>root</author>
+<date>2015-08-25T21:58:59.537097Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/zmmille2</path>
+</paths>
+<msg>created directory zmmille2</msg>
+</logentry>
+</log>
