@@ -7,8 +7,7 @@ tell application "Messages"
     set myBuddy to buddy targetBuddy of service id targetService
 
     repeat
-    set textMessage to some item of possibleTexts
-    send textMessage to myBuddy
+    send some item of possibleTexts to myBuddy
     delay 1
     end repeat
 

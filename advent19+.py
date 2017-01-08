@@ -1,52 +1,34 @@
 from collections import defaultdict
 
-#4918
+# 4918 too low
+# stolen from reddit :(
 num_elves = 3001330
-elves = []
 
 class Node:
     def __init__(self, value):
         self.value = value
-        self.nxt = self
+        self.nxt = None
+        self.prv = None
 
-    def remove_next(self, num_elves):
-        self.nxt = self.nxt.nxt
-        return num_elves - 1
+    def delete(self):
+        self.prv.nxt = self.nxt
+        self.nxt.prv = self.prv
 
-def before_cross_elf(index):
-    return (index + ((num_elves) / 2) - 1) % num_elves
+def solve(n):
+    l = map(Node, xrange(n))
+    for i in xrange(n):
+        l[i].nxt = l[(i+1)%n]
+        l[i].prv = l[(i-1)%n]
 
-root = Node(1)
-curr = root
+    start = l[0]
+    mid   = l[n/2]
 
-for elf in range(2, num_elves + 1):
-    curr.nxt = Node(elf)
-    curr = curr.nxt
+    for i in xrange(n-1):
+        mid.delete()
+        mid = mid.nxt
+        if (n-i)%2==1: mid = mid.nxt
+        start = start.nxt
 
-curr.nxt = root
-curr = root
-curr_cross = curr
+    return start.value + 1
 
-i, curr_index, cross_index = 0, 0, (num_elves / 2 - 1)
-
-while cross_index > i:
-    curr_cross = curr_cross.nxt
-    i += 1
-
-while num_elves > 1:
-    before_cross = before_cross_elf(curr_index)
-    while cross_index != before_cross:
-        curr_cross = curr_cross.nxt
-        cross_index = (cross_index + 1) % num_elves
-    if curr.value == curr_cross.nxt.value:
-        num_elves = curr.remove_next(num_elves)
-    else:
-        num_elves = curr_cross.remove_next(num_elves)
-    cross_index %= num_elves
-    curr = curr.nxt
-    if curr_index > num_elves:
-        curr_index = 0
-    else:
-        curr_index = (curr_index + 1) % (num_elves + 1)
-
-print curr.value
+print solve(num_elves)
