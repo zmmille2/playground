@@ -1,2584 +1,643 @@
-x = 3 y = 5 end_x = 3 end_y = 53 length = 0
-x = 3 y = 4 end_x = 3 end_y = 53 length = 1
-x = 3 y = 3 end_x = 3 end_y = 53 length = 2
-x = 3 y = 2 end_x = 3 end_y = 53 length = 3
-x = 3 y = 1 end_x = 3 end_y = 53 length = 4
-x = 2 y = 1 end_x = 3 end_y = 53 length = 5
-x = 1 y = 1 end_x = 3 end_y = 53 length = 6
-x = 1 y = 2 end_x = 3 end_y = 53 length = 7
-x = 1 y = 3 end_x = 3 end_y = 53 length = 8
-x = 1 y = 4 end_x = 3 end_y = 53 length = 9
-x = 1 y = 5 end_x = 3 end_y = 53 length = 10
-x = 1 y = 6 end_x = 3 end_y = 53 length = 11
-x = 1 y = 7 end_x = 3 end_y = 53 length = 12
-x = 4 y = 1 end_x = 3 end_y = 53 length = 5
-x = 5 y = 1 end_x = 3 end_y = 53 length = 6
-x = 6 y = 1 end_x = 3 end_y = 53 length = 7
-x = 7 y = 1 end_x = 3 end_y = 53 length = 8
-x = 8 y = 1 end_x = 3 end_y = 53 length = 9
-x = 9 y = 1 end_x = 3 end_y = 53 length = 10
-x = 10 y = 1 end_x = 3 end_y = 53 length = 11
-x = 11 y = 1 end_x = 3 end_y = 53 length = 12
-x = 12 y = 1 end_x = 3 end_y = 53 length = 13
-x = 13 y = 1 end_x = 3 end_y = 53 length = 14
-x = 13 y = 2 end_x = 3 end_y = 53 length = 15
-x = 13 y = 3 end_x = 3 end_y = 53 length = 16
-x = 12 y = 3 end_x = 3 end_y = 53 length = 17
-x = 11 y = 3 end_x = 3 end_y = 53 length = 18
-x = 10 y = 3 end_x = 3 end_y = 53 length = 19
-x = 9 y = 3 end_x = 3 end_y = 53 length = 20
-x = 8 y = 3 end_x = 3 end_y = 53 length = 21
-x = 7 y = 3 end_x = 3 end_y = 53 length = 22
-x = 6 y = 3 end_x = 3 end_y = 53 length = 23
-x = 5 y = 3 end_x = 3 end_y = 53 length = 24
-x = 5 y = 2 end_x = 3 end_y = 53 length = 25
-x = 7 y = 2 end_x = 3 end_y = 53 length = 23
-x = 9 y = 4 end_x = 3 end_y = 53 length = 21
-x = 9 y = 5 end_x = 3 end_y = 53 length = 22
-x = 8 y = 5 end_x = 3 end_y = 53 length = 23
-x = 7 y = 5 end_x = 3 end_y = 53 length = 24
-x = 7 y = 6 end_x = 3 end_y = 53 length = 25
-x = 7 y = 7 end_x = 3 end_y = 53 length = 26
-x = 6 y = 7 end_x = 3 end_y = 53 length = 27
-x = 5 y = 7 end_x = 3 end_y = 53 length = 28
-x = 4 y = 7 end_x = 3 end_y = 53 length = 29
-x = 3 y = 7 end_x = 3 end_y = 53 length = 30
-x = 5 y = 6 end_x = 3 end_y = 53 length = 29
-x = 5 y = 5 end_x = 3 end_y = 53 length = 30
-x = 8 y = 7 end_x = 3 end_y = 53 length = 27
-x = 9 y = 7 end_x = 3 end_y = 53 length = 28
-x = 10 y = 7 end_x = 3 end_y = 53 length = 29
-x = 11 y = 7 end_x = 3 end_y = 53 length = 30
-x = 11 y = 6 end_x = 3 end_y = 53 length = 31
-x = 11 y = 5 end_x = 3 end_y = 53 length = 32
-x = 10 y = 5 end_x = 3 end_y = 53 length = 33
-x = 11 y = 8 end_x = 3 end_y = 53 length = 31
-x = 11 y = 9 end_x = 3 end_y = 53 length = 32
-x = 10 y = 9 end_x = 3 end_y = 53 length = 33
-x = 9 y = 9 end_x = 3 end_y = 53 length = 34
-x = 9 y = 8 end_x = 3 end_y = 53 length = 35
-x = 9 y = 10 end_x = 3 end_y = 53 length = 35
-x = 9 y = 11 end_x = 3 end_y = 53 length = 36
-x = 8 y = 11 end_x = 3 end_y = 53 length = 37
-x = 7 y = 11 end_x = 3 end_y = 53 length = 38
-x = 6 y = 11 end_x = 3 end_y = 53 length = 39
-x = 5 y = 11 end_x = 3 end_y = 53 length = 40
-x = 4 y = 11 end_x = 3 end_y = 53 length = 41
-x = 3 y = 11 end_x = 3 end_y = 53 length = 42
-x = 2 y = 11 end_x = 3 end_y = 53 length = 43
-x = 1 y = 11 end_x = 3 end_y = 53 length = 44
-x = 1 y = 10 end_x = 3 end_y = 53 length = 45
-x = 1 y = 9 end_x = 3 end_y = 53 length = 46
-x = 2 y = 9 end_x = 3 end_y = 53 length = 47
-x = 3 y = 9 end_x = 3 end_y = 53 length = 48
-x = 4 y = 9 end_x = 3 end_y = 53 length = 49
-x = 5 y = 9 end_x = 3 end_y = 53 length = 50
-x = 6 y = 9 end_x = 3 end_y = 53 length = 51
-x = 7 y = 9 end_x = 3 end_y = 53 length = 52
-x = 7 y = 10 end_x = 3 end_y = 53 length = 53
-x = 3 y = 10 end_x = 3 end_y = 53 length = 49
-x = 1 y = 12 end_x = 3 end_y = 53 length = 45
-x = 1 y = 13 end_x = 3 end_y = 53 length = 46
-x = 2 y = 13 end_x = 3 end_y = 53 length = 47
-x = 3 y = 13 end_x = 3 end_y = 53 length = 48
-x = 4 y = 13 end_x = 3 end_y = 53 length = 49
-x = 5 y = 13 end_x = 3 end_y = 53 length = 50
-x = 6 y = 13 end_x = 3 end_y = 53 length = 51
-x = 7 y = 13 end_x = 3 end_y = 53 length = 52
-x = 8 y = 13 end_x = 3 end_y = 53 length = 53
-x = 9 y = 13 end_x = 3 end_y = 53 length = 54
-x = 10 y = 13 end_x = 3 end_y = 53 length = 55
-x = 11 y = 13 end_x = 3 end_y = 53 length = 56
-x = 11 y = 12 end_x = 3 end_y = 53 length = 57
-x = 11 y = 11 end_x = 3 end_y = 53 length = 58
-x = 11 y = 10 end_x = 3 end_y = 53 length = 59
-x = 9 y = 14 end_x = 3 end_y = 53 length = 55
-x = 9 y = 15 end_x = 3 end_y = 53 length = 56
-x = 8 y = 15 end_x = 3 end_y = 53 length = 57
-x = 7 y = 15 end_x = 3 end_y = 53 length = 58
-x = 6 y = 15 end_x = 3 end_y = 53 length = 59
-x = 5 y = 15 end_x = 3 end_y = 53 length = 60
-x = 4 y = 15 end_x = 3 end_y = 53 length = 61
-x = 3 y = 15 end_x = 3 end_y = 53 length = 62
-x = 2 y = 15 end_x = 3 end_y = 53 length = 63
-x = 1 y = 15 end_x = 3 end_y = 53 length = 64
-x = 1 y = 16 end_x = 3 end_y = 53 length = 65
-x = 1 y = 17 end_x = 3 end_y = 53 length = 66
-x = 1 y = 18 end_x = 3 end_y = 53 length = 67
-x = 1 y = 19 end_x = 3 end_y = 53 length = 68
-x = 2 y = 19 end_x = 3 end_y = 53 length = 69
-x = 3 y = 19 end_x = 3 end_y = 53 length = 70
-x = 3 y = 18 end_x = 3 end_y = 53 length = 71
-x = 3 y = 17 end_x = 3 end_y = 53 length = 72
-x = 4 y = 17 end_x = 3 end_y = 53 length = 73
-x = 5 y = 17 end_x = 3 end_y = 53 length = 74
-x = 6 y = 17 end_x = 3 end_y = 53 length = 75
-x = 7 y = 17 end_x = 3 end_y = 53 length = 76
-x = 5 y = 16 end_x = 3 end_y = 53 length = 75
-x = 5 y = 14 end_x = 3 end_y = 53 length = 61
-x = 7 y = 14 end_x = 3 end_y = 53 length = 59
-x = 10 y = 15 end_x = 3 end_y = 53 length = 57
-x = 11 y = 15 end_x = 3 end_y = 53 length = 58
-x = 12 y = 15 end_x = 3 end_y = 53 length = 59
-x = 13 y = 15 end_x = 3 end_y = 53 length = 60
-x = 14 y = 15 end_x = 3 end_y = 53 length = 61
-x = 15 y = 15 end_x = 3 end_y = 53 length = 62
-x = 16 y = 15 end_x = 3 end_y = 53 length = 63
-x = 17 y = 15 end_x = 3 end_y = 53 length = 64
-x = 18 y = 15 end_x = 3 end_y = 53 length = 65
-x = 19 y = 15 end_x = 3 end_y = 53 length = 66
-x = 20 y = 15 end_x = 3 end_y = 53 length = 67
-x = 21 y = 15 end_x = 3 end_y = 53 length = 68
-x = 21 y = 14 end_x = 3 end_y = 53 length = 69
-x = 21 y = 13 end_x = 3 end_y = 53 length = 70
-x = 22 y = 13 end_x = 3 end_y = 53 length = 71
-x = 23 y = 13 end_x = 3 end_y = 53 length = 72
-x = 24 y = 13 end_x = 3 end_y = 53 length = 73
-x = 25 y = 13 end_x = 3 end_y = 53 length = 74
-x = 26 y = 13 end_x = 3 end_y = 53 length = 75
-x = 27 y = 13 end_x = 3 end_y = 53 length = 76
-x = 28 y = 13 end_x = 3 end_y = 53 length = 77
-x = 29 y = 13 end_x = 3 end_y = 53 length = 78
-x = 30 y = 13 end_x = 3 end_y = 53 length = 79
-x = 31 y = 13 end_x = 3 end_y = 53 length = 80
-x = 32 y = 13 end_x = 3 end_y = 53 length = 81
-x = 33 y = 13 end_x = 3 end_y = 53 length = 82
-x = 33 y = 12 end_x = 3 end_y = 53 length = 83
-x = 33 y = 11 end_x = 3 end_y = 53 length = 84
-x = 33 y = 10 end_x = 3 end_y = 53 length = 85
-x = 33 y = 9 end_x = 3 end_y = 53 length = 86
-x = 32 y = 9 end_x = 3 end_y = 53 length = 87
-x = 31 y = 9 end_x = 3 end_y = 53 length = 88
-x = 31 y = 10 end_x = 3 end_y = 53 length = 89
-x = 31 y = 11 end_x = 3 end_y = 53 length = 90
-x = 30 y = 11 end_x = 3 end_y = 53 length = 91
-x = 29 y = 11 end_x = 3 end_y = 53 length = 92
-x = 29 y = 12 end_x = 3 end_y = 53 length = 93
-x = 31 y = 12 end_x = 3 end_y = 53 length = 91
-x = 34 y = 9 end_x = 3 end_y = 53 length = 87
-x = 35 y = 9 end_x = 3 end_y = 53 length = 88
-x = 36 y = 9 end_x = 3 end_y = 53 length = 89
-x = 37 y = 9 end_x = 3 end_y = 53 length = 90
-x = 38 y = 9 end_x = 3 end_y = 53 length = 91
-x = 39 y = 9 end_x = 3 end_y = 53 length = 92
-x = 39 y = 8 end_x = 3 end_y = 53 length = 93
-x = 39 y = 7 end_x = 3 end_y = 53 length = 94
-x = 38 y = 7 end_x = 3 end_y = 53 length = 95
-x = 37 y = 7 end_x = 3 end_y = 53 length = 96
-x = 39 y = 6 end_x = 3 end_y = 53 length = 95
-x = 39 y = 5 end_x = 3 end_y = 53 length = 96
-x = 40 y = 5 end_x = 3 end_y = 53 length = 97
-x = 41 y = 5 end_x = 3 end_y = 53 length = 98
-x = 42 y = 5 end_x = 3 end_y = 53 length = 99
-x = 43 y = 5 end_x = 3 end_y = 53 length = 100
-x = 43 y = 4 end_x = 3 end_y = 53 length = 101
-x = 43 y = 3 end_x = 3 end_y = 53 length = 102
-x = 43 y = 2 end_x = 3 end_y = 53 length = 103
-x = 43 y = 1 end_x = 3 end_y = 53 length = 104
-x = 41 y = 4 end_x = 3 end_y = 53 length = 99
-x = 41 y = 3 end_x = 3 end_y = 53 length = 100
-x = 40 y = 3 end_x = 3 end_y = 53 length = 101
-x = 39 y = 3 end_x = 3 end_y = 53 length = 102
-x = 39 y = 2 end_x = 3 end_y = 53 length = 103
-x = 39 y = 1 end_x = 3 end_y = 53 length = 104
-x = 38 y = 1 end_x = 3 end_y = 53 length = 105
-x = 37 y = 1 end_x = 3 end_y = 53 length = 106
-x = 36 y = 1 end_x = 3 end_y = 53 length = 107
-x = 35 y = 1 end_x = 3 end_y = 53 length = 108
-x = 35 y = 2 end_x = 3 end_y = 53 length = 109
-x = 35 y = 3 end_x = 3 end_y = 53 length = 110
-x = 34 y = 3 end_x = 3 end_y = 53 length = 111
-x = 33 y = 3 end_x = 3 end_y = 53 length = 112
-x = 32 y = 3 end_x = 3 end_y = 53 length = 113
-x = 31 y = 3 end_x = 3 end_y = 53 length = 114
-x = 31 y = 4 end_x = 3 end_y = 53 length = 115
-x = 31 y = 5 end_x = 3 end_y = 53 length = 116
-x = 30 y = 5 end_x = 3 end_y = 53 length = 117
-x = 29 y = 5 end_x = 3 end_y = 53 length = 118
-x = 29 y = 4 end_x = 3 end_y = 53 length = 119
-x = 29 y = 3 end_x = 3 end_y = 53 length = 120
-x = 29 y = 2 end_x = 3 end_y = 53 length = 121
-x = 29 y = 1 end_x = 3 end_y = 53 length = 122
-x = 28 y = 1 end_x = 3 end_y = 53 length = 123
-x = 27 y = 1 end_x = 3 end_y = 53 length = 124
-x = 26 y = 1 end_x = 3 end_y = 53 length = 125
-x = 25 y = 1 end_x = 3 end_y = 53 length = 126
-x = 24 y = 1 end_x = 3 end_y = 53 length = 127
-x = 23 y = 1 end_x = 3 end_y = 53 length = 128
-x = 27 y = 2 end_x = 3 end_y = 53 length = 125
-x = 27 y = 3 end_x = 3 end_y = 53 length = 126
-x = 26 y = 3 end_x = 3 end_y = 53 length = 127
-x = 25 y = 3 end_x = 3 end_y = 53 length = 128
-x = 25 y = 4 end_x = 3 end_y = 53 length = 129
-x = 25 y = 5 end_x = 3 end_y = 53 length = 130
-x = 24 y = 5 end_x = 3 end_y = 53 length = 131
-x = 23 y = 5 end_x = 3 end_y = 53 length = 132
-x = 22 y = 5 end_x = 3 end_y = 53 length = 133
-x = 21 y = 5 end_x = 3 end_y = 53 length = 134
-x = 20 y = 5 end_x = 3 end_y = 53 length = 135
-x = 19 y = 5 end_x = 3 end_y = 53 length = 136
-x = 18 y = 5 end_x = 3 end_y = 53 length = 137
-x = 17 y = 5 end_x = 3 end_y = 53 length = 138
-x = 16 y = 5 end_x = 3 end_y = 53 length = 139
-x = 15 y = 5 end_x = 3 end_y = 53 length = 140
-x = 14 y = 5 end_x = 3 end_y = 53 length = 141
-x = 13 y = 5 end_x = 3 end_y = 53 length = 142
-x = 13 y = 4 end_x = 3 end_y = 53 length = 143
-x = 15 y = 4 end_x = 3 end_y = 53 length = 141
-x = 15 y = 3 end_x = 3 end_y = 53 length = 142
-x = 16 y = 3 end_x = 3 end_y = 53 length = 143
-x = 17 y = 3 end_x = 3 end_y = 53 length = 144
-x = 17 y = 2 end_x = 3 end_y = 53 length = 145
-x = 17 y = 1 end_x = 3 end_y = 53 length = 146
-x = 16 y = 1 end_x = 3 end_y = 53 length = 147
-x = 15 y = 1 end_x = 3 end_y = 53 length = 148
-x = 15 y = 2 end_x = 3 end_y = 53 length = 149
-x = 17 y = 6 end_x = 3 end_y = 53 length = 139
-x = 17 y = 7 end_x = 3 end_y = 53 length = 140
-x = 17 y = 8 end_x = 3 end_y = 53 length = 141
-x = 17 y = 9 end_x = 3 end_y = 53 length = 142
-x = 16 y = 9 end_x = 3 end_y = 53 length = 143
-x = 15 y = 9 end_x = 3 end_y = 53 length = 144
-x = 14 y = 9 end_x = 3 end_y = 53 length = 145
-x = 13 y = 9 end_x = 3 end_y = 53 length = 146
-x = 13 y = 10 end_x = 3 end_y = 53 length = 147
-x = 13 y = 11 end_x = 3 end_y = 53 length = 148
-x = 14 y = 11 end_x = 3 end_y = 53 length = 149
-x = 15 y = 11 end_x = 3 end_y = 53 length = 150
-x = 16 y = 11 end_x = 3 end_y = 53 length = 151
-x = 17 y = 11 end_x = 3 end_y = 53 length = 152
-x = 15 y = 10 end_x = 3 end_y = 53 length = 151
-x = 15 y = 12 end_x = 3 end_y = 53 length = 151
-x = 15 y = 13 end_x = 3 end_y = 53 length = 152
-x = 14 y = 13 end_x = 3 end_y = 53 length = 153
-x = 13 y = 13 end_x = 3 end_y = 53 length = 154
-x = 13 y = 12 end_x = 3 end_y = 53 length = 155
-x = 13 y = 14 end_x = 3 end_y = 53 length = 155
-x = 18 y = 9 end_x = 3 end_y = 53 length = 143
-x = 19 y = 9 end_x = 3 end_y = 53 length = 144
-x = 19 y = 8 end_x = 3 end_y = 53 length = 145
-x = 19 y = 7 end_x = 3 end_y = 53 length = 146
-x = 20 y = 7 end_x = 3 end_y = 53 length = 147
-x = 21 y = 7 end_x = 3 end_y = 53 length = 148
-x = 21 y = 6 end_x = 3 end_y = 53 length = 149
-x = 21 y = 8 end_x = 3 end_y = 53 length = 149
-x = 21 y = 9 end_x = 3 end_y = 53 length = 150
-x = 21 y = 10 end_x = 3 end_y = 53 length = 151
-x = 21 y = 11 end_x = 3 end_y = 53 length = 152
-x = 22 y = 11 end_x = 3 end_y = 53 length = 153
-x = 23 y = 11 end_x = 3 end_y = 53 length = 154
-x = 24 y = 11 end_x = 3 end_y = 53 length = 155
-x = 25 y = 11 end_x = 3 end_y = 53 length = 156
-x = 26 y = 11 end_x = 3 end_y = 53 length = 157
-x = 27 y = 11 end_x = 3 end_y = 53 length = 158
-x = 27 y = 10 end_x = 3 end_y = 53 length = 159
-x = 27 y = 9 end_x = 3 end_y = 53 length = 160
-x = 26 y = 9 end_x = 3 end_y = 53 length = 161
-x = 25 y = 9 end_x = 3 end_y = 53 length = 162
-x = 25 y = 8 end_x = 3 end_y = 53 length = 163
-x = 25 y = 7 end_x = 3 end_y = 53 length = 164
-x = 24 y = 7 end_x = 3 end_y = 53 length = 165
-x = 23 y = 7 end_x = 3 end_y = 53 length = 166
-x = 23 y = 8 end_x = 3 end_y = 53 length = 167
-x = 23 y = 9 end_x = 3 end_y = 53 length = 168
-x = 23 y = 10 end_x = 3 end_y = 53 length = 169
-x = 26 y = 7 end_x = 3 end_y = 53 length = 165
-x = 27 y = 7 end_x = 3 end_y = 53 length = 166
-x = 28 y = 7 end_x = 3 end_y = 53 length = 167
-x = 29 y = 7 end_x = 3 end_y = 53 length = 168
-x = 29 y = 8 end_x = 3 end_y = 53 length = 169
-x = 29 y = 9 end_x = 3 end_y = 53 length = 170
-x = 27 y = 8 end_x = 3 end_y = 53 length = 167
-x = 25 y = 10 end_x = 3 end_y = 53 length = 163
-x = 19 y = 10 end_x = 3 end_y = 53 length = 145
-x = 19 y = 11 end_x = 3 end_y = 53 length = 146
-x = 19 y = 4 end_x = 3 end_y = 53 length = 137
-x = 19 y = 3 end_x = 3 end_y = 53 length = 138
-x = 20 y = 3 end_x = 3 end_y = 53 length = 139
-x = 21 y = 3 end_x = 3 end_y = 53 length = 140
-x = 22 y = 3 end_x = 3 end_y = 53 length = 141
-x = 23 y = 3 end_x = 3 end_y = 53 length = 142
-x = 23 y = 4 end_x = 3 end_y = 53 length = 143
-x = 19 y = 2 end_x = 3 end_y = 53 length = 139
-x = 19 y = 1 end_x = 3 end_y = 53 length = 140
-x = 20 y = 1 end_x = 3 end_y = 53 length = 141
-x = 21 y = 1 end_x = 3 end_y = 53 length = 142
-x = 26 y = 5 end_x = 3 end_y = 53 length = 131
-x = 27 y = 5 end_x = 3 end_y = 53 length = 132
-x = 27 y = 4 end_x = 3 end_y = 53 length = 133
-x = 30 y = 1 end_x = 3 end_y = 53 length = 123
-x = 31 y = 1 end_x = 3 end_y = 53 length = 124
-x = 32 y = 1 end_x = 3 end_y = 53 length = 125
-x = 33 y = 1 end_x = 3 end_y = 53 length = 126
-x = 32 y = 5 end_x = 3 end_y = 53 length = 117
-x = 33 y = 5 end_x = 3 end_y = 53 length = 118
-x = 34 y = 5 end_x = 3 end_y = 53 length = 119
-x = 35 y = 5 end_x = 3 end_y = 53 length = 120
-x = 36 y = 5 end_x = 3 end_y = 53 length = 121
-x = 37 y = 5 end_x = 3 end_y = 53 length = 122
-x = 37 y = 4 end_x = 3 end_y = 53 length = 123
-x = 37 y = 3 end_x = 3 end_y = 53 length = 124
-x = 36 y = 3 end_x = 3 end_y = 53 length = 125
-x = 37 y = 2 end_x = 3 end_y = 53 length = 125
-x = 35 y = 4 end_x = 3 end_y = 53 length = 121
-x = 35 y = 6 end_x = 3 end_y = 53 length = 121
-x = 35 y = 7 end_x = 3 end_y = 53 length = 122
-x = 35 y = 8 end_x = 3 end_y = 53 length = 123
-x = 33 y = 4 end_x = 3 end_y = 53 length = 119
-x = 33 y = 6 end_x = 3 end_y = 53 length = 119
-x = 33 y = 7 end_x = 3 end_y = 53 length = 120
-x = 32 y = 7 end_x = 3 end_y = 53 length = 121
-x = 31 y = 7 end_x = 3 end_y = 53 length = 122
-x = 40 y = 1 end_x = 3 end_y = 53 length = 105
-x = 41 y = 1 end_x = 3 end_y = 53 length = 106
-x = 41 y = 2 end_x = 3 end_y = 53 length = 107
-x = 37 y = 10 end_x = 3 end_y = 53 length = 91
-x = 37 y = 11 end_x = 3 end_y = 53 length = 92
-x = 36 y = 11 end_x = 3 end_y = 53 length = 93
-x = 35 y = 11 end_x = 3 end_y = 53 length = 94
-x = 35 y = 12 end_x = 3 end_y = 53 length = 95
-x = 35 y = 13 end_x = 3 end_y = 53 length = 96
-x = 35 y = 14 end_x = 3 end_y = 53 length = 97
-x = 35 y = 15 end_x = 3 end_y = 53 length = 98
-x = 34 y = 15 end_x = 3 end_y = 53 length = 99
-x = 33 y = 15 end_x = 3 end_y = 53 length = 100
-x = 37 y = 12 end_x = 3 end_y = 53 length = 93
-x = 37 y = 13 end_x = 3 end_y = 53 length = 94
-x = 38 y = 13 end_x = 3 end_y = 53 length = 95
-x = 39 y = 13 end_x = 3 end_y = 53 length = 96
-x = 40 y = 13 end_x = 3 end_y = 53 length = 97
-x = 41 y = 13 end_x = 3 end_y = 53 length = 98
-x = 41 y = 12 end_x = 3 end_y = 53 length = 99
-x = 41 y = 11 end_x = 3 end_y = 53 length = 100
-x = 40 y = 11 end_x = 3 end_y = 53 length = 101
-x = 39 y = 11 end_x = 3 end_y = 53 length = 102
-x = 42 y = 11 end_x = 3 end_y = 53 length = 101
-x = 43 y = 11 end_x = 3 end_y = 53 length = 102
-x = 43 y = 10 end_x = 3 end_y = 53 length = 103
-x = 43 y = 9 end_x = 3 end_y = 53 length = 104
-x = 42 y = 9 end_x = 3 end_y = 53 length = 105
-x = 41 y = 9 end_x = 3 end_y = 53 length = 106
-x = 41 y = 10 end_x = 3 end_y = 53 length = 107
-x = 43 y = 8 end_x = 3 end_y = 53 length = 105
-x = 43 y = 7 end_x = 3 end_y = 53 length = 106
-x = 42 y = 7 end_x = 3 end_y = 53 length = 107
-x = 41 y = 7 end_x = 3 end_y = 53 length = 108
-x = 43 y = 12 end_x = 3 end_y = 53 length = 103
-x = 43 y = 13 end_x = 3 end_y = 53 length = 104
-x = 43 y = 14 end_x = 3 end_y = 53 length = 105
-x = 43 y = 15 end_x = 3 end_y = 53 length = 106
-x = 42 y = 15 end_x = 3 end_y = 53 length = 107
-x = 41 y = 15 end_x = 3 end_y = 53 length = 108
-x = 41 y = 16 end_x = 3 end_y = 53 length = 109
-x = 41 y = 17 end_x = 3 end_y = 53 length = 110
-x = 40 y = 17 end_x = 3 end_y = 53 length = 111
-x = 39 y = 17 end_x = 3 end_y = 53 length = 112
-x = 39 y = 18 end_x = 3 end_y = 53 length = 113
-x = 39 y = 19 end_x = 3 end_y = 53 length = 114
-x = 39 y = 20 end_x = 3 end_y = 53 length = 115
-x = 39 y = 21 end_x = 3 end_y = 53 length = 116
-x = 40 y = 21 end_x = 3 end_y = 53 length = 117
-x = 41 y = 21 end_x = 3 end_y = 53 length = 118
-x = 42 y = 21 end_x = 3 end_y = 53 length = 119
-x = 43 y = 21 end_x = 3 end_y = 53 length = 120
-x = 43 y = 20 end_x = 3 end_y = 53 length = 121
-x = 43 y = 19 end_x = 3 end_y = 53 length = 122
-x = 43 y = 22 end_x = 3 end_y = 53 length = 121
-x = 43 y = 23 end_x = 3 end_y = 53 length = 122
-x = 42 y = 23 end_x = 3 end_y = 53 length = 123
-x = 41 y = 23 end_x = 3 end_y = 53 length = 124
-x = 40 y = 23 end_x = 3 end_y = 53 length = 125
-x = 39 y = 23 end_x = 3 end_y = 53 length = 126
-x = 38 y = 23 end_x = 3 end_y = 53 length = 127
-x = 37 y = 23 end_x = 3 end_y = 53 length = 128
-x = 36 y = 23 end_x = 3 end_y = 53 length = 129
-x = 35 y = 23 end_x = 3 end_y = 53 length = 130
-x = 34 y = 23 end_x = 3 end_y = 53 length = 131
-x = 33 y = 23 end_x = 3 end_y = 53 length = 132
-x = 32 y = 23 end_x = 3 end_y = 53 length = 133
-x = 31 y = 23 end_x = 3 end_y = 53 length = 134
-x = 31 y = 24 end_x = 3 end_y = 53 length = 135
-x = 31 y = 25 end_x = 3 end_y = 53 length = 136
-x = 32 y = 25 end_x = 3 end_y = 53 length = 137
-x = 33 y = 25 end_x = 3 end_y = 53 length = 138
-x = 34 y = 25 end_x = 3 end_y = 53 length = 139
-x = 35 y = 25 end_x = 3 end_y = 53 length = 140
-x = 36 y = 25 end_x = 3 end_y = 53 length = 141
-x = 37 y = 25 end_x = 3 end_y = 53 length = 142
-x = 37 y = 24 end_x = 3 end_y = 53 length = 143
-x = 35 y = 24 end_x = 3 end_y = 53 length = 141
-x = 33 y = 26 end_x = 3 end_y = 53 length = 139
-x = 33 y = 27 end_x = 3 end_y = 53 length = 140
-x = 32 y = 27 end_x = 3 end_y = 53 length = 141
-x = 31 y = 27 end_x = 3 end_y = 53 length = 142
-x = 31 y = 26 end_x = 3 end_y = 53 length = 143
-x = 31 y = 28 end_x = 3 end_y = 53 length = 143
-x = 31 y = 29 end_x = 3 end_y = 53 length = 144
-x = 30 y = 29 end_x = 3 end_y = 53 length = 145
-x = 29 y = 29 end_x = 3 end_y = 53 length = 146
-x = 29 y = 28 end_x = 3 end_y = 53 length = 147
-x = 29 y = 27 end_x = 3 end_y = 53 length = 148
-x = 29 y = 26 end_x = 3 end_y = 53 length = 149
-x = 29 y = 25 end_x = 3 end_y = 53 length = 150
-x = 28 y = 25 end_x = 3 end_y = 53 length = 151
-x = 27 y = 25 end_x = 3 end_y = 53 length = 152
-x = 26 y = 25 end_x = 3 end_y = 53 length = 153
-x = 25 y = 25 end_x = 3 end_y = 53 length = 154
-x = 24 y = 25 end_x = 3 end_y = 53 length = 155
-x = 23 y = 25 end_x = 3 end_y = 53 length = 156
-x = 22 y = 25 end_x = 3 end_y = 53 length = 157
-x = 21 y = 25 end_x = 3 end_y = 53 length = 158
-x = 21 y = 24 end_x = 3 end_y = 53 length = 159
-x = 21 y = 23 end_x = 3 end_y = 53 length = 160
-x = 22 y = 23 end_x = 3 end_y = 53 length = 161
-x = 23 y = 23 end_x = 3 end_y = 53 length = 162
-x = 24 y = 23 end_x = 3 end_y = 53 length = 163
-x = 25 y = 23 end_x = 3 end_y = 53 length = 164
-x = 26 y = 23 end_x = 3 end_y = 53 length = 165
-x = 27 y = 23 end_x = 3 end_y = 53 length = 166
-x = 27 y = 24 end_x = 3 end_y = 53 length = 167
-x = 25 y = 22 end_x = 3 end_y = 53 length = 165
-x = 25 y = 21 end_x = 3 end_y = 53 length = 166
-x = 23 y = 22 end_x = 3 end_y = 53 length = 163
-x = 23 y = 21 end_x = 3 end_y = 53 length = 164
-x = 22 y = 21 end_x = 3 end_y = 53 length = 165
-x = 21 y = 21 end_x = 3 end_y = 53 length = 166
-x = 21 y = 20 end_x = 3 end_y = 53 length = 167
-x = 21 y = 19 end_x = 3 end_y = 53 length = 168
-x = 20 y = 19 end_x = 3 end_y = 53 length = 169
-x = 19 y = 19 end_x = 3 end_y = 53 length = 170
-x = 18 y = 19 end_x = 3 end_y = 53 length = 171
-x = 17 y = 19 end_x = 3 end_y = 53 length = 172
-x = 16 y = 19 end_x = 3 end_y = 53 length = 173
-x = 15 y = 19 end_x = 3 end_y = 53 length = 174
-x = 15 y = 18 end_x = 3 end_y = 53 length = 175
-x = 15 y = 17 end_x = 3 end_y = 53 length = 176
-x = 16 y = 17 end_x = 3 end_y = 53 length = 177
-x = 17 y = 17 end_x = 3 end_y = 53 length = 178
-x = 18 y = 17 end_x = 3 end_y = 53 length = 179
-x = 19 y = 17 end_x = 3 end_y = 53 length = 180
-x = 20 y = 17 end_x = 3 end_y = 53 length = 181
-x = 21 y = 17 end_x = 3 end_y = 53 length = 182
-x = 22 y = 17 end_x = 3 end_y = 53 length = 183
-x = 23 y = 17 end_x = 3 end_y = 53 length = 184
-x = 24 y = 17 end_x = 3 end_y = 53 length = 185
-x = 25 y = 17 end_x = 3 end_y = 53 length = 186
-x = 26 y = 17 end_x = 3 end_y = 53 length = 187
-x = 27 y = 17 end_x = 3 end_y = 53 length = 188
-x = 27 y = 16 end_x = 3 end_y = 53 length = 189
-x = 27 y = 15 end_x = 3 end_y = 53 length = 190
-x = 25 y = 16 end_x = 3 end_y = 53 length = 187
-x = 25 y = 15 end_x = 3 end_y = 53 length = 188
-x = 24 y = 15 end_x = 3 end_y = 53 length = 189
-x = 23 y = 15 end_x = 3 end_y = 53 length = 190
-x = 23 y = 14 end_x = 3 end_y = 53 length = 191
-x = 23 y = 16 end_x = 3 end_y = 53 length = 191
-x = 25 y = 14 end_x = 3 end_y = 53 length = 189
-x = 19 y = 18 end_x = 3 end_y = 53 length = 181
-x = 17 y = 16 end_x = 3 end_y = 53 length = 179
-x = 17 y = 18 end_x = 3 end_y = 53 length = 179
-x = 15 y = 20 end_x = 3 end_y = 53 length = 175
-x = 15 y = 21 end_x = 3 end_y = 53 length = 176
-x = 14 y = 21 end_x = 3 end_y = 53 length = 177
-x = 13 y = 21 end_x = 3 end_y = 53 length = 178
-x = 12 y = 21 end_x = 3 end_y = 53 length = 179
-x = 11 y = 21 end_x = 3 end_y = 53 length = 180
-x = 10 y = 21 end_x = 3 end_y = 53 length = 181
-x = 9 y = 21 end_x = 3 end_y = 53 length = 182
-x = 9 y = 20 end_x = 3 end_y = 53 length = 183
-x = 9 y = 19 end_x = 3 end_y = 53 length = 184
-x = 8 y = 19 end_x = 3 end_y = 53 length = 185
-x = 7 y = 19 end_x = 3 end_y = 53 length = 186
-x = 6 y = 19 end_x = 3 end_y = 53 length = 187
-x = 5 y = 19 end_x = 3 end_y = 53 length = 188
-x = 5 y = 20 end_x = 3 end_y = 53 length = 189
-x = 5 y = 21 end_x = 3 end_y = 53 length = 190
-x = 4 y = 21 end_x = 3 end_y = 53 length = 191
-x = 3 y = 21 end_x = 3 end_y = 53 length = 192
-x = 2 y = 21 end_x = 3 end_y = 53 length = 193
-x = 1 y = 21 end_x = 3 end_y = 53 length = 194
-x = 3 y = 22 end_x = 3 end_y = 53 length = 193
-x = 3 y = 23 end_x = 3 end_y = 53 length = 194
-x = 3 y = 24 end_x = 3 end_y = 53 length = 195
-x = 3 y = 25 end_x = 3 end_y = 53 length = 196
-x = 4 y = 25 end_x = 3 end_y = 53 length = 197
-x = 5 y = 25 end_x = 3 end_y = 53 length = 198
-x = 6 y = 25 end_x = 3 end_y = 53 length = 199
-x = 7 y = 25 end_x = 3 end_y = 53 length = 200
-x = 7 y = 24 end_x = 3 end_y = 53 length = 201
-x = 7 y = 23 end_x = 3 end_y = 53 length = 202
-x = 6 y = 23 end_x = 3 end_y = 53 length = 203
-x = 5 y = 23 end_x = 3 end_y = 53 length = 204
-x = 5 y = 24 end_x = 3 end_y = 53 length = 205
-x = 5 y = 26 end_x = 3 end_y = 53 length = 199
-x = 5 y = 27 end_x = 3 end_y = 53 length = 200
-x = 4 y = 27 end_x = 3 end_y = 53 length = 201
-x = 3 y = 27 end_x = 3 end_y = 53 length = 202
-x = 2 y = 27 end_x = 3 end_y = 53 length = 203
-x = 1 y = 27 end_x = 3 end_y = 53 length = 204
-x = 1 y = 26 end_x = 3 end_y = 53 length = 205
-x = 1 y = 25 end_x = 3 end_y = 53 length = 206
-x = 1 y = 24 end_x = 3 end_y = 53 length = 207
-x = 1 y = 23 end_x = 3 end_y = 53 length = 208
-x = 3 y = 26 end_x = 3 end_y = 53 length = 203
-x = 5 y = 28 end_x = 3 end_y = 53 length = 201
-x = 5 y = 29 end_x = 3 end_y = 53 length = 202
-x = 6 y = 29 end_x = 3 end_y = 53 length = 203
-x = 7 y = 29 end_x = 3 end_y = 53 length = 204
-x = 8 y = 29 end_x = 3 end_y = 53 length = 205
-x = 9 y = 29 end_x = 3 end_y = 53 length = 206
-x = 10 y = 29 end_x = 3 end_y = 53 length = 207
-x = 11 y = 29 end_x = 3 end_y = 53 length = 208
-x = 11 y = 30 end_x = 3 end_y = 53 length = 209
-x = 11 y = 31 end_x = 3 end_y = 53 length = 210
-x = 11 y = 32 end_x = 3 end_y = 53 length = 211
-x = 11 y = 33 end_x = 3 end_y = 53 length = 212
-x = 12 y = 33 end_x = 3 end_y = 53 length = 213
-x = 13 y = 33 end_x = 3 end_y = 53 length = 214
-x = 14 y = 33 end_x = 3 end_y = 53 length = 215
-x = 15 y = 33 end_x = 3 end_y = 53 length = 216
-x = 16 y = 33 end_x = 3 end_y = 53 length = 217
-x = 17 y = 33 end_x = 3 end_y = 53 length = 218
-x = 18 y = 33 end_x = 3 end_y = 53 length = 219
-x = 19 y = 33 end_x = 3 end_y = 53 length = 220
-x = 19 y = 34 end_x = 3 end_y = 53 length = 221
-x = 19 y = 35 end_x = 3 end_y = 53 length = 222
-x = 18 y = 35 end_x = 3 end_y = 53 length = 223
-x = 17 y = 35 end_x = 3 end_y = 53 length = 224
-x = 16 y = 35 end_x = 3 end_y = 53 length = 225
-x = 15 y = 35 end_x = 3 end_y = 53 length = 226
-x = 14 y = 35 end_x = 3 end_y = 53 length = 227
-x = 13 y = 35 end_x = 3 end_y = 53 length = 228
-x = 12 y = 35 end_x = 3 end_y = 53 length = 229
-x = 11 y = 35 end_x = 3 end_y = 53 length = 230
-x = 11 y = 34 end_x = 3 end_y = 53 length = 231
-x = 11 y = 36 end_x = 3 end_y = 53 length = 231
-x = 11 y = 37 end_x = 3 end_y = 53 length = 232
-x = 12 y = 37 end_x = 3 end_y = 53 length = 233
-x = 13 y = 37 end_x = 3 end_y = 53 length = 234
-x = 14 y = 37 end_x = 3 end_y = 53 length = 235
-x = 15 y = 37 end_x = 3 end_y = 53 length = 236
-x = 16 y = 37 end_x = 3 end_y = 53 length = 237
-x = 17 y = 37 end_x = 3 end_y = 53 length = 238
-x = 17 y = 36 end_x = 3 end_y = 53 length = 239
-x = 15 y = 36 end_x = 3 end_y = 53 length = 237
-x = 11 y = 38 end_x = 3 end_y = 53 length = 233
-x = 11 y = 39 end_x = 3 end_y = 53 length = 234
-x = 10 y = 39 end_x = 3 end_y = 53 length = 235
-x = 9 y = 39 end_x = 3 end_y = 53 length = 236
-x = 8 y = 39 end_x = 3 end_y = 53 length = 237
-x = 7 y = 39 end_x = 3 end_y = 53 length = 238
-x = 6 y = 39 end_x = 3 end_y = 53 length = 239
-x = 5 y = 39 end_x = 3 end_y = 53 length = 240
-x = 5 y = 40 end_x = 3 end_y = 53 length = 241
-x = 5 y = 41 end_x = 3 end_y = 53 length = 242
-x = 4 y = 41 end_x = 3 end_y = 53 length = 243
-x = 3 y = 41 end_x = 3 end_y = 53 length = 244
-x = 2 y = 41 end_x = 3 end_y = 53 length = 245
-x = 1 y = 41 end_x = 3 end_y = 53 length = 246
-x = 1 y = 40 end_x = 3 end_y = 53 length = 247
-x = 1 y = 39 end_x = 3 end_y = 53 length = 248
-x = 1 y = 38 end_x = 3 end_y = 53 length = 249
-x = 1 y = 37 end_x = 3 end_y = 53 length = 250
-x = 1 y = 42 end_x = 3 end_y = 53 length = 247
-x = 1 y = 43 end_x = 3 end_y = 53 length = 248
-x = 2 y = 43 end_x = 3 end_y = 53 length = 249
-x = 3 y = 43 end_x = 3 end_y = 53 length = 250
-x = 4 y = 43 end_x = 3 end_y = 53 length = 251
-x = 5 y = 43 end_x = 3 end_y = 53 length = 252
-x = 6 y = 43 end_x = 3 end_y = 53 length = 253
-x = 7 y = 43 end_x = 3 end_y = 53 length = 254
-x = 8 y = 43 end_x = 3 end_y = 53 length = 255
-x = 9 y = 43 end_x = 3 end_y = 53 length = 256
-x = 10 y = 43 end_x = 3 end_y = 53 length = 257
-x = 11 y = 43 end_x = 3 end_y = 53 length = 258
-x = 12 y = 43 end_x = 3 end_y = 53 length = 259
-x = 13 y = 43 end_x = 3 end_y = 53 length = 260
-x = 14 y = 43 end_x = 3 end_y = 53 length = 261
-x = 15 y = 43 end_x = 3 end_y = 53 length = 262
-x = 15 y = 44 end_x = 3 end_y = 53 length = 263
-x = 15 y = 45 end_x = 3 end_y = 53 length = 264
-x = 14 y = 45 end_x = 3 end_y = 53 length = 265
-x = 13 y = 45 end_x = 3 end_y = 53 length = 266
-x = 12 y = 45 end_x = 3 end_y = 53 length = 267
-x = 11 y = 45 end_x = 3 end_y = 53 length = 268
-x = 11 y = 46 end_x = 3 end_y = 53 length = 269
-x = 11 y = 47 end_x = 3 end_y = 53 length = 270
-x = 10 y = 47 end_x = 3 end_y = 53 length = 271
-x = 9 y = 47 end_x = 3 end_y = 53 length = 272
-x = 9 y = 46 end_x = 3 end_y = 53 length = 273
-x = 9 y = 45 end_x = 3 end_y = 53 length = 274
-x = 8 y = 45 end_x = 3 end_y = 53 length = 275
-x = 7 y = 45 end_x = 3 end_y = 53 length = 276
-x = 7 y = 46 end_x = 3 end_y = 53 length = 277
-x = 7 y = 47 end_x = 3 end_y = 53 length = 278
-x = 6 y = 47 end_x = 3 end_y = 53 length = 279
-x = 5 y = 47 end_x = 3 end_y = 53 length = 280
-x = 4 y = 47 end_x = 3 end_y = 53 length = 281
-x = 3 y = 47 end_x = 3 end_y = 53 length = 282
-x = 3 y = 48 end_x = 3 end_y = 53 length = 283
-x = 3 y = 49 end_x = 3 end_y = 53 length = 284
-x = 2 y = 49 end_x = 3 end_y = 53 length = 285
-x = 1 y = 49 end_x = 3 end_y = 53 length = 286
-x = 1 y = 48 end_x = 3 end_y = 53 length = 287
-x = 1 y = 47 end_x = 3 end_y = 53 length = 288
-x = 1 y = 46 end_x = 3 end_y = 53 length = 289
-x = 1 y = 45 end_x = 3 end_y = 53 length = 290
-x = 2 y = 45 end_x = 3 end_y = 53 length = 291
-x = 3 y = 45 end_x = 3 end_y = 53 length = 292
-x = 4 y = 45 end_x = 3 end_y = 53 length = 293
-x = 5 y = 45 end_x = 3 end_y = 53 length = 294
-x = 5 y = 44 end_x = 3 end_y = 53 length = 295
-x = 4 y = 49 end_x = 3 end_y = 53 length = 285
-x = 5 y = 49 end_x = 3 end_y = 53 length = 286
-x = 5 y = 48 end_x = 3 end_y = 53 length = 287
-x = 5 y = 50 end_x = 3 end_y = 53 length = 287
-x = 5 y = 51 end_x = 3 end_y = 53 length = 288
-x = 4 y = 51 end_x = 3 end_y = 53 length = 289
-x = 3 y = 51 end_x = 3 end_y = 53 length = 290
-x = 2 y = 51 end_x = 3 end_y = 53 length = 291
-x = 1 y = 51 end_x = 3 end_y = 53 length = 292
-x = 3 y = 50 end_x = 3 end_y = 53 length = 291
-x = 3 y = 52 end_x = 3 end_y = 53 length = 291
-x = 6 y = 51 end_x = 3 end_y = 53 length = 289
-x = 7 y = 51 end_x = 3 end_y = 53 length = 290
-x = 8 y = 51 end_x = 3 end_y = 53 length = 291
-x = 9 y = 51 end_x = 3 end_y = 53 length = 292
-x = 10 y = 51 end_x = 3 end_y = 53 length = 293
-x = 11 y = 51 end_x = 3 end_y = 53 length = 294
-x = 12 y = 51 end_x = 3 end_y = 53 length = 295
-x = 13 y = 51 end_x = 3 end_y = 53 length = 296
-x = 13 y = 52 end_x = 3 end_y = 53 length = 297
-x = 13 y = 53 end_x = 3 end_y = 53 length = 298
-x = 12 y = 53 end_x = 3 end_y = 53 length = 299
-x = 11 y = 53 end_x = 3 end_y = 53 length = 300
-x = 11 y = 52 end_x = 3 end_y = 53 length = 301
-x = 11 y = 54 end_x = 3 end_y = 53 length = 301
-x = 11 y = 55 end_x = 3 end_y = 53 length = 302
-x = 12 y = 55 end_x = 3 end_y = 53 length = 303
-x = 13 y = 55 end_x = 3 end_y = 53 length = 304
-x = 13 y = 54 end_x = 3 end_y = 53 length = 305
-x = 11 y = 50 end_x = 3 end_y = 53 length = 295
-x = 11 y = 49 end_x = 3 end_y = 53 length = 296
-x = 10 y = 49 end_x = 3 end_y = 53 length = 297
-x = 9 y = 49 end_x = 3 end_y = 53 length = 298
-x = 8 y = 49 end_x = 3 end_y = 53 length = 299
-x = 7 y = 49 end_x = 3 end_y = 53 length = 300
-x = 7 y = 48 end_x = 3 end_y = 53 length = 301
-x = 7 y = 50 end_x = 3 end_y = 53 length = 301
-x = 9 y = 48 end_x = 3 end_y = 53 length = 299
-x = 9 y = 50 end_x = 3 end_y = 53 length = 299
-x = 12 y = 49 end_x = 3 end_y = 53 length = 297
-x = 13 y = 49 end_x = 3 end_y = 53 length = 298
-x = 14 y = 49 end_x = 3 end_y = 53 length = 299
-x = 15 y = 49 end_x = 3 end_y = 53 length = 300
-x = 15 y = 48 end_x = 3 end_y = 53 length = 301
-x = 15 y = 47 end_x = 3 end_y = 53 length = 302
-x = 16 y = 47 end_x = 3 end_y = 53 length = 303
-x = 17 y = 47 end_x = 3 end_y = 53 length = 304
-x = 18 y = 47 end_x = 3 end_y = 53 length = 305
-x = 19 y = 47 end_x = 3 end_y = 53 length = 306
-x = 20 y = 47 end_x = 3 end_y = 53 length = 307
-x = 21 y = 47 end_x = 3 end_y = 53 length = 308
-x = 21 y = 46 end_x = 3 end_y = 53 length = 309
-x = 21 y = 45 end_x = 3 end_y = 53 length = 310
-x = 22 y = 45 end_x = 3 end_y = 53 length = 311
-x = 23 y = 45 end_x = 3 end_y = 53 length = 312
-x = 24 y = 45 end_x = 3 end_y = 53 length = 313
-x = 25 y = 45 end_x = 3 end_y = 53 length = 314
-x = 26 y = 45 end_x = 3 end_y = 53 length = 315
-x = 27 y = 45 end_x = 3 end_y = 53 length = 316
-x = 27 y = 46 end_x = 3 end_y = 53 length = 317
-x = 27 y = 47 end_x = 3 end_y = 53 length = 318
-x = 28 y = 47 end_x = 3 end_y = 53 length = 319
-x = 29 y = 47 end_x = 3 end_y = 53 length = 320
-x = 30 y = 47 end_x = 3 end_y = 53 length = 321
-x = 31 y = 47 end_x = 3 end_y = 53 length = 322
-x = 31 y = 46 end_x = 3 end_y = 53 length = 323
-x = 31 y = 45 end_x = 3 end_y = 53 length = 324
-x = 32 y = 45 end_x = 3 end_y = 53 length = 325
-x = 33 y = 45 end_x = 3 end_y = 53 length = 326
-x = 34 y = 45 end_x = 3 end_y = 53 length = 327
-x = 35 y = 45 end_x = 3 end_y = 53 length = 328
-x = 35 y = 46 end_x = 3 end_y = 53 length = 329
-x = 35 y = 47 end_x = 3 end_y = 53 length = 330
-x = 34 y = 47 end_x = 3 end_y = 53 length = 331
-x = 33 y = 47 end_x = 3 end_y = 53 length = 332
-x = 33 y = 46 end_x = 3 end_y = 53 length = 333
-x = 36 y = 47 end_x = 3 end_y = 53 length = 331
-x = 37 y = 47 end_x = 3 end_y = 53 length = 332
-x = 38 y = 47 end_x = 3 end_y = 53 length = 333
-x = 39 y = 47 end_x = 3 end_y = 53 length = 334
-x = 39 y = 46 end_x = 3 end_y = 53 length = 335
-x = 39 y = 45 end_x = 3 end_y = 53 length = 336
-x = 38 y = 45 end_x = 3 end_y = 53 length = 337
-x = 37 y = 45 end_x = 3 end_y = 53 length = 338
-x = 37 y = 44 end_x = 3 end_y = 53 length = 339
-x = 37 y = 43 end_x = 3 end_y = 53 length = 340
-x = 37 y = 42 end_x = 3 end_y = 53 length = 341
-x = 37 y = 41 end_x = 3 end_y = 53 length = 342
-x = 36 y = 41 end_x = 3 end_y = 53 length = 343
-x = 35 y = 41 end_x = 3 end_y = 53 length = 344
-x = 34 y = 41 end_x = 3 end_y = 53 length = 345
-x = 33 y = 41 end_x = 3 end_y = 53 length = 346
-x = 32 y = 41 end_x = 3 end_y = 53 length = 347
-x = 31 y = 41 end_x = 3 end_y = 53 length = 348
-x = 31 y = 40 end_x = 3 end_y = 53 length = 349
-x = 31 y = 39 end_x = 3 end_y = 53 length = 350
-x = 31 y = 38 end_x = 3 end_y = 53 length = 351
-x = 31 y = 37 end_x = 3 end_y = 53 length = 352
-x = 30 y = 37 end_x = 3 end_y = 53 length = 353
-x = 29 y = 37 end_x = 3 end_y = 53 length = 354
-x = 28 y = 37 end_x = 3 end_y = 53 length = 355
-x = 27 y = 37 end_x = 3 end_y = 53 length = 356
-x = 26 y = 37 end_x = 3 end_y = 53 length = 357
-x = 25 y = 37 end_x = 3 end_y = 53 length = 358
-x = 24 y = 37 end_x = 3 end_y = 53 length = 359
-x = 23 y = 37 end_x = 3 end_y = 53 length = 360
-x = 23 y = 38 end_x = 3 end_y = 53 length = 361
-x = 23 y = 39 end_x = 3 end_y = 53 length = 362
-x = 24 y = 39 end_x = 3 end_y = 53 length = 363
-x = 25 y = 39 end_x = 3 end_y = 53 length = 364
-x = 26 y = 39 end_x = 3 end_y = 53 length = 365
-x = 27 y = 39 end_x = 3 end_y = 53 length = 366
-x = 28 y = 39 end_x = 3 end_y = 53 length = 367
-x = 29 y = 39 end_x = 3 end_y = 53 length = 368
-x = 29 y = 38 end_x = 3 end_y = 53 length = 369
-x = 29 y = 40 end_x = 3 end_y = 53 length = 369
-x = 29 y = 41 end_x = 3 end_y = 53 length = 370
-x = 28 y = 41 end_x = 3 end_y = 53 length = 371
-x = 27 y = 41 end_x = 3 end_y = 53 length = 372
-x = 26 y = 41 end_x = 3 end_y = 53 length = 373
-x = 25 y = 41 end_x = 3 end_y = 53 length = 374
-x = 25 y = 42 end_x = 3 end_y = 53 length = 375
-x = 25 y = 43 end_x = 3 end_y = 53 length = 376
-x = 24 y = 43 end_x = 3 end_y = 53 length = 377
-x = 23 y = 43 end_x = 3 end_y = 53 length = 378
-x = 22 y = 43 end_x = 3 end_y = 53 length = 379
-x = 21 y = 43 end_x = 3 end_y = 53 length = 380
-x = 21 y = 42 end_x = 3 end_y = 53 length = 381
-x = 21 y = 41 end_x = 3 end_y = 53 length = 382
-x = 20 y = 41 end_x = 3 end_y = 53 length = 383
-x = 19 y = 41 end_x = 3 end_y = 53 length = 384
-x = 18 y = 41 end_x = 3 end_y = 53 length = 385
-x = 17 y = 41 end_x = 3 end_y = 53 length = 386
-x = 16 y = 41 end_x = 3 end_y = 53 length = 387
-x = 15 y = 41 end_x = 3 end_y = 53 length = 388
-x = 14 y = 41 end_x = 3 end_y = 53 length = 389
-x = 13 y = 41 end_x = 3 end_y = 53 length = 390
-x = 13 y = 40 end_x = 3 end_y = 53 length = 391
-x = 13 y = 39 end_x = 3 end_y = 53 length = 392
-x = 12 y = 39 end_x = 3 end_y = 53 length = 393
-x = 13 y = 42 end_x = 3 end_y = 53 length = 391
-x = 15 y = 40 end_x = 3 end_y = 53 length = 389
-x = 15 y = 39 end_x = 3 end_y = 53 length = 390
-x = 17 y = 40 end_x = 3 end_y = 53 length = 387
-x = 17 y = 39 end_x = 3 end_y = 53 length = 388
-x = 19 y = 40 end_x = 3 end_y = 53 length = 385
-x = 19 y = 39 end_x = 3 end_y = 53 length = 386
-x = 19 y = 38 end_x = 3 end_y = 53 length = 387
-x = 19 y = 37 end_x = 3 end_y = 53 length = 388
-x = 20 y = 37 end_x = 3 end_y = 53 length = 389
-x = 21 y = 37 end_x = 3 end_y = 53 length = 390
-x = 21 y = 36 end_x = 3 end_y = 53 length = 391
-x = 21 y = 35 end_x = 3 end_y = 53 length = 392
-x = 22 y = 35 end_x = 3 end_y = 53 length = 393
-x = 23 y = 35 end_x = 3 end_y = 53 length = 394
-x = 21 y = 34 end_x = 3 end_y = 53 length = 393
-x = 21 y = 33 end_x = 3 end_y = 53 length = 394
-x = 21 y = 32 end_x = 3 end_y = 53 length = 395
-x = 21 y = 31 end_x = 3 end_y = 53 length = 396
-x = 22 y = 31 end_x = 3 end_y = 53 length = 397
-x = 23 y = 31 end_x = 3 end_y = 53 length = 398
-x = 24 y = 31 end_x = 3 end_y = 53 length = 399
-x = 25 y = 31 end_x = 3 end_y = 53 length = 400
-x = 25 y = 30 end_x = 3 end_y = 53 length = 401
-x = 25 y = 29 end_x = 3 end_y = 53 length = 402
-x = 26 y = 29 end_x = 3 end_y = 53 length = 403
-x = 27 y = 29 end_x = 3 end_y = 53 length = 404
-x = 27 y = 28 end_x = 3 end_y = 53 length = 405
-x = 27 y = 27 end_x = 3 end_y = 53 length = 406
-x = 26 y = 27 end_x = 3 end_y = 53 length = 407
-x = 25 y = 27 end_x = 3 end_y = 53 length = 408
-x = 24 y = 27 end_x = 3 end_y = 53 length = 409
-x = 23 y = 27 end_x = 3 end_y = 53 length = 410
-x = 23 y = 28 end_x = 3 end_y = 53 length = 411
-x = 23 y = 29 end_x = 3 end_y = 53 length = 412
-x = 22 y = 29 end_x = 3 end_y = 53 length = 413
-x = 21 y = 29 end_x = 3 end_y = 53 length = 414
-x = 20 y = 29 end_x = 3 end_y = 53 length = 415
-x = 19 y = 29 end_x = 3 end_y = 53 length = 416
-x = 18 y = 29 end_x = 3 end_y = 53 length = 417
-x = 17 y = 29 end_x = 3 end_y = 53 length = 418
-x = 17 y = 30 end_x = 3 end_y = 53 length = 419
-x = 17 y = 31 end_x = 3 end_y = 53 length = 420
-x = 16 y = 31 end_x = 3 end_y = 53 length = 421
-x = 15 y = 31 end_x = 3 end_y = 53 length = 422
-x = 14 y = 31 end_x = 3 end_y = 53 length = 423
-x = 13 y = 31 end_x = 3 end_y = 53 length = 424
-x = 13 y = 30 end_x = 3 end_y = 53 length = 425
-x = 13 y = 29 end_x = 3 end_y = 53 length = 426
-x = 14 y = 29 end_x = 3 end_y = 53 length = 427
-x = 15 y = 29 end_x = 3 end_y = 53 length = 428
-x = 15 y = 28 end_x = 3 end_y = 53 length = 429
-x = 15 y = 27 end_x = 3 end_y = 53 length = 430
-x = 16 y = 27 end_x = 3 end_y = 53 length = 431
-x = 17 y = 27 end_x = 3 end_y = 53 length = 432
-x = 15 y = 26 end_x = 3 end_y = 53 length = 431
-x = 15 y = 25 end_x = 3 end_y = 53 length = 432
-x = 16 y = 25 end_x = 3 end_y = 53 length = 433
-x = 17 y = 25 end_x = 3 end_y = 53 length = 434
-x = 18 y = 25 end_x = 3 end_y = 53 length = 435
-x = 19 y = 25 end_x = 3 end_y = 53 length = 436
-x = 19 y = 26 end_x = 3 end_y = 53 length = 437
-x = 19 y = 27 end_x = 3 end_y = 53 length = 438
-x = 17 y = 24 end_x = 3 end_y = 53 length = 435
-x = 17 y = 23 end_x = 3 end_y = 53 length = 436
-x = 18 y = 23 end_x = 3 end_y = 53 length = 437
-x = 19 y = 23 end_x = 3 end_y = 53 length = 438
-x = 17 y = 22 end_x = 3 end_y = 53 length = 437
-x = 17 y = 21 end_x = 3 end_y = 53 length = 438
-x = 16 y = 21 end_x = 3 end_y = 53 length = 439
-x = 18 y = 21 end_x = 3 end_y = 53 length = 439
-x = 19 y = 21 end_x = 3 end_y = 53 length = 440
-x = 19 y = 20 end_x = 3 end_y = 53 length = 441
-x = 15 y = 30 end_x = 3 end_y = 53 length = 429
-x = 13 y = 28 end_x = 3 end_y = 53 length = 427
-x = 13 y = 27 end_x = 3 end_y = 53 length = 428
-x = 12 y = 27 end_x = 3 end_y = 53 length = 429
-x = 11 y = 27 end_x = 3 end_y = 53 length = 430
-x = 13 y = 26 end_x = 3 end_y = 53 length = 429
-x = 13 y = 25 end_x = 3 end_y = 53 length = 430
-x = 12 y = 25 end_x = 3 end_y = 53 length = 431
-x = 11 y = 25 end_x = 3 end_y = 53 length = 432
-x = 10 y = 25 end_x = 3 end_y = 53 length = 433
-x = 9 y = 25 end_x = 3 end_y = 53 length = 434
-x = 9 y = 24 end_x = 3 end_y = 53 length = 435
-x = 9 y = 23 end_x = 3 end_y = 53 length = 436
-x = 10 y = 23 end_x = 3 end_y = 53 length = 437
-x = 11 y = 23 end_x = 3 end_y = 53 length = 438
-x = 11 y = 22 end_x = 3 end_y = 53 length = 439
-x = 9 y = 26 end_x = 3 end_y = 53 length = 435
-x = 9 y = 27 end_x = 3 end_y = 53 length = 436
-x = 8 y = 27 end_x = 3 end_y = 53 length = 437
-x = 7 y = 27 end_x = 3 end_y = 53 length = 438
-x = 7 y = 28 end_x = 3 end_y = 53 length = 439
-x = 13 y = 24 end_x = 3 end_y = 53 length = 431
-x = 13 y = 23 end_x = 3 end_y = 53 length = 432
-x = 14 y = 23 end_x = 3 end_y = 53 length = 433
-x = 15 y = 23 end_x = 3 end_y = 53 length = 434
-x = 15 y = 22 end_x = 3 end_y = 53 length = 435
-x = 13 y = 32 end_x = 3 end_y = 53 length = 425
-x = 18 y = 31 end_x = 3 end_y = 53 length = 421
-x = 19 y = 31 end_x = 3 end_y = 53 length = 422
-x = 19 y = 30 end_x = 3 end_y = 53 length = 423
-x = 17 y = 32 end_x = 3 end_y = 53 length = 421
-x = 21 y = 28 end_x = 3 end_y = 53 length = 415
-x = 21 y = 27 end_x = 3 end_y = 53 length = 416
-x = 21 y = 26 end_x = 3 end_y = 53 length = 417
-x = 25 y = 26 end_x = 3 end_y = 53 length = 409
-x = 27 y = 30 end_x = 3 end_y = 53 length = 405
-x = 27 y = 31 end_x = 3 end_y = 53 length = 406
-x = 25 y = 32 end_x = 3 end_y = 53 length = 401
-x = 25 y = 33 end_x = 3 end_y = 53 length = 402
-x = 26 y = 33 end_x = 3 end_y = 53 length = 403
-x = 27 y = 33 end_x = 3 end_y = 53 length = 404
-x = 27 y = 34 end_x = 3 end_y = 53 length = 405
-x = 27 y = 35 end_x = 3 end_y = 53 length = 406
-x = 28 y = 35 end_x = 3 end_y = 53 length = 407
-x = 29 y = 35 end_x = 3 end_y = 53 length = 408
-x = 29 y = 34 end_x = 3 end_y = 53 length = 409
-x = 29 y = 33 end_x = 3 end_y = 53 length = 410
-x = 29 y = 32 end_x = 3 end_y = 53 length = 411
-x = 29 y = 31 end_x = 3 end_y = 53 length = 412
-x = 30 y = 31 end_x = 3 end_y = 53 length = 413
-x = 31 y = 31 end_x = 3 end_y = 53 length = 414
-x = 32 y = 31 end_x = 3 end_y = 53 length = 415
-x = 33 y = 31 end_x = 3 end_y = 53 length = 416
-x = 34 y = 31 end_x = 3 end_y = 53 length = 417
-x = 35 y = 31 end_x = 3 end_y = 53 length = 418
-x = 35 y = 30 end_x = 3 end_y = 53 length = 419
-x = 35 y = 29 end_x = 3 end_y = 53 length = 420
-x = 34 y = 29 end_x = 3 end_y = 53 length = 421
-x = 33 y = 29 end_x = 3 end_y = 53 length = 422
-x = 33 y = 30 end_x = 3 end_y = 53 length = 423
-x = 36 y = 29 end_x = 3 end_y = 53 length = 421
-x = 37 y = 29 end_x = 3 end_y = 53 length = 422
-x = 37 y = 28 end_x = 3 end_y = 53 length = 423
-x = 37 y = 27 end_x = 3 end_y = 53 length = 424
-x = 36 y = 27 end_x = 3 end_y = 53 length = 425
-x = 35 y = 27 end_x = 3 end_y = 53 length = 426
-x = 35 y = 28 end_x = 3 end_y = 53 length = 427
-x = 38 y = 27 end_x = 3 end_y = 53 length = 425
-x = 39 y = 27 end_x = 3 end_y = 53 length = 426
-x = 39 y = 26 end_x = 3 end_y = 53 length = 427
-x = 39 y = 25 end_x = 3 end_y = 53 length = 428
-x = 40 y = 25 end_x = 3 end_y = 53 length = 429
-x = 41 y = 25 end_x = 3 end_y = 53 length = 430
-x = 41 y = 26 end_x = 3 end_y = 53 length = 431
-x = 41 y = 27 end_x = 3 end_y = 53 length = 432
-x = 41 y = 28 end_x = 3 end_y = 53 length = 433
-x = 41 y = 29 end_x = 3 end_y = 53 length = 434
-x = 42 y = 29 end_x = 3 end_y = 53 length = 435
-x = 43 y = 29 end_x = 3 end_y = 53 length = 436
-x = 43 y = 28 end_x = 3 end_y = 53 length = 437
-x = 43 y = 27 end_x = 3 end_y = 53 length = 438
-x = 43 y = 26 end_x = 3 end_y = 53 length = 439
-x = 43 y = 25 end_x = 3 end_y = 53 length = 440
-x = 41 y = 30 end_x = 3 end_y = 53 length = 435
-x = 41 y = 31 end_x = 3 end_y = 53 length = 436
-x = 40 y = 31 end_x = 3 end_y = 53 length = 437
-x = 39 y = 31 end_x = 3 end_y = 53 length = 438
-x = 38 y = 31 end_x = 3 end_y = 53 length = 439
-x = 37 y = 31 end_x = 3 end_y = 53 length = 440
-x = 37 y = 30 end_x = 3 end_y = 53 length = 441
-x = 37 y = 32 end_x = 3 end_y = 53 length = 441
-x = 37 y = 33 end_x = 3 end_y = 53 length = 442
-x = 36 y = 33 end_x = 3 end_y = 53 length = 443
-x = 35 y = 33 end_x = 3 end_y = 53 length = 444
-x = 34 y = 33 end_x = 3 end_y = 53 length = 445
-x = 33 y = 33 end_x = 3 end_y = 53 length = 446
-x = 32 y = 33 end_x = 3 end_y = 53 length = 447
-x = 31 y = 33 end_x = 3 end_y = 53 length = 448
-x = 31 y = 34 end_x = 3 end_y = 53 length = 449
-x = 31 y = 35 end_x = 3 end_y = 53 length = 450
-x = 32 y = 35 end_x = 3 end_y = 53 length = 451
-x = 33 y = 35 end_x = 3 end_y = 53 length = 452
-x = 33 y = 34 end_x = 3 end_y = 53 length = 453
-x = 31 y = 36 end_x = 3 end_y = 53 length = 451
-x = 35 y = 32 end_x = 3 end_y = 53 length = 445
-x = 35 y = 34 end_x = 3 end_y = 53 length = 445
-x = 35 y = 35 end_x = 3 end_y = 53 length = 446
-x = 35 y = 36 end_x = 3 end_y = 53 length = 447
-x = 35 y = 37 end_x = 3 end_y = 53 length = 448
-x = 36 y = 37 end_x = 3 end_y = 53 length = 449
-x = 37 y = 37 end_x = 3 end_y = 53 length = 450
-x = 38 y = 37 end_x = 3 end_y = 53 length = 451
-x = 39 y = 37 end_x = 3 end_y = 53 length = 452
-x = 39 y = 36 end_x = 3 end_y = 53 length = 453
-x = 39 y = 35 end_x = 3 end_y = 53 length = 454
-x = 38 y = 35 end_x = 3 end_y = 53 length = 455
-x = 37 y = 35 end_x = 3 end_y = 53 length = 456
-x = 39 y = 34 end_x = 3 end_y = 53 length = 455
-x = 39 y = 33 end_x = 3 end_y = 53 length = 456
-x = 38 y = 33 end_x = 3 end_y = 53 length = 457
-x = 40 y = 33 end_x = 3 end_y = 53 length = 457
-x = 41 y = 33 end_x = 3 end_y = 53 length = 458
-x = 41 y = 34 end_x = 3 end_y = 53 length = 459
-x = 41 y = 35 end_x = 3 end_y = 53 length = 460
-x = 39 y = 38 end_x = 3 end_y = 53 length = 453
-x = 39 y = 39 end_x = 3 end_y = 53 length = 454
-x = 40 y = 39 end_x = 3 end_y = 53 length = 455
-x = 41 y = 39 end_x = 3 end_y = 53 length = 456
-x = 41 y = 38 end_x = 3 end_y = 53 length = 457
-x = 41 y = 37 end_x = 3 end_y = 53 length = 458
-x = 42 y = 37 end_x = 3 end_y = 53 length = 459
-x = 43 y = 37 end_x = 3 end_y = 53 length = 460
-x = 43 y = 36 end_x = 3 end_y = 53 length = 461
-x = 43 y = 35 end_x = 3 end_y = 53 length = 462
-x = 43 y = 34 end_x = 3 end_y = 53 length = 463
-x = 43 y = 33 end_x = 3 end_y = 53 length = 464
-x = 43 y = 32 end_x = 3 end_y = 53 length = 465
-x = 43 y = 31 end_x = 3 end_y = 53 length = 466
-x = 41 y = 40 end_x = 3 end_y = 53 length = 457
-x = 41 y = 41 end_x = 3 end_y = 53 length = 458
-x = 41 y = 42 end_x = 3 end_y = 53 length = 459
-x = 41 y = 43 end_x = 3 end_y = 53 length = 460
-x = 40 y = 43 end_x = 3 end_y = 53 length = 461
-x = 39 y = 43 end_x = 3 end_y = 53 length = 462
-x = 39 y = 44 end_x = 3 end_y = 53 length = 463
-x = 41 y = 44 end_x = 3 end_y = 53 length = 461
-x = 41 y = 45 end_x = 3 end_y = 53 length = 462
-x = 40 y = 45 end_x = 3 end_y = 53 length = 463
-x = 41 y = 46 end_x = 3 end_y = 53 length = 463
-x = 41 y = 47 end_x = 3 end_y = 53 length = 464
-x = 41 y = 48 end_x = 3 end_y = 53 length = 465
-x = 41 y = 49 end_x = 3 end_y = 53 length = 466
-x = 40 y = 49 end_x = 3 end_y = 53 length = 467
-x = 39 y = 49 end_x = 3 end_y = 53 length = 468
-x = 39 y = 50 end_x = 3 end_y = 53 length = 469
-x = 39 y = 51 end_x = 3 end_y = 53 length = 470
-x = 38 y = 51 end_x = 3 end_y = 53 length = 471
-x = 37 y = 51 end_x = 3 end_y = 53 length = 472
-x = 40 y = 51 end_x = 3 end_y = 53 length = 471
-x = 41 y = 51 end_x = 3 end_y = 53 length = 472
-x = 42 y = 51 end_x = 3 end_y = 53 length = 473
-x = 43 y = 51 end_x = 3 end_y = 53 length = 474
-x = 43 y = 50 end_x = 3 end_y = 53 length = 475
-x = 43 y = 49 end_x = 3 end_y = 53 length = 476
-x = 43 y = 48 end_x = 3 end_y = 53 length = 477
-x = 43 y = 47 end_x = 3 end_y = 53 length = 478
-x = 43 y = 52 end_x = 3 end_y = 53 length = 475
-x = 43 y = 53 end_x = 3 end_y = 53 length = 476
-x = 42 y = 53 end_x = 3 end_y = 53 length = 477
-x = 41 y = 53 end_x = 3 end_y = 53 length = 478
-x = 41 y = 52 end_x = 3 end_y = 53 length = 479
-x = 39 y = 52 end_x = 3 end_y = 53 length = 471
-x = 39 y = 53 end_x = 3 end_y = 53 length = 472
-x = 38 y = 53 end_x = 3 end_y = 53 length = 473
-x = 37 y = 53 end_x = 3 end_y = 53 length = 474
-x = 37 y = 54 end_x = 3 end_y = 53 length = 475
-x = 37 y = 55 end_x = 3 end_y = 53 length = 476
-x = 36 y = 55 end_x = 3 end_y = 53 length = 477
-x = 35 y = 55 end_x = 3 end_y = 53 length = 478
-x = 35 y = 54 end_x = 3 end_y = 53 length = 479
-x = 35 y = 53 end_x = 3 end_y = 53 length = 480
-x = 34 y = 53 end_x = 3 end_y = 53 length = 481
-x = 33 y = 53 end_x = 3 end_y = 53 length = 482
-x = 32 y = 53 end_x = 3 end_y = 53 length = 483
-x = 31 y = 53 end_x = 3 end_y = 53 length = 484
-x = 31 y = 52 end_x = 3 end_y = 53 length = 485
-x = 31 y = 51 end_x = 3 end_y = 53 length = 486
-x = 30 y = 51 end_x = 3 end_y = 53 length = 487
-x = 29 y = 51 end_x = 3 end_y = 53 length = 488
-x = 28 y = 51 end_x = 3 end_y = 53 length = 489
-x = 27 y = 51 end_x = 3 end_y = 53 length = 490
-x = 26 y = 51 end_x = 3 end_y = 53 length = 491
-x = 25 y = 51 end_x = 3 end_y = 53 length = 492
-x = 24 y = 51 end_x = 3 end_y = 53 length = 493
-x = 23 y = 51 end_x = 3 end_y = 53 length = 494
-x = 23 y = 52 end_x = 3 end_y = 53 length = 495
-x = 23 y = 53 end_x = 3 end_y = 53 length = 496
-x = 22 y = 53 end_x = 3 end_y = 53 length = 497
-x = 21 y = 53 end_x = 3 end_y = 53 length = 498
-x = 20 y = 53 end_x = 3 end_y = 53 length = 499
-x = 19 y = 53 end_x = 3 end_y = 53 length = 500
-x = 19 y = 52 end_x = 3 end_y = 53 length = 501
-x = 19 y = 51 end_x = 3 end_y = 53 length = 502
-x = 18 y = 51 end_x = 3 end_y = 53 length = 503
-x = 17 y = 51 end_x = 3 end_y = 53 length = 504
-x = 16 y = 51 end_x = 3 end_y = 53 length = 505
-x = 15 y = 51 end_x = 3 end_y = 53 length = 506
-x = 15 y = 50 end_x = 3 end_y = 53 length = 507
-x = 15 y = 52 end_x = 3 end_y = 53 length = 507
-x = 15 y = 53 end_x = 3 end_y = 53 length = 508
-x = 16 y = 53 end_x = 3 end_y = 53 length = 509
-x = 17 y = 53 end_x = 3 end_y = 53 length = 510
-x = 17 y = 54 end_x = 3 end_y = 53 length = 511
-x = 17 y = 55 end_x = 3 end_y = 53 length = 512
-x = 16 y = 55 end_x = 3 end_y = 53 length = 513
-x = 15 y = 55 end_x = 3 end_y = 53 length = 514
-x = 15 y = 54 end_x = 3 end_y = 53 length = 515
-x = 15 y = 56 end_x = 3 end_y = 53 length = 515
-x = 15 y = 57 end_x = 3 end_y = 53 length = 516
-x = 14 y = 57 end_x = 3 end_y = 53 length = 517
-x = 13 y = 57 end_x = 3 end_y = 53 length = 518
-x = 16 y = 57 end_x = 3 end_y = 53 length = 517
-x = 17 y = 57 end_x = 3 end_y = 53 length = 518
-x = 15 y = 58 end_x = 3 end_y = 53 length = 517
-x = 15 y = 59 end_x = 3 end_y = 53 length = 518
-x = 14 y = 59 end_x = 3 end_y = 53 length = 519
-x = 13 y = 59 end_x = 3 end_y = 53 length = 520
-x = 13 y = 60 end_x = 3 end_y = 53 length = 521
-x = 13 y = 61 end_x = 3 end_y = 53 length = 522
-x = 14 y = 61 end_x = 3 end_y = 53 length = 523
-x = 15 y = 61 end_x = 3 end_y = 53 length = 524
-x = 15 y = 60 end_x = 3 end_y = 53 length = 525
-x = 13 y = 62 end_x = 3 end_y = 53 length = 523
-x = 13 y = 63 end_x = 3 end_y = 53 length = 524
-x = 17 y = 50 end_x = 3 end_y = 53 length = 505
-x = 17 y = 49 end_x = 3 end_y = 53 length = 506
-x = 18 y = 49 end_x = 3 end_y = 53 length = 507
-x = 19 y = 49 end_x = 3 end_y = 53 length = 508
-x = 19 y = 48 end_x = 3 end_y = 53 length = 509
-x = 19 y = 50 end_x = 3 end_y = 53 length = 509
-x = 17 y = 48 end_x = 3 end_y = 53 length = 507
-x = 20 y = 51 end_x = 3 end_y = 53 length = 503
-x = 21 y = 51 end_x = 3 end_y = 53 length = 504
-x = 21 y = 50 end_x = 3 end_y = 53 length = 505
-x = 21 y = 49 end_x = 3 end_y = 53 length = 506
-x = 21 y = 52 end_x = 3 end_y = 53 length = 505
-x = 19 y = 54 end_x = 3 end_y = 53 length = 501
-x = 19 y = 55 end_x = 3 end_y = 53 length = 502
-x = 19 y = 56 end_x = 3 end_y = 53 length = 503
-x = 19 y = 57 end_x = 3 end_y = 53 length = 504
-x = 20 y = 57 end_x = 3 end_y = 53 length = 505
-x = 21 y = 57 end_x = 3 end_y = 53 length = 506
-x = 21 y = 56 end_x = 3 end_y = 53 length = 507
-x = 21 y = 55 end_x = 3 end_y = 53 length = 508
-x = 22 y = 55 end_x = 3 end_y = 53 length = 509
-x = 23 y = 55 end_x = 3 end_y = 53 length = 510
-x = 23 y = 54 end_x = 3 end_y = 53 length = 511
-x = 19 y = 58 end_x = 3 end_y = 53 length = 505
-x = 19 y = 59 end_x = 3 end_y = 53 length = 506
-x = 18 y = 59 end_x = 3 end_y = 53 length = 507
-x = 17 y = 59 end_x = 3 end_y = 53 length = 508
-x = 17 y = 60 end_x = 3 end_y = 53 length = 509
-x = 17 y = 61 end_x = 3 end_y = 53 length = 510
-x = 18 y = 61 end_x = 3 end_y = 53 length = 511
-x = 19 y = 61 end_x = 3 end_y = 53 length = 512
-x = 19 y = 60 end_x = 3 end_y = 53 length = 513
-x = 20 y = 59 end_x = 3 end_y = 53 length = 507
-x = 21 y = 59 end_x = 3 end_y = 53 length = 508
-x = 21 y = 60 end_x = 3 end_y = 53 length = 509
-x = 21 y = 61 end_x = 3 end_y = 53 length = 510
-x = 21 y = 62 end_x = 3 end_y = 53 length = 511
-x = 21 y = 63 end_x = 3 end_y = 53 length = 512
-x = 21 y = 64 end_x = 3 end_y = 53 length = 513
-x = 21 y = 65 end_x = 3 end_y = 53 length = 514
-x = 22 y = 65 end_x = 3 end_y = 53 length = 515
-x = 23 y = 65 end_x = 3 end_y = 53 length = 516
-x = 24 y = 65 end_x = 3 end_y = 53 length = 517
-x = 25 y = 65 end_x = 3 end_y = 53 length = 518
-x = 26 y = 65 end_x = 3 end_y = 53 length = 519
-x = 27 y = 65 end_x = 3 end_y = 53 length = 520
-x = 25 y = 64 end_x = 3 end_y = 53 length = 519
-x = 25 y = 63 end_x = 3 end_y = 53 length = 520
-x = 24 y = 63 end_x = 3 end_y = 53 length = 521
-x = 23 y = 63 end_x = 3 end_y = 53 length = 522
-x = 26 y = 63 end_x = 3 end_y = 53 length = 521
-x = 27 y = 63 end_x = 3 end_y = 53 length = 522
-x = 24 y = 53 end_x = 3 end_y = 53 length = 497
-x = 25 y = 53 end_x = 3 end_y = 53 length = 498
-x = 26 y = 53 end_x = 3 end_y = 53 length = 499
-x = 27 y = 53 end_x = 3 end_y = 53 length = 500
-x = 28 y = 53 end_x = 3 end_y = 53 length = 501
-x = 29 y = 53 end_x = 3 end_y = 53 length = 502
-x = 29 y = 52 end_x = 3 end_y = 53 length = 503
-x = 29 y = 54 end_x = 3 end_y = 53 length = 503
-x = 29 y = 55 end_x = 3 end_y = 53 length = 504
-x = 28 y = 55 end_x = 3 end_y = 53 length = 505
-x = 27 y = 55 end_x = 3 end_y = 53 length = 506
-x = 26 y = 55 end_x = 3 end_y = 53 length = 507
-x = 25 y = 55 end_x = 3 end_y = 53 length = 508
-x = 25 y = 54 end_x = 3 end_y = 53 length = 509
-x = 27 y = 54 end_x = 3 end_y = 53 length = 507
-x = 30 y = 55 end_x = 3 end_y = 53 length = 505
-x = 31 y = 55 end_x = 3 end_y = 53 length = 506
-x = 32 y = 55 end_x = 3 end_y = 53 length = 507
-x = 33 y = 55 end_x = 3 end_y = 53 length = 508
-x = 33 y = 54 end_x = 3 end_y = 53 length = 509
-x = 31 y = 56 end_x = 3 end_y = 53 length = 507
-x = 31 y = 57 end_x = 3 end_y = 53 length = 508
-x = 30 y = 57 end_x = 3 end_y = 53 length = 509
-x = 29 y = 57 end_x = 3 end_y = 53 length = 510
-x = 28 y = 57 end_x = 3 end_y = 53 length = 511
-x = 27 y = 57 end_x = 3 end_y = 53 length = 512
-x = 26 y = 57 end_x = 3 end_y = 53 length = 513
-x = 25 y = 57 end_x = 3 end_y = 53 length = 514
-x = 24 y = 57 end_x = 3 end_y = 53 length = 515
-x = 23 y = 57 end_x = 3 end_y = 53 length = 516
-x = 23 y = 58 end_x = 3 end_y = 53 length = 517
-x = 23 y = 59 end_x = 3 end_y = 53 length = 518
-x = 24 y = 59 end_x = 3 end_y = 53 length = 519
-x = 25 y = 59 end_x = 3 end_y = 53 length = 520
-x = 25 y = 60 end_x = 3 end_y = 53 length = 521
-x = 25 y = 61 end_x = 3 end_y = 53 length = 522
-x = 24 y = 61 end_x = 3 end_y = 53 length = 523
-x = 23 y = 61 end_x = 3 end_y = 53 length = 524
-x = 23 y = 60 end_x = 3 end_y = 53 length = 525
-x = 26 y = 61 end_x = 3 end_y = 53 length = 523
-x = 27 y = 61 end_x = 3 end_y = 53 length = 524
-x = 28 y = 61 end_x = 3 end_y = 53 length = 525
-x = 29 y = 61 end_x = 3 end_y = 53 length = 526
-x = 29 y = 60 end_x = 3 end_y = 53 length = 527
-x = 29 y = 59 end_x = 3 end_y = 53 length = 528
-x = 28 y = 59 end_x = 3 end_y = 53 length = 529
-x = 27 y = 59 end_x = 3 end_y = 53 length = 530
-x = 27 y = 58 end_x = 3 end_y = 53 length = 531
-x = 27 y = 60 end_x = 3 end_y = 53 length = 531
-x = 29 y = 62 end_x = 3 end_y = 53 length = 527
-x = 29 y = 63 end_x = 3 end_y = 53 length = 528
-x = 30 y = 63 end_x = 3 end_y = 53 length = 529
-x = 31 y = 63 end_x = 3 end_y = 53 length = 530
-x = 31 y = 62 end_x = 3 end_y = 53 length = 531
-x = 31 y = 61 end_x = 3 end_y = 53 length = 532
-x = 32 y = 61 end_x = 3 end_y = 53 length = 533
-x = 33 y = 61 end_x = 3 end_y = 53 length = 534
-x = 34 y = 61 end_x = 3 end_y = 53 length = 535
-x = 35 y = 61 end_x = 3 end_y = 53 length = 536
-x = 36 y = 61 end_x = 3 end_y = 53 length = 537
-x = 37 y = 61 end_x = 3 end_y = 53 length = 538
-x = 38 y = 61 end_x = 3 end_y = 53 length = 539
-x = 39 y = 61 end_x = 3 end_y = 53 length = 540
-x = 40 y = 61 end_x = 3 end_y = 53 length = 541
-x = 41 y = 61 end_x = 3 end_y = 53 length = 542
-x = 42 y = 61 end_x = 3 end_y = 53 length = 543
-x = 43 y = 61 end_x = 3 end_y = 53 length = 544
-x = 41 y = 62 end_x = 3 end_y = 53 length = 543
-x = 41 y = 63 end_x = 3 end_y = 53 length = 544
-x = 40 y = 63 end_x = 3 end_y = 53 length = 545
-x = 39 y = 63 end_x = 3 end_y = 53 length = 546
-x = 38 y = 63 end_x = 3 end_y = 53 length = 547
-x = 37 y = 63 end_x = 3 end_y = 53 length = 548
-x = 36 y = 63 end_x = 3 end_y = 53 length = 549
-x = 35 y = 63 end_x = 3 end_y = 53 length = 550
-x = 34 y = 63 end_x = 3 end_y = 53 length = 551
-x = 33 y = 63 end_x = 3 end_y = 53 length = 552
-x = 33 y = 62 end_x = 3 end_y = 53 length = 553
-x = 35 y = 62 end_x = 3 end_y = 53 length = 551
-x = 37 y = 64 end_x = 3 end_y = 53 length = 549
-x = 37 y = 65 end_x = 3 end_y = 53 length = 550
-x = 38 y = 65 end_x = 3 end_y = 53 length = 551
-x = 39 y = 65 end_x = 3 end_y = 53 length = 552
-x = 39 y = 64 end_x = 3 end_y = 53 length = 553
-x = 39 y = 62 end_x = 3 end_y = 53 length = 547
-x = 39 y = 60 end_x = 3 end_y = 53 length = 541
-x = 39 y = 59 end_x = 3 end_y = 53 length = 542
-x = 40 y = 59 end_x = 3 end_y = 53 length = 543
-x = 41 y = 59 end_x = 3 end_y = 53 length = 544
-x = 42 y = 59 end_x = 3 end_y = 53 length = 545
-x = 43 y = 59 end_x = 3 end_y = 53 length = 546
-x = 43 y = 58 end_x = 3 end_y = 53 length = 547
-x = 43 y = 57 end_x = 3 end_y = 53 length = 548
-x = 42 y = 57 end_x = 3 end_y = 53 length = 549
-x = 41 y = 57 end_x = 3 end_y = 53 length = 550
-x = 41 y = 56 end_x = 3 end_y = 53 length = 551
-x = 41 y = 55 end_x = 3 end_y = 53 length = 552
-x = 42 y = 55 end_x = 3 end_y = 53 length = 553
-x = 43 y = 55 end_x = 3 end_y = 53 length = 554
-x = 43 y = 56 end_x = 3 end_y = 53 length = 555
-x = 41 y = 58 end_x = 3 end_y = 53 length = 551
-x = 39 y = 58 end_x = 3 end_y = 53 length = 543
-x = 39 y = 57 end_x = 3 end_y = 53 length = 544
-x = 38 y = 57 end_x = 3 end_y = 53 length = 545
-x = 37 y = 57 end_x = 3 end_y = 53 length = 546
-x = 37 y = 60 end_x = 3 end_y = 53 length = 539
-x = 37 y = 59 end_x = 3 end_y = 53 length = 540
-x = 36 y = 59 end_x = 3 end_y = 53 length = 541
-x = 35 y = 59 end_x = 3 end_y = 53 length = 542
-x = 31 y = 64 end_x = 3 end_y = 53 length = 531
-x = 31 y = 65 end_x = 3 end_y = 53 length = 532
-x = 30 y = 65 end_x = 3 end_y = 53 length = 533
-x = 29 y = 65 end_x = 3 end_y = 53 length = 534
-x = 29 y = 66 end_x = 3 end_y = 53 length = 535
-x = 29 y = 67 end_x = 3 end_y = 53 length = 536
-x = 28 y = 67 end_x = 3 end_y = 53 length = 537
-x = 27 y = 67 end_x = 3 end_y = 53 length = 538
-x = 26 y = 67 end_x = 3 end_y = 53 length = 539
-x = 25 y = 67 end_x = 3 end_y = 53 length = 540
-x = 24 y = 67 end_x = 3 end_y = 53 length = 541
-x = 23 y = 67 end_x = 3 end_y = 53 length = 542
-x = 25 y = 68 end_x = 3 end_y = 53 length = 541
-x = 25 y = 69 end_x = 3 end_y = 53 length = 542
-x = 24 y = 69 end_x = 3 end_y = 53 length = 543
-x = 23 y = 69 end_x = 3 end_y = 53 length = 544
-x = 23 y = 70 end_x = 3 end_y = 53 length = 545
-x = 23 y = 71 end_x = 3 end_y = 53 length = 546
-x = 22 y = 71 end_x = 3 end_y = 53 length = 547
-x = 21 y = 71 end_x = 3 end_y = 53 length = 548
-x = 21 y = 70 end_x = 3 end_y = 53 length = 549
-x = 21 y = 69 end_x = 3 end_y = 53 length = 550
-x = 20 y = 69 end_x = 3 end_y = 53 length = 551
-x = 19 y = 69 end_x = 3 end_y = 53 length = 552
-x = 18 y = 69 end_x = 3 end_y = 53 length = 553
-x = 17 y = 69 end_x = 3 end_y = 53 length = 554
-x = 16 y = 69 end_x = 3 end_y = 53 length = 555
-x = 15 y = 69 end_x = 3 end_y = 53 length = 556
-x = 14 y = 69 end_x = 3 end_y = 53 length = 557
-x = 13 y = 69 end_x = 3 end_y = 53 length = 558
-x = 12 y = 69 end_x = 3 end_y = 53 length = 559
-x = 11 y = 69 end_x = 3 end_y = 53 length = 560
-x = 11 y = 70 end_x = 3 end_y = 53 length = 561
-x = 11 y = 71 end_x = 3 end_y = 53 length = 562
-x = 10 y = 71 end_x = 3 end_y = 53 length = 563
-x = 9 y = 71 end_x = 3 end_y = 53 length = 564
-x = 8 y = 71 end_x = 3 end_y = 53 length = 565
-x = 7 y = 71 end_x = 3 end_y = 53 length = 566
-x = 6 y = 71 end_x = 3 end_y = 53 length = 567
-x = 5 y = 71 end_x = 3 end_y = 53 length = 568
-x = 4 y = 71 end_x = 3 end_y = 53 length = 569
-x = 3 y = 71 end_x = 3 end_y = 53 length = 570
-x = 2 y = 71 end_x = 3 end_y = 53 length = 571
-x = 1 y = 71 end_x = 3 end_y = 53 length = 572
-x = 1 y = 70 end_x = 3 end_y = 53 length = 573
-x = 1 y = 69 end_x = 3 end_y = 53 length = 574
-x = 2 y = 69 end_x = 3 end_y = 53 length = 575
-x = 3 y = 69 end_x = 3 end_y = 53 length = 576
-x = 4 y = 69 end_x = 3 end_y = 53 length = 577
-x = 5 y = 69 end_x = 3 end_y = 53 length = 578
-x = 5 y = 68 end_x = 3 end_y = 53 length = 579
-x = 5 y = 67 end_x = 3 end_y = 53 length = 580
-x = 6 y = 67 end_x = 3 end_y = 53 length = 581
-x = 7 y = 67 end_x = 3 end_y = 53 length = 582
-x = 8 y = 67 end_x = 3 end_y = 53 length = 583
-x = 9 y = 67 end_x = 3 end_y = 53 length = 584
-x = 9 y = 66 end_x = 3 end_y = 53 length = 585
-x = 9 y = 65 end_x = 3 end_y = 53 length = 586
-x = 8 y = 65 end_x = 3 end_y = 53 length = 587
-x = 7 y = 65 end_x = 3 end_y = 53 length = 588
-x = 7 y = 66 end_x = 3 end_y = 53 length = 589
-x = 10 y = 65 end_x = 3 end_y = 53 length = 587
-x = 11 y = 65 end_x = 3 end_y = 53 length = 588
-x = 12 y = 65 end_x = 3 end_y = 53 length = 589
-x = 13 y = 65 end_x = 3 end_y = 53 length = 590
-x = 13 y = 66 end_x = 3 end_y = 53 length = 591
-x = 13 y = 67 end_x = 3 end_y = 53 length = 592
-x = 12 y = 67 end_x = 3 end_y = 53 length = 593
-x = 11 y = 67 end_x = 3 end_y = 53 length = 594
-x = 14 y = 67 end_x = 3 end_y = 53 length = 593
-x = 15 y = 67 end_x = 3 end_y = 53 length = 594
-x = 16 y = 67 end_x = 3 end_y = 53 length = 595
-x = 17 y = 67 end_x = 3 end_y = 53 length = 596
-x = 18 y = 67 end_x = 3 end_y = 53 length = 597
-x = 19 y = 67 end_x = 3 end_y = 53 length = 598
-x = 20 y = 67 end_x = 3 end_y = 53 length = 599
-x = 21 y = 67 end_x = 3 end_y = 53 length = 600
-x = 19 y = 66 end_x = 3 end_y = 53 length = 599
-x = 19 y = 65 end_x = 3 end_y = 53 length = 600
-x = 18 y = 65 end_x = 3 end_y = 53 length = 601
-x = 17 y = 65 end_x = 3 end_y = 53 length = 602
-x = 16 y = 65 end_x = 3 end_y = 53 length = 603
-x = 15 y = 65 end_x = 3 end_y = 53 length = 604
-x = 15 y = 64 end_x = 3 end_y = 53 length = 605
-x = 15 y = 63 end_x = 3 end_y = 53 length = 606
-x = 16 y = 63 end_x = 3 end_y = 53 length = 607
-x = 17 y = 63 end_x = 3 end_y = 53 length = 608
-x = 18 y = 63 end_x = 3 end_y = 53 length = 609
-x = 19 y = 63 end_x = 3 end_y = 53 length = 610
-x = 19 y = 64 end_x = 3 end_y = 53 length = 611
-x = 15 y = 66 end_x = 3 end_y = 53 length = 605
-x = 17 y = 66 end_x = 3 end_y = 53 length = 603
-x = 17 y = 68 end_x = 3 end_y = 53 length = 597
-x = 9 y = 68 end_x = 3 end_y = 53 length = 585
-x = 9 y = 69 end_x = 3 end_y = 53 length = 586
-x = 8 y = 69 end_x = 3 end_y = 53 length = 587
-x = 7 y = 69 end_x = 3 end_y = 53 length = 588
-x = 9 y = 70 end_x = 3 end_y = 53 length = 587
-x = 5 y = 66 end_x = 3 end_y = 53 length = 581
-x = 5 y = 65 end_x = 3 end_y = 53 length = 582
-x = 5 y = 64 end_x = 3 end_y = 53 length = 583
-x = 5 y = 63 end_x = 3 end_y = 53 length = 584
-x = 6 y = 63 end_x = 3 end_y = 53 length = 585
-x = 7 y = 63 end_x = 3 end_y = 53 length = 586
-x = 8 y = 63 end_x = 3 end_y = 53 length = 587
-x = 9 y = 63 end_x = 3 end_y = 53 length = 588
-x = 10 y = 63 end_x = 3 end_y = 53 length = 589
-x = 11 y = 63 end_x = 3 end_y = 53 length = 590
-x = 11 y = 62 end_x = 3 end_y = 53 length = 591
-x = 11 y = 61 end_x = 3 end_y = 53 length = 592
-x = 11 y = 60 end_x = 3 end_y = 53 length = 593
-x = 11 y = 59 end_x = 3 end_y = 53 length = 594
-x = 11 y = 58 end_x = 3 end_y = 53 length = 595
-x = 11 y = 57 end_x = 3 end_y = 53 length = 596
-x = 10 y = 57 end_x = 3 end_y = 53 length = 597
-x = 9 y = 57 end_x = 3 end_y = 53 length = 598
-x = 9 y = 56 end_x = 3 end_y = 53 length = 599
-x = 9 y = 55 end_x = 3 end_y = 53 length = 600
-x = 8 y = 55 end_x = 3 end_y = 53 length = 601
-x = 7 y = 55 end_x = 3 end_y = 53 length = 602
-x = 6 y = 55 end_x = 3 end_y = 53 length = 603
-x = 5 y = 55 end_x = 3 end_y = 53 length = 604
-x = 7 y = 54 end_x = 3 end_y = 53 length = 603
-x = 7 y = 53 end_x = 3 end_y = 53 length = 604
-x = 6 y = 53 end_x = 3 end_y = 53 length = 605
-x = 5 y = 53 end_x = 3 end_y = 53 length = 606
-x = 4 y = 53 end_x = 3 end_y = 53 length = 607
-x = 5 y = 52 end_x = 3 end_y = 53 length = 607
-x = 8 y = 53 end_x = 3 end_y = 53 length = 605
-x = 9 y = 53 end_x = 3 end_y = 53 length = 606
-x = 9 y = 52 end_x = 3 end_y = 53 length = 607
-x = 9 y = 54 end_x = 3 end_y = 53 length = 607
-x = 7 y = 52 end_x = 3 end_y = 53 length = 605
-x = 7 y = 56 end_x = 3 end_y = 53 length = 603
-x = 7 y = 57 end_x = 3 end_y = 53 length = 604
-x = 6 y = 57 end_x = 3 end_y = 53 length = 605
-x = 5 y = 57 end_x = 3 end_y = 53 length = 606
-x = 4 y = 57 end_x = 3 end_y = 53 length = 607
-x = 3 y = 57 end_x = 3 end_y = 53 length = 608
-x = 3 y = 56 end_x = 3 end_y = 53 length = 609
-x = 3 y = 55 end_x = 3 end_y = 53 length = 610
-x = 3 y = 58 end_x = 3 end_y = 53 length = 609
-x = 3 y = 59 end_x = 3 end_y = 53 length = 610
-x = 2 y = 59 end_x = 3 end_y = 53 length = 611
-x = 1 y = 59 end_x = 3 end_y = 53 length = 612
-x = 1 y = 58 end_x = 3 end_y = 53 length = 613
-x = 1 y = 57 end_x = 3 end_y = 53 length = 614
-x = 1 y = 60 end_x = 3 end_y = 53 length = 613
-x = 1 y = 61 end_x = 3 end_y = 53 length = 614
-x = 2 y = 61 end_x = 3 end_y = 53 length = 615
-x = 3 y = 61 end_x = 3 end_y = 53 length = 616
-x = 4 y = 61 end_x = 3 end_y = 53 length = 617
-x = 5 y = 61 end_x = 3 end_y = 53 length = 618
-x = 3 y = 62 end_x = 3 end_y = 53 length = 617
-x = 3 y = 63 end_x = 3 end_y = 53 length = 618
-x = 3 y = 64 end_x = 3 end_y = 53 length = 619
-x = 3 y = 65 end_x = 3 end_y = 53 length = 620
-x = 2 y = 65 end_x = 3 end_y = 53 length = 621
-x = 1 y = 65 end_x = 3 end_y = 53 length = 622
-x = 1 y = 66 end_x = 3 end_y = 53 length = 623
-x = 1 y = 67 end_x = 3 end_y = 53 length = 624
-x = 2 y = 67 end_x = 3 end_y = 53 length = 625
-x = 3 y = 67 end_x = 3 end_y = 53 length = 626
-x = 3 y = 68 end_x = 3 end_y = 53 length = 627
-x = 1 y = 68 end_x = 3 end_y = 53 length = 625
-x = 1 y = 62 end_x = 3 end_y = 53 length = 615
-x = 1 y = 63 end_x = 3 end_y = 53 length = 616
-x = 4 y = 59 end_x = 3 end_y = 53 length = 611
-x = 5 y = 59 end_x = 3 end_y = 53 length = 612
-x = 6 y = 59 end_x = 3 end_y = 53 length = 613
-x = 7 y = 59 end_x = 3 end_y = 53 length = 614
-x = 8 y = 59 end_x = 3 end_y = 53 length = 615
-x = 9 y = 59 end_x = 3 end_y = 53 length = 616
-x = 9 y = 58 end_x = 3 end_y = 53 length = 617
-x = 7 y = 58 end_x = 3 end_y = 53 length = 615
-x = 7 y = 60 end_x = 3 end_y = 53 length = 615
-x = 7 y = 61 end_x = 3 end_y = 53 length = 616
-x = 8 y = 61 end_x = 3 end_y = 53 length = 617
-x = 9 y = 61 end_x = 3 end_y = 53 length = 618
-x = 9 y = 62 end_x = 3 end_y = 53 length = 619
-x = 7 y = 62 end_x = 3 end_y = 53 length = 617
-x = 5 y = 58 end_x = 3 end_y = 53 length = 613
-x = 5 y = 70 end_x = 3 end_y = 53 length = 579
-x = 3 y = 70 end_x = 3 end_y = 53 length = 577
-x = 1 y = 72 end_x = 3 end_y = 53 length = 573
-x = 1 y = 73 end_x = 3 end_y = 53 length = 574
-x = 2 y = 73 end_x = 3 end_y = 53 length = 575
-x = 3 y = 73 end_x = 3 end_y = 53 length = 576
-x = 4 y = 73 end_x = 3 end_y = 53 length = 577
-x = 5 y = 73 end_x = 3 end_y = 53 length = 578
-x = 6 y = 73 end_x = 3 end_y = 53 length = 579
-x = 7 y = 73 end_x = 3 end_y = 53 length = 580
-x = 7 y = 72 end_x = 3 end_y = 53 length = 581
-x = 7 y = 74 end_x = 3 end_y = 53 length = 581
-x = 7 y = 75 end_x = 3 end_y = 53 length = 582
-x = 6 y = 75 end_x = 3 end_y = 53 length = 583
-x = 5 y = 75 end_x = 3 end_y = 53 length = 584
-x = 4 y = 75 end_x = 3 end_y = 53 length = 585
-x = 3 y = 75 end_x = 3 end_y = 53 length = 586
-x = 3 y = 74 end_x = 3 end_y = 53 length = 587
-x = 5 y = 74 end_x = 3 end_y = 53 length = 585
-x = 5 y = 76 end_x = 3 end_y = 53 length = 585
-x = 5 y = 77 end_x = 3 end_y = 53 length = 586
-x = 5 y = 78 end_x = 3 end_y = 53 length = 587
-x = 5 y = 79 end_x = 3 end_y = 53 length = 588
-x = 4 y = 79 end_x = 3 end_y = 53 length = 589
-x = 3 y = 79 end_x = 3 end_y = 53 length = 590
-x = 2 y = 79 end_x = 3 end_y = 53 length = 591
-x = 1 y = 79 end_x = 3 end_y = 53 length = 592
-x = 1 y = 78 end_x = 3 end_y = 53 length = 593
-x = 1 y = 77 end_x = 3 end_y = 53 length = 594
-x = 3 y = 78 end_x = 3 end_y = 53 length = 591
-x = 3 y = 77 end_x = 3 end_y = 53 length = 592
-x = 3 y = 72 end_x = 3 end_y = 53 length = 577
-x = 1 y = 74 end_x = 3 end_y = 53 length = 575
-x = 1 y = 75 end_x = 3 end_y = 53 length = 576
-x = 11 y = 72 end_x = 3 end_y = 53 length = 563
-x = 11 y = 73 end_x = 3 end_y = 53 length = 564
-x = 10 y = 73 end_x = 3 end_y = 53 length = 565
-x = 9 y = 73 end_x = 3 end_y = 53 length = 566
-x = 15 y = 70 end_x = 3 end_y = 53 length = 557
-x = 15 y = 71 end_x = 3 end_y = 53 length = 558
-x = 14 y = 71 end_x = 3 end_y = 53 length = 559
-x = 13 y = 71 end_x = 3 end_y = 53 length = 560
-x = 15 y = 72 end_x = 3 end_y = 53 length = 559
-x = 15 y = 73 end_x = 3 end_y = 53 length = 560
-x = 14 y = 73 end_x = 3 end_y = 53 length = 561
-x = 13 y = 73 end_x = 3 end_y = 53 length = 562
-x = 16 y = 73 end_x = 3 end_y = 53 length = 561
-x = 17 y = 73 end_x = 3 end_y = 53 length = 562
-x = 17 y = 72 end_x = 3 end_y = 53 length = 563
-x = 17 y = 71 end_x = 3 end_y = 53 length = 564
-x = 17 y = 70 end_x = 3 end_y = 53 length = 565
-x = 17 y = 74 end_x = 3 end_y = 53 length = 563
-x = 17 y = 75 end_x = 3 end_y = 53 length = 564
-x = 17 y = 76 end_x = 3 end_y = 53 length = 565
-x = 17 y = 77 end_x = 3 end_y = 53 length = 566
-x = 18 y = 77 end_x = 3 end_y = 53 length = 567
-x = 19 y = 77 end_x = 3 end_y = 53 length = 568
-x = 19 y = 76 end_x = 3 end_y = 53 length = 569
-x = 19 y = 75 end_x = 3 end_y = 53 length = 570
-x = 20 y = 75 end_x = 3 end_y = 53 length = 571
-x = 21 y = 75 end_x = 3 end_y = 53 length = 572
-x = 22 y = 75 end_x = 3 end_y = 53 length = 573
-x = 23 y = 75 end_x = 3 end_y = 53 length = 574
-x = 24 y = 75 end_x = 3 end_y = 53 length = 575
-x = 25 y = 75 end_x = 3 end_y = 53 length = 576
-x = 25 y = 74 end_x = 3 end_y = 53 length = 577
-x = 25 y = 73 end_x = 3 end_y = 53 length = 578
-x = 24 y = 73 end_x = 3 end_y = 53 length = 579
-x = 23 y = 73 end_x = 3 end_y = 53 length = 580
-x = 22 y = 73 end_x = 3 end_y = 53 length = 581
-x = 21 y = 73 end_x = 3 end_y = 53 length = 582
-x = 20 y = 73 end_x = 3 end_y = 53 length = 583
-x = 19 y = 73 end_x = 3 end_y = 53 length = 584
-x = 19 y = 74 end_x = 3 end_y = 53 length = 585
-x = 21 y = 72 end_x = 3 end_y = 53 length = 583
-x = 23 y = 72 end_x = 3 end_y = 53 length = 581
-x = 26 y = 73 end_x = 3 end_y = 53 length = 579
-x = 27 y = 73 end_x = 3 end_y = 53 length = 580
-x = 28 y = 73 end_x = 3 end_y = 53 length = 581
-x = 29 y = 73 end_x = 3 end_y = 53 length = 582
-x = 29 y = 72 end_x = 3 end_y = 53 length = 583
-x = 29 y = 71 end_x = 3 end_y = 53 length = 584
-x = 28 y = 71 end_x = 3 end_y = 53 length = 585
-x = 27 y = 71 end_x = 3 end_y = 53 length = 586
-x = 26 y = 71 end_x = 3 end_y = 53 length = 587
-x = 25 y = 71 end_x = 3 end_y = 53 length = 588
-x = 24 y = 71 end_x = 3 end_y = 53 length = 589
-x = 27 y = 72 end_x = 3 end_y = 53 length = 587
-x = 30 y = 71 end_x = 3 end_y = 53 length = 585
-x = 31 y = 71 end_x = 3 end_y = 53 length = 586
-x = 32 y = 71 end_x = 3 end_y = 53 length = 587
-x = 33 y = 71 end_x = 3 end_y = 53 length = 588
-x = 34 y = 71 end_x = 3 end_y = 53 length = 589
-x = 35 y = 71 end_x = 3 end_y = 53 length = 590
-x = 35 y = 72 end_x = 3 end_y = 53 length = 591
-x = 35 y = 73 end_x = 3 end_y = 53 length = 592
-x = 36 y = 73 end_x = 3 end_y = 53 length = 593
-x = 37 y = 73 end_x = 3 end_y = 53 length = 594
-x = 38 y = 73 end_x = 3 end_y = 53 length = 595
-x = 39 y = 73 end_x = 3 end_y = 53 length = 596
-x = 39 y = 72 end_x = 3 end_y = 53 length = 597
-x = 39 y = 71 end_x = 3 end_y = 53 length = 598
-x = 40 y = 71 end_x = 3 end_y = 53 length = 599
-x = 41 y = 71 end_x = 3 end_y = 53 length = 600
-x = 41 y = 70 end_x = 3 end_y = 53 length = 601
-x = 41 y = 69 end_x = 3 end_y = 53 length = 602
-x = 42 y = 69 end_x = 3 end_y = 53 length = 603
-x = 43 y = 69 end_x = 3 end_y = 53 length = 604
-x = 41 y = 68 end_x = 3 end_y = 53 length = 603
-x = 41 y = 67 end_x = 3 end_y = 53 length = 604
-x = 40 y = 67 end_x = 3 end_y = 53 length = 605
-x = 39 y = 67 end_x = 3 end_y = 53 length = 606
-x = 38 y = 67 end_x = 3 end_y = 53 length = 607
-x = 37 y = 67 end_x = 3 end_y = 53 length = 608
-x = 36 y = 67 end_x = 3 end_y = 53 length = 609
-x = 35 y = 67 end_x = 3 end_y = 53 length = 610
-x = 35 y = 66 end_x = 3 end_y = 53 length = 611
-x = 35 y = 65 end_x = 3 end_y = 53 length = 612
-x = 34 y = 65 end_x = 3 end_y = 53 length = 613
-x = 33 y = 65 end_x = 3 end_y = 53 length = 614
-x = 33 y = 66 end_x = 3 end_y = 53 length = 615
-x = 33 y = 67 end_x = 3 end_y = 53 length = 616
-x = 32 y = 67 end_x = 3 end_y = 53 length = 617
-x = 31 y = 67 end_x = 3 end_y = 53 length = 618
-x = 31 y = 66 end_x = 3 end_y = 53 length = 619
-x = 31 y = 68 end_x = 3 end_y = 53 length = 619
-x = 31 y = 69 end_x = 3 end_y = 53 length = 620
-x = 32 y = 69 end_x = 3 end_y = 53 length = 621
-x = 33 y = 69 end_x = 3 end_y = 53 length = 622
-x = 34 y = 69 end_x = 3 end_y = 53 length = 623
-x = 35 y = 69 end_x = 3 end_y = 53 length = 624
-x = 36 y = 69 end_x = 3 end_y = 53 length = 625
-x = 37 y = 69 end_x = 3 end_y = 53 length = 626
-x = 37 y = 70 end_x = 3 end_y = 53 length = 627
-x = 37 y = 71 end_x = 3 end_y = 53 length = 628
-x = 37 y = 72 end_x = 3 end_y = 53 length = 629
-x = 31 y = 70 end_x = 3 end_y = 53 length = 621
-x = 39 y = 68 end_x = 3 end_y = 53 length = 607
-x = 39 y = 69 end_x = 3 end_y = 53 length = 608
-x = 39 y = 70 end_x = 3 end_y = 53 length = 609
-x = 42 y = 67 end_x = 3 end_y = 53 length = 605
-x = 43 y = 67 end_x = 3 end_y = 53 length = 606
-x = 41 y = 72 end_x = 3 end_y = 53 length = 601
-x = 41 y = 73 end_x = 3 end_y = 53 length = 602
-x = 42 y = 73 end_x = 3 end_y = 53 length = 603
-x = 43 y = 73 end_x = 3 end_y = 53 length = 604
-x = 43 y = 72 end_x = 3 end_y = 53 length = 605
-x = 43 y = 71 end_x = 3 end_y = 53 length = 606
-x = 39 y = 74 end_x = 3 end_y = 53 length = 597
-x = 39 y = 75 end_x = 3 end_y = 53 length = 598
-x = 38 y = 75 end_x = 3 end_y = 53 length = 599
-x = 37 y = 75 end_x = 3 end_y = 53 length = 600
-x = 40 y = 75 end_x = 3 end_y = 53 length = 599
-x = 41 y = 75 end_x = 3 end_y = 53 length = 600
-x = 42 y = 75 end_x = 3 end_y = 53 length = 601
-x = 43 y = 75 end_x = 3 end_y = 53 length = 602
-x = 41 y = 76 end_x = 3 end_y = 53 length = 601
-x = 41 y = 77 end_x = 3 end_y = 53 length = 602
-x = 40 y = 77 end_x = 3 end_y = 53 length = 603
-x = 39 y = 77 end_x = 3 end_y = 53 length = 604
-x = 39 y = 76 end_x = 3 end_y = 53 length = 605
-x = 41 y = 78 end_x = 3 end_y = 53 length = 603
-x = 41 y = 79 end_x = 3 end_y = 53 length = 604
-x = 40 y = 79 end_x = 3 end_y = 53 length = 605
-x = 39 y = 79 end_x = 3 end_y = 53 length = 606
-x = 38 y = 79 end_x = 3 end_y = 53 length = 607
-x = 37 y = 79 end_x = 3 end_y = 53 length = 608
-x = 37 y = 80 end_x = 3 end_y = 53 length = 609
-x = 37 y = 81 end_x = 3 end_y = 53 length = 610
-x = 39 y = 80 end_x = 3 end_y = 53 length = 607
-x = 39 y = 81 end_x = 3 end_y = 53 length = 608
-x = 40 y = 81 end_x = 3 end_y = 53 length = 609
-x = 41 y = 81 end_x = 3 end_y = 53 length = 610
-x = 42 y = 81 end_x = 3 end_y = 53 length = 611
-x = 43 y = 81 end_x = 3 end_y = 53 length = 612
-x = 43 y = 82 end_x = 3 end_y = 53 length = 613
-x = 43 y = 83 end_x = 3 end_y = 53 length = 614
-x = 42 y = 83 end_x = 3 end_y = 53 length = 615
-x = 41 y = 83 end_x = 3 end_y = 53 length = 616
-x = 40 y = 83 end_x = 3 end_y = 53 length = 617
-x = 39 y = 83 end_x = 3 end_y = 53 length = 618
-x = 38 y = 83 end_x = 3 end_y = 53 length = 619
-x = 37 y = 83 end_x = 3 end_y = 53 length = 620
-x = 36 y = 83 end_x = 3 end_y = 53 length = 621
-x = 35 y = 83 end_x = 3 end_y = 53 length = 622
-x = 35 y = 82 end_x = 3 end_y = 53 length = 623
-x = 35 y = 81 end_x = 3 end_y = 53 length = 624
-x = 35 y = 80 end_x = 3 end_y = 53 length = 625
-x = 35 y = 79 end_x = 3 end_y = 53 length = 626
-x = 34 y = 79 end_x = 3 end_y = 53 length = 627
-x = 33 y = 79 end_x = 3 end_y = 53 length = 628
-x = 33 y = 78 end_x = 3 end_y = 53 length = 629
-x = 33 y = 77 end_x = 3 end_y = 53 length = 630
-x = 32 y = 77 end_x = 3 end_y = 53 length = 631
-x = 31 y = 77 end_x = 3 end_y = 53 length = 632
-x = 30 y = 77 end_x = 3 end_y = 53 length = 633
-x = 29 y = 77 end_x = 3 end_y = 53 length = 634
-x = 28 y = 77 end_x = 3 end_y = 53 length = 635
-x = 27 y = 77 end_x = 3 end_y = 53 length = 636
-x = 27 y = 78 end_x = 3 end_y = 53 length = 637
-x = 27 y = 79 end_x = 3 end_y = 53 length = 638
-x = 27 y = 80 end_x = 3 end_y = 53 length = 639
-x = 27 y = 81 end_x = 3 end_y = 53 length = 640
-x = 28 y = 81 end_x = 3 end_y = 53 length = 641
-x = 29 y = 81 end_x = 3 end_y = 53 length = 642
-x = 30 y = 81 end_x = 3 end_y = 53 length = 643
-x = 31 y = 81 end_x = 3 end_y = 53 length = 644
-x = 32 y = 81 end_x = 3 end_y = 53 length = 645
-x = 33 y = 81 end_x = 3 end_y = 53 length = 646
-x = 33 y = 82 end_x = 3 end_y = 53 length = 647
-x = 33 y = 83 end_x = 3 end_y = 53 length = 648
-x = 33 y = 84 end_x = 3 end_y = 53 length = 649
-x = 33 y = 85 end_x = 3 end_y = 53 length = 650
-x = 34 y = 85 end_x = 3 end_y = 53 length = 651
-x = 35 y = 85 end_x = 3 end_y = 53 length = 652
-x = 35 y = 84 end_x = 3 end_y = 53 length = 653
-x = 31 y = 80 end_x = 3 end_y = 53 length = 645
-x = 31 y = 79 end_x = 3 end_y = 53 length = 646
-x = 30 y = 79 end_x = 3 end_y = 53 length = 647
-x = 29 y = 79 end_x = 3 end_y = 53 length = 648
-x = 29 y = 80 end_x = 3 end_y = 53 length = 649
-x = 31 y = 78 end_x = 3 end_y = 53 length = 647
-x = 31 y = 82 end_x = 3 end_y = 53 length = 645
-x = 31 y = 83 end_x = 3 end_y = 53 length = 646
-x = 30 y = 83 end_x = 3 end_y = 53 length = 647
-x = 29 y = 83 end_x = 3 end_y = 53 length = 648
-x = 28 y = 83 end_x = 3 end_y = 53 length = 649
-x = 27 y = 83 end_x = 3 end_y = 53 length = 650
-x = 26 y = 83 end_x = 3 end_y = 53 length = 651
-x = 25 y = 83 end_x = 3 end_y = 53 length = 652
-x = 24 y = 83 end_x = 3 end_y = 53 length = 653
-x = 23 y = 83 end_x = 3 end_y = 53 length = 654
-x = 22 y = 83 end_x = 3 end_y = 53 length = 655
-x = 21 y = 83 end_x = 3 end_y = 53 length = 656
-x = 20 y = 83 end_x = 3 end_y = 53 length = 657
-x = 19 y = 83 end_x = 3 end_y = 53 length = 658
-x = 18 y = 83 end_x = 3 end_y = 53 length = 659
-x = 17 y = 83 end_x = 3 end_y = 53 length = 660
-x = 17 y = 82 end_x = 3 end_y = 53 length = 661
-x = 17 y = 81 end_x = 3 end_y = 53 length = 662
-x = 18 y = 81 end_x = 3 end_y = 53 length = 663
-x = 19 y = 81 end_x = 3 end_y = 53 length = 664
-x = 19 y = 80 end_x = 3 end_y = 53 length = 665
-x = 19 y = 79 end_x = 3 end_y = 53 length = 666
-x = 20 y = 79 end_x = 3 end_y = 53 length = 667
-x = 21 y = 79 end_x = 3 end_y = 53 length = 668
-x = 21 y = 78 end_x = 3 end_y = 53 length = 669
-x = 21 y = 77 end_x = 3 end_y = 53 length = 670
-x = 22 y = 77 end_x = 3 end_y = 53 length = 671
-x = 23 y = 77 end_x = 3 end_y = 53 length = 672
-x = 24 y = 77 end_x = 3 end_y = 53 length = 673
-x = 25 y = 77 end_x = 3 end_y = 53 length = 674
-x = 25 y = 76 end_x = 3 end_y = 53 length = 675
-x = 25 y = 78 end_x = 3 end_y = 53 length = 675
-x = 25 y = 79 end_x = 3 end_y = 53 length = 676
-x = 25 y = 80 end_x = 3 end_y = 53 length = 677
-x = 25 y = 81 end_x = 3 end_y = 53 length = 678
-x = 23 y = 76 end_x = 3 end_y = 53 length = 673
-x = 23 y = 78 end_x = 3 end_y = 53 length = 673
-x = 23 y = 79 end_x = 3 end_y = 53 length = 674
-x = 23 y = 80 end_x = 3 end_y = 53 length = 675
-x = 23 y = 81 end_x = 3 end_y = 53 length = 676
-x = 22 y = 81 end_x = 3 end_y = 53 length = 677
-x = 21 y = 81 end_x = 3 end_y = 53 length = 678
-x = 23 y = 82 end_x = 3 end_y = 53 length = 677
-x = 21 y = 76 end_x = 3 end_y = 53 length = 671
-x = 19 y = 78 end_x = 3 end_y = 53 length = 667
-x = 17 y = 80 end_x = 3 end_y = 53 length = 663
-x = 17 y = 79 end_x = 3 end_y = 53 length = 664
-x = 16 y = 79 end_x = 3 end_y = 53 length = 665
-x = 15 y = 79 end_x = 3 end_y = 53 length = 666
-x = 15 y = 78 end_x = 3 end_y = 53 length = 667
-x = 15 y = 77 end_x = 3 end_y = 53 length = 668
-x = 14 y = 77 end_x = 3 end_y = 53 length = 669
-x = 13 y = 77 end_x = 3 end_y = 53 length = 670
-x = 12 y = 77 end_x = 3 end_y = 53 length = 671
-x = 11 y = 77 end_x = 3 end_y = 53 length = 672
-x = 11 y = 76 end_x = 3 end_y = 53 length = 673
-x = 11 y = 75 end_x = 3 end_y = 53 length = 674
-x = 10 y = 75 end_x = 3 end_y = 53 length = 675
-x = 9 y = 75 end_x = 3 end_y = 53 length = 676
-x = 12 y = 75 end_x = 3 end_y = 53 length = 675
-x = 13 y = 75 end_x = 3 end_y = 53 length = 676
-x = 14 y = 75 end_x = 3 end_y = 53 length = 677
-x = 15 y = 75 end_x = 3 end_y = 53 length = 678
-x = 15 y = 74 end_x = 3 end_y = 53 length = 679
-x = 15 y = 76 end_x = 3 end_y = 53 length = 679
-x = 13 y = 76 end_x = 3 end_y = 53 length = 677
-x = 13 y = 78 end_x = 3 end_y = 53 length = 671
-x = 13 y = 79 end_x = 3 end_y = 53 length = 672
-x = 12 y = 79 end_x = 3 end_y = 53 length = 673
-x = 11 y = 79 end_x = 3 end_y = 53 length = 674
-x = 10 y = 79 end_x = 3 end_y = 53 length = 675
-x = 9 y = 79 end_x = 3 end_y = 53 length = 676
-x = 8 y = 79 end_x = 3 end_y = 53 length = 677
-x = 7 y = 79 end_x = 3 end_y = 53 length = 678
-x = 7 y = 78 end_x = 3 end_y = 53 length = 679
-x = 7 y = 77 end_x = 3 end_y = 53 length = 680
-x = 8 y = 77 end_x = 3 end_y = 53 length = 681
-x = 9 y = 77 end_x = 3 end_y = 53 length = 682
-x = 9 y = 78 end_x = 3 end_y = 53 length = 683
-x = 7 y = 80 end_x = 3 end_y = 53 length = 679
-x = 7 y = 81 end_x = 3 end_y = 53 length = 680
-x = 6 y = 81 end_x = 3 end_y = 53 length = 681
-x = 5 y = 81 end_x = 3 end_y = 53 length = 682
-x = 4 y = 81 end_x = 3 end_y = 53 length = 683
-x = 3 y = 81 end_x = 3 end_y = 53 length = 684
-x = 2 y = 81 end_x = 3 end_y = 53 length = 685
-x = 1 y = 81 end_x = 3 end_y = 53 length = 686
-x = 1 y = 82 end_x = 3 end_y = 53 length = 687
-x = 1 y = 83 end_x = 3 end_y = 53 length = 688
-x = 1 y = 84 end_x = 3 end_y = 53 length = 689
-x = 1 y = 85 end_x = 3 end_y = 53 length = 690
-x = 1 y = 86 end_x = 3 end_y = 53 length = 691
-x = 1 y = 87 end_x = 3 end_y = 53 length = 692
-x = 1 y = 88 end_x = 3 end_y = 53 length = 693
-x = 1 y = 89 end_x = 3 end_y = 53 length = 694
-x = 1 y = 90 end_x = 3 end_y = 53 length = 695
-x = 1 y = 91 end_x = 3 end_y = 53 length = 696
-x = 2 y = 91 end_x = 3 end_y = 53 length = 697
-x = 3 y = 91 end_x = 3 end_y = 53 length = 698
-x = 3 y = 92 end_x = 3 end_y = 53 length = 699
-x = 3 y = 93 end_x = 3 end_y = 53 length = 700
-x = 2 y = 93 end_x = 3 end_y = 53 length = 701
-x = 1 y = 93 end_x = 3 end_y = 53 length = 702
-x = 1 y = 92 end_x = 3 end_y = 53 length = 703
-x = 3 y = 94 end_x = 3 end_y = 53 length = 701
-x = 3 y = 95 end_x = 3 end_y = 53 length = 702
-x = 4 y = 95 end_x = 3 end_y = 53 length = 703
-x = 5 y = 95 end_x = 3 end_y = 53 length = 704
-x = 6 y = 95 end_x = 3 end_y = 53 length = 705
-x = 7 y = 95 end_x = 3 end_y = 53 length = 706
-x = 8 y = 95 end_x = 3 end_y = 53 length = 707
-x = 9 y = 95 end_x = 3 end_y = 53 length = 708
-x = 10 y = 95 end_x = 3 end_y = 53 length = 709
-x = 11 y = 95 end_x = 3 end_y = 53 length = 710
-x = 12 y = 95 end_x = 3 end_y = 53 length = 711
-x = 13 y = 95 end_x = 3 end_y = 53 length = 712
-x = 14 y = 95 end_x = 3 end_y = 53 length = 713
-x = 15 y = 95 end_x = 3 end_y = 53 length = 714
-x = 16 y = 95 end_x = 3 end_y = 53 length = 715
-x = 17 y = 95 end_x = 3 end_y = 53 length = 716
-x = 18 y = 95 end_x = 3 end_y = 53 length = 717
-x = 19 y = 95 end_x = 3 end_y = 53 length = 718
-x = 19 y = 94 end_x = 3 end_y = 53 length = 719
-x = 19 y = 93 end_x = 3 end_y = 53 length = 720
-x = 20 y = 93 end_x = 3 end_y = 53 length = 721
-x = 21 y = 93 end_x = 3 end_y = 53 length = 722
-x = 21 y = 92 end_x = 3 end_y = 53 length = 723
-x = 21 y = 91 end_x = 3 end_y = 53 length = 724
-x = 22 y = 91 end_x = 3 end_y = 53 length = 725
-x = 23 y = 91 end_x = 3 end_y = 53 length = 726
-x = 23 y = 90 end_x = 3 end_y = 53 length = 727
-x = 23 y = 89 end_x = 3 end_y = 53 length = 728
-x = 24 y = 89 end_x = 3 end_y = 53 length = 729
-x = 25 y = 89 end_x = 3 end_y = 53 length = 730
-x = 26 y = 89 end_x = 3 end_y = 53 length = 731
-x = 27 y = 89 end_x = 3 end_y = 53 length = 732
-x = 28 y = 89 end_x = 3 end_y = 53 length = 733
-x = 29 y = 89 end_x = 3 end_y = 53 length = 734
-x = 30 y = 89 end_x = 3 end_y = 53 length = 735
-x = 31 y = 89 end_x = 3 end_y = 53 length = 736
-x = 31 y = 88 end_x = 3 end_y = 53 length = 737
-x = 31 y = 87 end_x = 3 end_y = 53 length = 738
-x = 30 y = 87 end_x = 3 end_y = 53 length = 739
-x = 29 y = 87 end_x = 3 end_y = 53 length = 740
-x = 28 y = 87 end_x = 3 end_y = 53 length = 741
-x = 27 y = 87 end_x = 3 end_y = 53 length = 742
-x = 26 y = 87 end_x = 3 end_y = 53 length = 743
-x = 25 y = 87 end_x = 3 end_y = 53 length = 744
-x = 24 y = 87 end_x = 3 end_y = 53 length = 745
-x = 23 y = 87 end_x = 3 end_y = 53 length = 746
-x = 22 y = 87 end_x = 3 end_y = 53 length = 747
-x = 21 y = 87 end_x = 3 end_y = 53 length = 748
-x = 20 y = 87 end_x = 3 end_y = 53 length = 749
-x = 19 y = 87 end_x = 3 end_y = 53 length = 750
-x = 18 y = 87 end_x = 3 end_y = 53 length = 751
-x = 17 y = 87 end_x = 3 end_y = 53 length = 752
-x = 16 y = 87 end_x = 3 end_y = 53 length = 753
-x = 15 y = 87 end_x = 3 end_y = 53 length = 754
-x = 14 y = 87 end_x = 3 end_y = 53 length = 755
-x = 13 y = 87 end_x = 3 end_y = 53 length = 756
-x = 12 y = 87 end_x = 3 end_y = 53 length = 757
-x = 11 y = 87 end_x = 3 end_y = 53 length = 758
-x = 10 y = 87 end_x = 3 end_y = 53 length = 759
-x = 9 y = 87 end_x = 3 end_y = 53 length = 760
-x = 8 y = 87 end_x = 3 end_y = 53 length = 761
-x = 7 y = 87 end_x = 3 end_y = 53 length = 762
-x = 6 y = 87 end_x = 3 end_y = 53 length = 763
-x = 5 y = 87 end_x = 3 end_y = 53 length = 764
-x = 4 y = 87 end_x = 3 end_y = 53 length = 765
-x = 3 y = 87 end_x = 3 end_y = 53 length = 766
-x = 3 y = 86 end_x = 3 end_y = 53 length = 767
-x = 3 y = 85 end_x = 3 end_y = 53 length = 768
-x = 4 y = 85 end_x = 3 end_y = 53 length = 769
-x = 5 y = 85 end_x = 3 end_y = 53 length = 770
-x = 6 y = 85 end_x = 3 end_y = 53 length = 771
-x = 7 y = 85 end_x = 3 end_y = 53 length = 772
-x = 8 y = 85 end_x = 3 end_y = 53 length = 773
-x = 9 y = 85 end_x = 3 end_y = 53 length = 774
-x = 10 y = 85 end_x = 3 end_y = 53 length = 775
-x = 11 y = 85 end_x = 3 end_y = 53 length = 776
-x = 12 y = 85 end_x = 3 end_y = 53 length = 777
-x = 13 y = 85 end_x = 3 end_y = 53 length = 778
-x = 13 y = 84 end_x = 3 end_y = 53 length = 779
-x = 13 y = 83 end_x = 3 end_y = 53 length = 780
-x = 12 y = 83 end_x = 3 end_y = 53 length = 781
-x = 11 y = 83 end_x = 3 end_y = 53 length = 782
-x = 10 y = 83 end_x = 3 end_y = 53 length = 783
-x = 9 y = 83 end_x = 3 end_y = 53 length = 784
-x = 9 y = 82 end_x = 3 end_y = 53 length = 785
-x = 9 y = 81 end_x = 3 end_y = 53 length = 786
-x = 8 y = 81 end_x = 3 end_y = 53 length = 787
-x = 10 y = 81 end_x = 3 end_y = 53 length = 787
-x = 11 y = 81 end_x = 3 end_y = 53 length = 788
-x = 12 y = 81 end_x = 3 end_y = 53 length = 789
-x = 13 y = 81 end_x = 3 end_y = 53 length = 790
-x = 13 y = 80 end_x = 3 end_y = 53 length = 791
-x = 13 y = 82 end_x = 3 end_y = 53 length = 791
-x = 9 y = 80 end_x = 3 end_y = 53 length = 787
-x = 14 y = 83 end_x = 3 end_y = 53 length = 781
-x = 15 y = 83 end_x = 3 end_y = 53 length = 782
-x = 15 y = 82 end_x = 3 end_y = 53 length = 783
-x = 15 y = 81 end_x = 3 end_y = 53 length = 784
-x = 15 y = 84 end_x = 3 end_y = 53 length = 783
-x = 15 y = 85 end_x = 3 end_y = 53 length = 784
-x = 16 y = 85 end_x = 3 end_y = 53 length = 785
-x = 17 y = 85 end_x = 3 end_y = 53 length = 786
-x = 17 y = 84 end_x = 3 end_y = 53 length = 787
-x = 15 y = 86 end_x = 3 end_y = 53 length = 785
-x = 11 y = 86 end_x = 3 end_y = 53 length = 777
-x = 7 y = 84 end_x = 3 end_y = 53 length = 773
-x = 7 y = 83 end_x = 3 end_y = 53 length = 774
-x = 6 y = 83 end_x = 3 end_y = 53 length = 775
-x = 5 y = 83 end_x = 3 end_y = 53 length = 776
-x = 4 y = 83 end_x = 3 end_y = 53 length = 777
-x = 3 y = 83 end_x = 3 end_y = 53 length = 778
-x = 3 y = 82 end_x = 3 end_y = 53 length = 779
-x = 5 y = 84 end_x = 3 end_y = 53 length = 777
-x = 7 y = 82 end_x = 3 end_y = 53 length = 775
-x = 7 y = 86 end_x = 3 end_y = 53 length = 773
-x = 5 y = 86 end_x = 3 end_y = 53 length = 771
-x = 3 y = 88 end_x = 3 end_y = 53 length = 767
-x = 3 y = 89 end_x = 3 end_y = 53 length = 768
-x = 9 y = 88 end_x = 3 end_y = 53 length = 761
-x = 9 y = 89 end_x = 3 end_y = 53 length = 762
-x = 8 y = 89 end_x = 3 end_y = 53 length = 763
-x = 7 y = 89 end_x = 3 end_y = 53 length = 764
-x = 6 y = 89 end_x = 3 end_y = 53 length = 765
-x = 5 y = 89 end_x = 3 end_y = 53 length = 766
-x = 5 y = 90 end_x = 3 end_y = 53 length = 767
-x = 5 y = 91 end_x = 3 end_y = 53 length = 768
-x = 6 y = 91 end_x = 3 end_y = 53 length = 769
-x = 7 y = 91 end_x = 3 end_y = 53 length = 770
-x = 7 y = 90 end_x = 3 end_y = 53 length = 771
-x = 7 y = 92 end_x = 3 end_y = 53 length = 771
-x = 7 y = 93 end_x = 3 end_y = 53 length = 772
-x = 6 y = 93 end_x = 3 end_y = 53 length = 773
-x = 5 y = 93 end_x = 3 end_y = 53 length = 774
-x = 5 y = 92 end_x = 3 end_y = 53 length = 775
-x = 5 y = 94 end_x = 3 end_y = 53 length = 775
-x = 8 y = 93 end_x = 3 end_y = 53 length = 773
-x = 9 y = 93 end_x = 3 end_y = 53 length = 774
-x = 10 y = 93 end_x = 3 end_y = 53 length = 775
-x = 11 y = 93 end_x = 3 end_y = 53 length = 776
-x = 12 y = 93 end_x = 3 end_y = 53 length = 777
-x = 13 y = 93 end_x = 3 end_y = 53 length = 778
-x = 14 y = 93 end_x = 3 end_y = 53 length = 779
-x = 15 y = 93 end_x = 3 end_y = 53 length = 780
-x = 15 y = 92 end_x = 3 end_y = 53 length = 781
-x = 15 y = 91 end_x = 3 end_y = 53 length = 782
-x = 16 y = 91 end_x = 3 end_y = 53 length = 783
-x = 17 y = 91 end_x = 3 end_y = 53 length = 784
-x = 18 y = 91 end_x = 3 end_y = 53 length = 785
-x = 19 y = 91 end_x = 3 end_y = 53 length = 786
-x = 19 y = 90 end_x = 3 end_y = 53 length = 787
-x = 19 y = 89 end_x = 3 end_y = 53 length = 788
-x = 18 y = 89 end_x = 3 end_y = 53 length = 789
-x = 17 y = 89 end_x = 3 end_y = 53 length = 790
-x = 16 y = 89 end_x = 3 end_y = 53 length = 791
-x = 15 y = 89 end_x = 3 end_y = 53 length = 792
-x = 14 y = 89 end_x = 3 end_y = 53 length = 793
-x = 13 y = 89 end_x = 3 end_y = 53 length = 794
-x = 13 y = 90 end_x = 3 end_y = 53 length = 795
-x = 13 y = 91 end_x = 3 end_y = 53 length = 796
-x = 13 y = 92 end_x = 3 end_y = 53 length = 797
-x = 15 y = 88 end_x = 3 end_y = 53 length = 793
-x = 17 y = 88 end_x = 3 end_y = 53 length = 791
-x = 17 y = 90 end_x = 3 end_y = 53 length = 791
-x = 19 y = 92 end_x = 3 end_y = 53 length = 787
-x = 15 y = 94 end_x = 3 end_y = 53 length = 781
-x = 11 y = 92 end_x = 3 end_y = 53 length = 777
-x = 11 y = 91 end_x = 3 end_y = 53 length = 778
-x = 10 y = 91 end_x = 3 end_y = 53 length = 779
-x = 9 y = 91 end_x = 3 end_y = 53 length = 780
-x = 9 y = 92 end_x = 3 end_y = 53 length = 781
-x = 11 y = 90 end_x = 3 end_y = 53 length = 779
-x = 11 y = 89 end_x = 3 end_y = 53 length = 780
-x = 10 y = 89 end_x = 3 end_y = 53 length = 781
-x = 11 y = 94 end_x = 3 end_y = 53 length = 777
-x = 9 y = 94 end_x = 3 end_y = 53 length = 775
-x = 19 y = 86 end_x = 3 end_y = 53 length = 751
-x = 19 y = 85 end_x = 3 end_y = 53 length = 752
-x = 19 y = 84 end_x = 3 end_y = 53 length = 753
-x = 23 y = 86 end_x = 3 end_y = 53 length = 747
-x = 23 y = 85 end_x = 3 end_y = 53 length = 748
-x = 22 y = 85 end_x = 3 end_y = 53 length = 749
-x = 21 y = 85 end_x = 3 end_y = 53 length = 750
-x = 21 y = 84 end_x = 3 end_y = 53 length = 751
-x = 23 y = 84 end_x = 3 end_y = 53 length = 749
-x = 23 y = 88 end_x = 3 end_y = 53 length = 747
-x = 25 y = 86 end_x = 3 end_y = 53 length = 745
-x = 25 y = 85 end_x = 3 end_y = 53 length = 746
-x = 26 y = 85 end_x = 3 end_y = 53 length = 747
-x = 27 y = 85 end_x = 3 end_y = 53 length = 748
-x = 25 y = 84 end_x = 3 end_y = 53 length = 747
-x = 27 y = 88 end_x = 3 end_y = 53 length = 743
-x = 29 y = 86 end_x = 3 end_y = 53 length = 741
-x = 29 y = 85 end_x = 3 end_y = 53 length = 742
-x = 25 y = 90 end_x = 3 end_y = 53 length = 731
-x = 25 y = 91 end_x = 3 end_y = 53 length = 732
-x = 26 y = 91 end_x = 3 end_y = 53 length = 733
-x = 27 y = 91 end_x = 3 end_y = 53 length = 734
-x = 27 y = 92 end_x = 3 end_y = 53 length = 735
-x = 27 y = 93 end_x = 3 end_y = 53 length = 736
-x = 26 y = 93 end_x = 3 end_y = 53 length = 737
-x = 25 y = 93 end_x = 3 end_y = 53 length = 738
-x = 24 y = 93 end_x = 3 end_y = 53 length = 739
-x = 23 y = 93 end_x = 3 end_y = 53 length = 740
-x = 21 y = 90 end_x = 3 end_y = 53 length = 725
-x = 21 y = 89 end_x = 3 end_y = 53 length = 726
-x = 19 y = 96 end_x = 3 end_y = 53 length = 719
-x = 19 y = 97 end_x = 3 end_y = 53 length = 720
-x = 18 y = 97 end_x = 3 end_y = 53 length = 721
-x = 17 y = 97 end_x = 3 end_y = 53 length = 722
-x = 16 y = 97 end_x = 3 end_y = 53 length = 723
-x = 15 y = 97 end_x = 3 end_y = 53 length = 724
-x = 14 y = 97 end_x = 3 end_y = 53 length = 725
-x = 13 y = 97 end_x = 3 end_y = 53 length = 726
-x = 12 y = 97 end_x = 3 end_y = 53 length = 727
-x = 11 y = 97 end_x = 3 end_y = 53 length = 728
-x = 10 y = 97 end_x = 3 end_y = 53 length = 729
-x = 9 y = 97 end_x = 3 end_y = 53 length = 730
-x = 8 y = 97 end_x = 3 end_y = 53 length = 731
-x = 7 y = 97 end_x = 3 end_y = 53 length = 732
-x = 6 y = 97 end_x = 3 end_y = 53 length = 733
-x = 5 y = 97 end_x = 3 end_y = 53 length = 734
-x = 4 y = 97 end_x = 3 end_y = 53 length = 735
-x = 3 y = 97 end_x = 3 end_y = 53 length = 736
-x = 2 y = 97 end_x = 3 end_y = 53 length = 737
-x = 1 y = 97 end_x = 3 end_y = 53 length = 738
-x = 1 y = 96 end_x = 3 end_y = 53 length = 739
-x = 1 y = 95 end_x = 3 end_y = 53 length = 740
-x = 1 y = 98 end_x = 3 end_y = 53 length = 739
-x = 1 y = 99 end_x = 3 end_y = 53 length = 740
-x = 2 y = 99 end_x = 3 end_y = 53 length = 741
-x = 3 y = 99 end_x = 3 end_y = 53 length = 742
-x = 3 y = 98 end_x = 3 end_y = 53 length = 743
-x = 3 y = 96 end_x = 3 end_y = 53 length = 737
-x = 5 y = 98 end_x = 3 end_y = 53 length = 735
-x = 5 y = 99 end_x = 3 end_y = 53 length = 736
-x = 5 y = 100 end_x = 3 end_y = 53 length = 737
-x = 5 y = 101 end_x = 3 end_y = 53 length = 738
-x = 4 y = 101 end_x = 3 end_y = 53 length = 739
-x = 3 y = 101 end_x = 3 end_y = 53 length = 740
-x = 2 y = 101 end_x = 3 end_y = 53 length = 741
-x = 1 y = 101 end_x = 3 end_y = 53 length = 742
-x = 1 y = 102 end_x = 3 end_y = 53 length = 743
-x = 1 y = 103 end_x = 3 end_y = 53 length = 744
-x = 2 y = 103 end_x = 3 end_y = 53 length = 745
-x = 3 y = 103 end_x = 3 end_y = 53 length = 746
-x = 3 y = 104 end_x = 3 end_y = 53 length = 747
-x = 3 y = 105 end_x = 3 end_y = 53 length = 748
-x = 2 y = 105 end_x = 3 end_y = 53 length = 749
-x = 1 y = 105 end_x = 3 end_y = 53 length = 750
-x = 1 y = 104 end_x = 3 end_y = 53 length = 751
-x = 1 y = 106 end_x = 3 end_y = 53 length = 751
-x = 1 y = 107 end_x = 3 end_y = 53 length = 752
-x = 2 y = 107 end_x = 3 end_y = 53 length = 753
-x = 3 y = 107 end_x = 3 end_y = 53 length = 754
-x = 4 y = 107 end_x = 3 end_y = 53 length = 755
-x = 5 y = 107 end_x = 3 end_y = 53 length = 756
-x = 5 y = 106 end_x = 3 end_y = 53 length = 757
-x = 5 y = 105 end_x = 3 end_y = 53 length = 758
-x = 4 y = 105 end_x = 3 end_y = 53 length = 759
-x = 5 y = 104 end_x = 3 end_y = 53 length = 759
-x = 5 y = 103 end_x = 3 end_y = 53 length = 760
-x = 6 y = 103 end_x = 3 end_y = 53 length = 761
-x = 7 y = 103 end_x = 3 end_y = 53 length = 762
-x = 8 y = 103 end_x = 3 end_y = 53 length = 763
-x = 9 y = 103 end_x = 3 end_y = 53 length = 764
-x = 10 y = 103 end_x = 3 end_y = 53 length = 765
-x = 11 y = 103 end_x = 3 end_y = 53 length = 766
-x = 12 y = 103 end_x = 3 end_y = 53 length = 767
-x = 13 y = 103 end_x = 3 end_y = 53 length = 768
-x = 13 y = 102 end_x = 3 end_y = 53 length = 769
-x = 13 y = 101 end_x = 3 end_y = 53 length = 770
-x = 13 y = 100 end_x = 3 end_y = 53 length = 771
-x = 13 y = 99 end_x = 3 end_y = 53 length = 772
-x = 12 y = 99 end_x = 3 end_y = 53 length = 773
-x = 11 y = 99 end_x = 3 end_y = 53 length = 774
-x = 10 y = 99 end_x = 3 end_y = 53 length = 775
-x = 9 y = 99 end_x = 3 end_y = 53 length = 776
-x = 8 y = 99 end_x = 3 end_y = 53 length = 777
-x = 7 y = 99 end_x = 3 end_y = 53 length = 778
-x = 7 y = 100 end_x = 3 end_y = 53 length = 779
-x = 7 y = 101 end_x = 3 end_y = 53 length = 780
-x = 6 y = 101 end_x = 3 end_y = 53 length = 781
-x = 8 y = 101 end_x = 3 end_y = 53 length = 781
-x = 9 y = 101 end_x = 3 end_y = 53 length = 782
-x = 10 y = 101 end_x = 3 end_y = 53 length = 783
-x = 11 y = 101 end_x = 3 end_y = 53 length = 784
-x = 11 y = 100 end_x = 3 end_y = 53 length = 785
-x = 11 y = 102 end_x = 3 end_y = 53 length = 785
-x = 9 y = 102 end_x = 3 end_y = 53 length = 783
-x = 11 y = 98 end_x = 3 end_y = 53 length = 775
-x = 14 y = 99 end_x = 3 end_y = 53 length = 773
-x = 15 y = 99 end_x = 3 end_y = 53 length = 774
-x = 11 y = 104 end_x = 3 end_y = 53 length = 767
-x = 11 y = 105 end_x = 3 end_y = 53 length = 768
-x = 10 y = 105 end_x = 3 end_y = 53 length = 769
-x = 9 y = 105 end_x = 3 end_y = 53 length = 770
-x = 9 y = 104 end_x = 3 end_y = 53 length = 771
-x = 9 y = 106 end_x = 3 end_y = 53 length = 771
-x = 9 y = 107 end_x = 3 end_y = 53 length = 772
-x = 8 y = 107 end_x = 3 end_y = 53 length = 773
-x = 7 y = 107 end_x = 3 end_y = 53 length = 774
-x = 7 y = 106 end_x = 3 end_y = 53 length = 775
-x = 7 y = 105 end_x = 3 end_y = 53 length = 776
-x = 9 y = 108 end_x = 3 end_y = 53 length = 773
-x = 9 y = 109 end_x = 3 end_y = 53 length = 774
-x = 10 y = 109 end_x = 3 end_y = 53 length = 775
-x = 11 y = 109 end_x = 3 end_y = 53 length = 776
-x = 12 y = 109 end_x = 3 end_y = 53 length = 777
-x = 13 y = 109 end_x = 3 end_y = 53 length = 778
-x = 14 y = 109 end_x = 3 end_y = 53 length = 779
-x = 15 y = 109 end_x = 3 end_y = 53 length = 780
-x = 15 y = 108 end_x = 3 end_y = 53 length = 781
-x = 15 y = 107 end_x = 3 end_y = 53 length = 782
-x = 14 y = 107 end_x = 3 end_y = 53 length = 783
-x = 13 y = 107 end_x = 3 end_y = 53 length = 784
-x = 12 y = 107 end_x = 3 end_y = 53 length = 785
-x = 11 y = 107 end_x = 3 end_y = 53 length = 786
-x = 11 y = 108 end_x = 3 end_y = 53 length = 787
-x = 13 y = 106 end_x = 3 end_y = 53 length = 785
-x = 13 y = 105 end_x = 3 end_y = 53 length = 786
-x = 12 y = 105 end_x = 3 end_y = 53 length = 787
-x = 14 y = 105 end_x = 3 end_y = 53 length = 787
-x = 15 y = 105 end_x = 3 end_y = 53 length = 788
-x = 16 y = 105 end_x = 3 end_y = 53 length = 789
-x = 17 y = 105 end_x = 3 end_y = 53 length = 790
-x = 18 y = 105 end_x = 3 end_y = 53 length = 791
-x = 19 y = 105 end_x = 3 end_y = 53 length = 792
-x = 20 y = 105 end_x = 3 end_y = 53 length = 793
-x = 21 y = 105 end_x = 3 end_y = 53 length = 794
-x = 21 y = 104 end_x = 3 end_y = 53 length = 795
-x = 21 y = 103 end_x = 3 end_y = 53 length = 796
-x = 20 y = 103 end_x = 3 end_y = 53 length = 797
-x = 19 y = 103 end_x = 3 end_y = 53 length = 798
-x = 18 y = 103 end_x = 3 end_y = 53 length = 799
-x = 17 y = 103 end_x = 3 end_y = 53 length = 800
-x = 17 y = 102 end_x = 3 end_y = 53 length = 801
-x = 17 y = 101 end_x = 3 end_y = 53 length = 802
-x = 16 y = 101 end_x = 3 end_y = 53 length = 803
-x = 15 y = 101 end_x = 3 end_y = 53 length = 804
-x = 15 y = 102 end_x = 3 end_y = 53 length = 805
-x = 15 y = 103 end_x = 3 end_y = 53 length = 806
-x = 15 y = 104 end_x = 3 end_y = 53 length = 807
-x = 18 y = 101 end_x = 3 end_y = 53 length = 803
-x = 19 y = 101 end_x = 3 end_y = 53 length = 804
-x = 19 y = 102 end_x = 3 end_y = 53 length = 805
-x = 17 y = 100 end_x = 3 end_y = 53 length = 803
-x = 17 y = 99 end_x = 3 end_y = 53 length = 804
-x = 18 y = 99 end_x = 3 end_y = 53 length = 805
-x = 19 y = 99 end_x = 3 end_y = 53 length = 806
-x = 20 y = 99 end_x = 3 end_y = 53 length = 807
-x = 21 y = 99 end_x = 3 end_y = 53 length = 808
-x = 22 y = 99 end_x = 3 end_y = 53 length = 809
-x = 23 y = 99 end_x = 3 end_y = 53 length = 810
-x = 23 y = 98 end_x = 3 end_y = 53 length = 811
-x = 23 y = 97 end_x = 3 end_y = 53 length = 812
-x = 24 y = 97 end_x = 3 end_y = 53 length = 813
-x = 25 y = 97 end_x = 3 end_y = 53 length = 814
-x = 25 y = 96 end_x = 3 end_y = 53 length = 815
-x = 25 y = 95 end_x = 3 end_y = 53 length = 816
-x = 24 y = 95 end_x = 3 end_y = 53 length = 817
-x = 23 y = 95 end_x = 3 end_y = 53 length = 818
-x = 19 y = 98 end_x = 3 end_y = 53 length = 807
-x = 21 y = 102 end_x = 3 end_y = 53 length = 797
-x = 21 y = 101 end_x = 3 end_y = 53 length = 798
-x = 22 y = 101 end_x = 3 end_y = 53 length = 799
-x = 23 y = 101 end_x = 3 end_y = 53 length = 800
-x = 24 y = 101 end_x = 3 end_y = 53 length = 801
-x = 25 y = 101 end_x = 3 end_y = 53 length = 802
-x = 26 y = 101 end_x = 3 end_y = 53 length = 803
-x = 27 y = 101 end_x = 3 end_y = 53 length = 804
-x = 27 y = 100 end_x = 3 end_y = 53 length = 805
-x = 27 y = 99 end_x = 3 end_y = 53 length = 806
-x = 28 y = 99 end_x = 3 end_y = 53 length = 807
-x = 29 y = 99 end_x = 3 end_y = 53 length = 808
-x = 30 y = 99 end_x = 3 end_y = 53 length = 809
-x = 31 y = 99 end_x = 3 end_y = 53 length = 810
-x = 32 y = 99 end_x = 3 end_y = 53 length = 811
-x = 33 y = 99 end_x = 3 end_y = 53 length = 812
-x = 33 y = 98 end_x = 3 end_y = 53 length = 813
-x = 33 y = 97 end_x = 3 end_y = 53 length = 814
-x = 32 y = 97 end_x = 3 end_y = 53 length = 815
-x = 31 y = 97 end_x = 3 end_y = 53 length = 816
-x = 31 y = 96 end_x = 3 end_y = 53 length = 817
-x = 31 y = 95 end_x = 3 end_y = 53 length = 818
-x = 30 y = 95 end_x = 3 end_y = 53 length = 819
-x = 29 y = 95 end_x = 3 end_y = 53 length = 820
-x = 28 y = 95 end_x = 3 end_y = 53 length = 821
-x = 27 y = 95 end_x = 3 end_y = 53 length = 822
-x = 27 y = 96 end_x = 3 end_y = 53 length = 823
-x = 27 y = 97 end_x = 3 end_y = 53 length = 824
-x = 27 y = 98 end_x = 3 end_y = 53 length = 825
-x = 29 y = 94 end_x = 3 end_y = 53 length = 821
-x = 29 y = 93 end_x = 3 end_y = 53 length = 822
-x = 30 y = 93 end_x = 3 end_y = 53 length = 823
-x = 31 y = 93 end_x = 3 end_y = 53 length = 824
-x = 32 y = 93 end_x = 3 end_y = 53 length = 825
-x = 33 y = 93 end_x = 3 end_y = 53 length = 826
-x = 34 y = 93 end_x = 3 end_y = 53 length = 827
-x = 35 y = 93 end_x = 3 end_y = 53 length = 828
-x = 35 y = 92 end_x = 3 end_y = 53 length = 829
-x = 35 y = 91 end_x = 3 end_y = 53 length = 830
-x = 35 y = 90 end_x = 3 end_y = 53 length = 831
-x = 35 y = 89 end_x = 3 end_y = 53 length = 832
-x = 34 y = 89 end_x = 3 end_y = 53 length = 833
-x = 33 y = 89 end_x = 3 end_y = 53 length = 834
-x = 33 y = 90 end_x = 3 end_y = 53 length = 835
-x = 33 y = 91 end_x = 3 end_y = 53 length = 836
-x = 32 y = 91 end_x = 3 end_y = 53 length = 837
-x = 31 y = 91 end_x = 3 end_y = 53 length = 838
-x = 30 y = 91 end_x = 3 end_y = 53 length = 839
-x = 29 y = 91 end_x = 3 end_y = 53 length = 840
-x = 29 y = 92 end_x = 3 end_y = 53 length = 841
-x = 36 y = 89 end_x = 3 end_y = 53 length = 833
-x = 37 y = 89 end_x = 3 end_y = 53 length = 834
-x = 37 y = 88 end_x = 3 end_y = 53 length = 835
-x = 37 y = 87 end_x = 3 end_y = 53 length = 836
-x = 37 y = 86 end_x = 3 end_y = 53 length = 837
-x = 37 y = 85 end_x = 3 end_y = 53 length = 838
-x = 35 y = 88 end_x = 3 end_y = 53 length = 833
-x = 35 y = 87 end_x = 3 end_y = 53 length = 834
-x = 34 y = 87 end_x = 3 end_y = 53 length = 835
-x = 33 y = 87 end_x = 3 end_y = 53 length = 836
-x = 33 y = 94 end_x = 3 end_y = 53 length = 827
-x = 33 y = 95 end_x = 3 end_y = 53 length = 828
-x = 32 y = 95 end_x = 3 end_y = 53 length = 829
-x = 34 y = 95 end_x = 3 end_y = 53 length = 829
-x = 35 y = 95 end_x = 3 end_y = 53 length = 830
-x = 36 y = 95 end_x = 3 end_y = 53 length = 831
-x = 37 y = 95 end_x = 3 end_y = 53 length = 832
-x = 38 y = 95 end_x = 3 end_y = 53 length = 833
-x = 39 y = 95 end_x = 3 end_y = 53 length = 834
-x = 40 y = 95 end_x = 3 end_y = 53 length = 835
-x = 41 y = 95 end_x = 3 end_y = 53 length = 836
-x = 42 y = 95 end_x = 3 end_y = 53 length = 837
-x = 43 y = 95 end_x = 3 end_y = 53 length = 838
-x = 43 y = 96 end_x = 3 end_y = 53 length = 839
-x = 43 y = 97 end_x = 3 end_y = 53 length = 840
-x = 42 y = 97 end_x = 3 end_y = 53 length = 841
-x = 41 y = 97 end_x = 3 end_y = 53 length = 842
-x = 40 y = 97 end_x = 3 end_y = 53 length = 843
-x = 39 y = 97 end_x = 3 end_y = 53 length = 844
-x = 39 y = 98 end_x = 3 end_y = 53 length = 845
-x = 39 y = 99 end_x = 3 end_y = 53 length = 846
-x = 40 y = 99 end_x = 3 end_y = 53 length = 847
-x = 41 y = 99 end_x = 3 end_y = 53 length = 848
-x = 41 y = 100 end_x = 3 end_y = 53 length = 849
-x = 41 y = 101 end_x = 3 end_y = 53 length = 850
-x = 42 y = 101 end_x = 3 end_y = 53 length = 851
-x = 43 y = 101 end_x = 3 end_y = 53 length = 852
-x = 43 y = 100 end_x = 3 end_y = 53 length = 853
-x = 43 y = 99 end_x = 3 end_y = 53 length = 854
-x = 41 y = 102 end_x = 3 end_y = 53 length = 851
-x = 41 y = 103 end_x = 3 end_y = 53 length = 852
-x = 41 y = 104 end_x = 3 end_y = 53 length = 853
-x = 41 y = 105 end_x = 3 end_y = 53 length = 854
-x = 42 y = 105 end_x = 3 end_y = 53 length = 855
-x = 43 y = 105 end_x = 3 end_y = 53 length = 856
-x = 43 y = 104 end_x = 3 end_y = 53 length = 857
-x = 43 y = 103 end_x = 3 end_y = 53 length = 858
-x = 41 y = 106 end_x = 3 end_y = 53 length = 855
-x = 41 y = 107 end_x = 3 end_y = 53 length = 856
-x = 40 y = 107 end_x = 3 end_y = 53 length = 857
-x = 39 y = 107 end_x = 3 end_y = 53 length = 858
-x = 38 y = 107 end_x = 3 end_y = 53 length = 859
-x = 37 y = 107 end_x = 3 end_y = 53 length = 860
-x = 37 y = 108 end_x = 3 end_y = 53 length = 861
-x = 37 y = 109 end_x = 3 end_y = 53 length = 862
-x = 36 y = 109 end_x = 3 end_y = 53 length = 863
-x = 35 y = 109 end_x = 3 end_y = 53 length = 864
-x = 38 y = 109 end_x = 3 end_y = 53 length = 863
-x = 39 y = 109 end_x = 3 end_y = 53 length = 864
-x = 39 y = 108 end_x = 3 end_y = 53 length = 865
-x = 37 y = 110 end_x = 3 end_y = 53 length = 863
-x = 37 y = 111 end_x = 3 end_y = 53 length = 864
-x = 36 y = 111 end_x = 3 end_y = 53 length = 865
-x = 35 y = 111 end_x = 3 end_y = 53 length = 866
-x = 34 y = 111 end_x = 3 end_y = 53 length = 867
-x = 33 y = 111 end_x = 3 end_y = 53 length = 868
-x = 32 y = 111 end_x = 3 end_y = 53 length = 869
-x = 31 y = 111 end_x = 3 end_y = 53 length = 870
-x = 31 y = 110 end_x = 3 end_y = 53 length = 871
-x = 31 y = 109 end_x = 3 end_y = 53 length = 872
-x = 30 y = 109 end_x = 3 end_y = 53 length = 873
-x = 29 y = 109 end_x = 3 end_y = 53 length = 874
-x = 29 y = 108 end_x = 3 end_y = 53 length = 875
-x = 29 y = 107 end_x = 3 end_y = 53 length = 876
-x = 30 y = 107 end_x = 3 end_y = 53 length = 877
-x = 31 y = 107 end_x = 3 end_y = 53 length = 878
-x = 31 y = 106 end_x = 3 end_y = 53 length = 879
-x = 31 y = 105 end_x = 3 end_y = 53 length = 880
-x = 29 y = 106 end_x = 3 end_y = 53 length = 877
-x = 29 y = 105 end_x = 3 end_y = 53 length = 878
-x = 28 y = 105 end_x = 3 end_y = 53 length = 879
-x = 27 y = 105 end_x = 3 end_y = 53 length = 880
-x = 27 y = 104 end_x = 3 end_y = 53 length = 881
-x = 27 y = 103 end_x = 3 end_y = 53 length = 882
-x = 26 y = 103 end_x = 3 end_y = 53 length = 883
-x = 25 y = 103 end_x = 3 end_y = 53 length = 884
-x = 24 y = 103 end_x = 3 end_y = 53 length = 885
-x = 23 y = 103 end_x = 3 end_y = 53 length = 886
-x = 23 y = 102 end_x = 3 end_y = 53 length = 887
-x = 25 y = 104 end_x = 3 end_y = 53 length = 885
-x = 25 y = 105 end_x = 3 end_y = 53 length = 886
-x = 24 y = 105 end_x = 3 end_y = 53 length = 887
-x = 23 y = 105 end_x = 3 end_y = 53 length = 888
-x = 23 y = 106 end_x = 3 end_y = 53 length = 889
-x = 23 y = 107 end_x = 3 end_y = 53 length = 890
-x = 24 y = 107 end_x = 3 end_y = 53 length = 891
-x = 25 y = 107 end_x = 3 end_y = 53 length = 892
-x = 26 y = 107 end_x = 3 end_y = 53 length = 893
-x = 27 y = 107 end_x = 3 end_y = 53 length = 894
-x = 27 y = 106 end_x = 3 end_y = 53 length = 895
-x = 29 y = 110 end_x = 3 end_y = 53 length = 875
-x = 29 y = 111 end_x = 3 end_y = 53 length = 876
-x = 28 y = 111 end_x = 3 end_y = 53 length = 877
-x = 27 y = 111 end_x = 3 end_y = 53 length = 878
-x = 26 y = 111 end_x = 3 end_y = 53 length = 879
-x = 25 y = 111 end_x = 3 end_y = 53 length = 880
-x = 24 y = 111 end_x = 3 end_y = 53 length = 881
-x = 23 y = 111 end_x = 3 end_y = 53 length = 882
-x = 22 y = 111 end_x = 3 end_y = 53 length = 883
-x = 21 y = 111 end_x = 3 end_y = 53 length = 884
-x = 20 y = 111 end_x = 3 end_y = 53 length = 885
-x = 19 y = 111 end_x = 3 end_y = 53 length = 886
-x = 18 y = 111 end_x = 3 end_y = 53 length = 887
-x = 17 y = 111 end_x = 3 end_y = 53 length = 888
-x = 16 y = 111 end_x = 3 end_y = 53 length = 889
-x = 15 y = 111 end_x = 3 end_y = 53 length = 890
-x = 15 y = 110 end_x = 3 end_y = 53 length = 891
-x = 15 y = 112 end_x = 3 end_y = 53 length = 891
-x = 15 y = 113 end_x = 3 end_y = 53 length = 892
-x = 14 y = 113 end_x = 3 end_y = 53 length = 893
-x = 13 y = 113 end_x = 3 end_y = 53 length = 894
-x = 13 y = 112 end_x = 3 end_y = 53 length = 895
-x = 13 y = 111 end_x = 3 end_y = 53 length = 896
-x = 12 y = 111 end_x = 3 end_y = 53 length = 897
-x = 11 y = 111 end_x = 3 end_y = 53 length = 898
-x = 11 y = 112 end_x = 3 end_y = 53 length = 899
-x = 11 y = 113 end_x = 3 end_y = 53 length = 900
-x = 10 y = 113 end_x = 3 end_y = 53 length = 901
-x = 9 y = 113 end_x = 3 end_y = 53 length = 902
-x = 8 y = 113 end_x = 3 end_y = 53 length = 903
-x = 7 y = 113 end_x = 3 end_y = 53 length = 904
-x = 7 y = 112 end_x = 3 end_y = 53 length = 905
-x = 7 y = 111 end_x = 3 end_y = 53 length = 906
-x = 8 y = 111 end_x = 3 end_y = 53 length = 907
-x = 9 y = 111 end_x = 3 end_y = 53 length = 908
-x = 7 y = 110 end_x = 3 end_y = 53 length = 907
-x = 7 y = 109 end_x = 3 end_y = 53 length = 908
-x = 7 y = 114 end_x = 3 end_y = 53 length = 905
-x = 7 y = 115 end_x = 3 end_y = 53 length = 906
-x = 6 y = 115 end_x = 3 end_y = 53 length = 907
-x = 5 y = 115 end_x = 3 end_y = 53 length = 908
-x = 5 y = 114 end_x = 3 end_y = 53 length = 909
-x = 5 y = 113 end_x = 3 end_y = 53 length = 910
-x = 4 y = 113 end_x = 3 end_y = 53 length = 911
-x = 3 y = 113 end_x = 3 end_y = 53 length = 912
-x = 2 y = 113 end_x = 3 end_y = 53 length = 913
-x = 1 y = 113 end_x = 3 end_y = 53 length = 914
-x = 1 y = 112 end_x = 3 end_y = 53 length = 915
-x = 1 y = 111 end_x = 3 end_y = 53 length = 916
-x = 2 y = 111 end_x = 3 end_y = 53 length = 917
-x = 3 y = 111 end_x = 3 end_y = 53 length = 918
-x = 1 y = 110 end_x = 3 end_y = 53 length = 917
-x = 1 y = 109 end_x = 3 end_y = 53 length = 918
-x = 2 y = 109 end_x = 3 end_y = 53 length = 919
-x = 3 y = 109 end_x = 3 end_y = 53 length = 920
-x = 4 y = 109 end_x = 3 end_y = 53 length = 921
-x = 5 y = 109 end_x = 3 end_y = 53 length = 922
-x = 5 y = 108 end_x = 3 end_y = 53 length = 923
-x = 5 y = 110 end_x = 3 end_y = 53 length = 923
-x = 5 y = 111 end_x = 3 end_y = 53 length = 924
-x = 5 y = 112 end_x = 3 end_y = 53 length = 925
-x = 1 y = 114 end_x = 3 end_y = 53 length = 915
-x = 1 y = 115 end_x = 3 end_y = 53 length = 916
-x = 1 y = 116 end_x = 3 end_y = 53 length = 917
-x = 1 y = 117 end_x = 3 end_y = 53 length = 918
-x = 2 y = 117 end_x = 3 end_y = 53 length = 919
-x = 3 y = 117 end_x = 3 end_y = 53 length = 920
-x = 3 y = 116 end_x = 3 end_y = 53 length = 921
-x = 3 y = 115 end_x = 3 end_y = 53 length = 922
-x = 5 y = 116 end_x = 3 end_y = 53 length = 909
-x = 5 y = 117 end_x = 3 end_y = 53 length = 910
-x = 6 y = 117 end_x = 3 end_y = 53 length = 911
-x = 7 y = 117 end_x = 3 end_y = 53 length = 912
-x = 8 y = 117 end_x = 3 end_y = 53 length = 913
-x = 9 y = 117 end_x = 3 end_y = 53 length = 914
-x = 10 y = 117 end_x = 3 end_y = 53 length = 915
-x = 11 y = 117 end_x = 3 end_y = 53 length = 916
-x = 11 y = 118 end_x = 3 end_y = 53 length = 917
-x = 11 y = 119 end_x = 3 end_y = 53 length = 918
-x = 10 y = 119 end_x = 3 end_y = 53 length = 919
-x = 9 y = 119 end_x = 3 end_y = 53 length = 920
-x = 9 y = 118 end_x = 3 end_y = 53 length = 921
-x = 9 y = 120 end_x = 3 end_y = 53 length = 921
-x = 9 y = 121 end_x = 3 end_y = 53 length = 922
-x = 10 y = 121 end_x = 3 end_y = 53 length = 923
-x = 11 y = 121 end_x = 3 end_y = 53 length = 924
-x = 11 y = 122 end_x = 3 end_y = 53 length = 925
-x = 11 y = 123 end_x = 3 end_y = 53 length = 926
-x = 11 y = 124 end_x = 3 end_y = 53 length = 927
-x = 11 y = 125 end_x = 3 end_y = 53 length = 928
-x = 10 y = 125 end_x = 3 end_y = 53 length = 929
-x = 9 y = 125 end_x = 3 end_y = 53 length = 930
-x = 8 y = 125 end_x = 3 end_y = 53 length = 931
-x = 7 y = 125 end_x = 3 end_y = 53 length = 932
-x = 6 y = 125 end_x = 3 end_y = 53 length = 933
-x = 5 y = 125 end_x = 3 end_y = 53 length = 934
-x = 4 y = 125 end_x = 3 end_y = 53 length = 935
-x = 3 y = 125 end_x = 3 end_y = 53 length = 936
-x = 2 y = 125 end_x = 3 end_y = 53 length = 937
-x = 1 y = 125 end_x = 3 end_y = 53 length = 938
-x = 1 y = 126 end_x = 3 end_y = 53 length = 939
-x = 1 y = 127 end_x = 3 end_y = 53 length = 940
-x = 2 y = 127 end_x = 3 end_y = 53 length = 941
-x = 3 y = 127 end_x = 3 end_y = 53 length = 942
-x = 3 y = 126 end_x = 3 end_y = 53 length = 943
-x = 3 y = 128 end_x = 3 end_y = 53 length = 943
-x = 3 y = 129 end_x = 3 end_y = 53 length = 944
-x = 2 y = 129 end_x = 3 end_y = 53 length = 945
-x = 1 y = 129 end_x = 3 end_y = 53 length = 946
-x = 1 y = 128 end_x = 3 end_y = 53 length = 947
-x = 5 y = 124 end_x = 3 end_y = 53 length = 935
-x = 5 y = 123 end_x = 3 end_y = 53 length = 936
-x = 4 y = 123 end_x = 3 end_y = 53 length = 937
-x = 3 y = 123 end_x = 3 end_y = 53 length = 938
-x = 3 y = 122 end_x = 3 end_y = 53 length = 939
-x = 3 y = 121 end_x = 3 end_y = 53 length = 940
-x = 4 y = 121 end_x = 3 end_y = 53 length = 941
-x = 5 y = 121 end_x = 3 end_y = 53 length = 942
-x = 6 y = 121 end_x = 3 end_y = 53 length = 943
-x = 7 y = 121 end_x = 3 end_y = 53 length = 944
-x = 7 y = 122 end_x = 3 end_y = 53 length = 945
-x = 7 y = 123 end_x = 3 end_y = 53 length = 946
-x = 6 y = 123 end_x = 3 end_y = 53 length = 947
-x = 8 y = 123 end_x = 3 end_y = 53 length = 947
-x = 9 y = 123 end_x = 3 end_y = 53 length = 948
-x = 9 y = 124 end_x = 3 end_y = 53 length = 949
-x = 7 y = 124 end_x = 3 end_y = 53 length = 947
-x = 7 y = 126 end_x = 3 end_y = 53 length = 933
-x = 7 y = 127 end_x = 3 end_y = 53 length = 934
-x = 6 y = 127 end_x = 3 end_y = 53 length = 935
-x = 5 y = 127 end_x = 3 end_y = 53 length = 936
-x = 9 y = 116 end_x = 3 end_y = 53 length = 915
-x = 9 y = 115 end_x = 3 end_y = 53 length = 916
-x = 8 y = 115 end_x = 3 end_y = 53 length = 917
-x = 9 y = 114 end_x = 3 end_y = 53 length = 917
-x = 7 y = 116 end_x = 3 end_y = 53 length = 913
-x = 5 y = 118 end_x = 3 end_y = 53 length = 911
-x = 5 y = 119 end_x = 3 end_y = 53 length = 912
-x = 4 y = 119 end_x = 3 end_y = 53 length = 913
-x = 3 y = 119 end_x = 3 end_y = 53 length = 914
-x = 2 y = 119 end_x = 3 end_y = 53 length = 915
-x = 1 y = 119 end_x = 3 end_y = 53 length = 916
-x = 1 y = 120 end_x = 3 end_y = 53 length = 917
-x = 1 y = 121 end_x = 3 end_y = 53 length = 918
-x = 1 y = 122 end_x = 3 end_y = 53 length = 919
-x = 1 y = 123 end_x = 3 end_y = 53 length = 920
-x = 6 y = 119 end_x = 3 end_y = 53 length = 913
-x = 7 y = 119 end_x = 3 end_y = 53 length = 914
-x = 11 y = 114 end_x = 3 end_y = 53 length = 901
-x = 11 y = 115 end_x = 3 end_y = 53 length = 902
-x = 13 y = 110 end_x = 3 end_y = 53 length = 897
-x = 16 y = 113 end_x = 3 end_y = 53 length = 893
-x = 17 y = 113 end_x = 3 end_y = 53 length = 894
-x = 18 y = 113 end_x = 3 end_y = 53 length = 895
-x = 19 y = 113 end_x = 3 end_y = 53 length = 896
-x = 20 y = 113 end_x = 3 end_y = 53 length = 897
-x = 21 y = 113 end_x = 3 end_y = 53 length = 898
-x = 22 y = 113 end_x = 3 end_y = 53 length = 899
-x = 23 y = 113 end_x = 3 end_y = 53 length = 900
-x = 24 y = 113 end_x = 3 end_y = 53 length = 901
-x = 25 y = 113 end_x = 3 end_y = 53 length = 902
-x = 26 y = 113 end_x = 3 end_y = 53 length = 903
-x = 27 y = 113 end_x = 3 end_y = 53 length = 904
-x = 28 y = 113 end_x = 3 end_y = 53 length = 905
-x = 29 y = 113 end_x = 3 end_y = 53 length = 906
-x = 30 y = 113 end_x = 3 end_y = 53 length = 907
-x = 31 y = 113 end_x = 3 end_y = 53 length = 908
-x = 31 y = 112 end_x = 3 end_y = 53 length = 909
-x = 31 y = 114 end_x = 3 end_y = 53 length = 909
-x = 31 y = 115 end_x = 3 end_y = 53 length = 910
-x = 32 y = 115 end_x = 3 end_y = 53 length = 911
-x = 33 y = 115 end_x = 3 end_y = 53 length = 912
-x = 33 y = 116 end_x = 3 end_y = 53 length = 913
-x = 33 y = 117 end_x = 3 end_y = 53 length = 914
-x = 32 y = 117 end_x = 3 end_y = 53 length = 915
-x = 31 y = 117 end_x = 3 end_y = 53 length = 916
-x = 30 y = 117 end_x = 3 end_y = 53 length = 917
-x = 29 y = 117 end_x = 3 end_y = 53 length = 918
-x = 28 y = 117 end_x = 3 end_y = 53 length = 919
-x = 27 y = 117 end_x = 3 end_y = 53 length = 920
-x = 26 y = 117 end_x = 3 end_y = 53 length = 921
-x = 25 y = 117 end_x = 3 end_y = 53 length = 922
-x = 24 y = 117 end_x = 3 end_y = 53 length = 923
-x = 23 y = 117 end_x = 3 end_y = 53 length = 924
-x = 22 y = 117 end_x = 3 end_y = 53 length = 925
-x = 21 y = 117 end_x = 3 end_y = 53 length = 926
-x = 20 y = 117 end_x = 3 end_y = 53 length = 927
-x = 19 y = 117 end_x = 3 end_y = 53 length = 928
-x = 18 y = 117 end_x = 3 end_y = 53 length = 929
-x = 17 y = 117 end_x = 3 end_y = 53 length = 930
-x = 16 y = 117 end_x = 3 end_y = 53 length = 931
-x = 15 y = 117 end_x = 3 end_y = 53 length = 932
-x = 15 y = 118 end_x = 3 end_y = 53 length = 933
-x = 15 y = 119 end_x = 3 end_y = 53 length = 934
-x = 14 y = 119 end_x = 3 end_y = 53 length = 935
-x = 13 y = 119 end_x = 3 end_y = 53 length = 936
-x = 13 y = 118 end_x = 3 end_y = 53 length = 937
-x = 13 y = 117 end_x = 3 end_y = 53 length = 938
-x = 13 y = 116 end_x = 3 end_y = 53 length = 939
-x = 13 y = 115 end_x = 3 end_y = 53 length = 940
-x = 14 y = 115 end_x = 3 end_y = 53 length = 941
-x = 15 y = 115 end_x = 3 end_y = 53 length = 942
-x = 16 y = 115 end_x = 3 end_y = 53 length = 943
-x = 17 y = 115 end_x = 3 end_y = 53 length = 944
-x = 18 y = 115 end_x = 3 end_y = 53 length = 945
-x = 19 y = 115 end_x = 3 end_y = 53 length = 946
-x = 20 y = 115 end_x = 3 end_y = 53 length = 947
-x = 21 y = 115 end_x = 3 end_y = 53 length = 948
-x = 22 y = 115 end_x = 3 end_y = 53 length = 949
-x = 23 y = 115 end_x = 3 end_y = 53 length = 950
-x = 24 y = 115 end_x = 3 end_y = 53 length = 951
-x = 25 y = 115 end_x = 3 end_y = 53 length = 952
-x = 26 y = 115 end_x = 3 end_y = 53 length = 953
-x = 27 y = 115 end_x = 3 end_y = 53 length = 954
-x = 27 y = 114 end_x = 3 end_y = 53 length = 955
-x = 27 y = 116 end_x = 3 end_y = 53 length = 955
-x = 25 y = 114 end_x = 3 end_y = 53 length = 953
-x = 25 y = 116 end_x = 3 end_y = 53 length = 953
-x = 21 y = 114 end_x = 3 end_y = 53 length = 949
-x = 21 y = 116 end_x = 3 end_y = 53 length = 949
-x = 17 y = 114 end_x = 3 end_y = 53 length = 945
-x = 17 y = 116 end_x = 3 end_y = 53 length = 945
-x = 13 y = 120 end_x = 3 end_y = 53 length = 937
-x = 13 y = 121 end_x = 3 end_y = 53 length = 938
-x = 14 y = 121 end_x = 3 end_y = 53 length = 939
-x = 15 y = 121 end_x = 3 end_y = 53 length = 940
-x = 16 y = 121 end_x = 3 end_y = 53 length = 941
-x = 17 y = 121 end_x = 3 end_y = 53 length = 942
-x = 18 y = 121 end_x = 3 end_y = 53 length = 943
-x = 19 y = 121 end_x = 3 end_y = 53 length = 944
-x = 20 y = 121 end_x = 3 end_y = 53 length = 945
-x = 21 y = 121 end_x = 3 end_y = 53 length = 946
-x = 22 y = 121 end_x = 3 end_y = 53 length = 947
-x = 23 y = 121 end_x = 3 end_y = 53 length = 948
-x = 23 y = 120 end_x = 3 end_y = 53 length = 949
-x = 23 y = 119 end_x = 3 end_y = 53 length = 950
-x = 22 y = 119 end_x = 3 end_y = 53 length = 951
-x = 21 y = 119 end_x = 3 end_y = 53 length = 952
-x = 21 y = 120 end_x = 3 end_y = 53 length = 953
-x = 24 y = 119 end_x = 3 end_y = 53 length = 951
-x = 25 y = 119 end_x = 3 end_y = 53 length = 952
-x = 26 y = 119 end_x = 3 end_y = 53 length = 953
-x = 27 y = 119 end_x = 3 end_y = 53 length = 954
-x = 27 y = 118 end_x = 3 end_y = 53 length = 955
-x = 25 y = 120 end_x = 3 end_y = 53 length = 953
-x = 25 y = 121 end_x = 3 end_y = 53 length = 954
-x = 21 y = 122 end_x = 3 end_y = 53 length = 947
-x = 21 y = 123 end_x = 3 end_y = 53 length = 948
-x = 20 y = 123 end_x = 3 end_y = 53 length = 949
-x = 19 y = 123 end_x = 3 end_y = 53 length = 950
-x = 18 y = 123 end_x = 3 end_y = 53 length = 951
-x = 17 y = 123 end_x = 3 end_y = 53 length = 952
-x = 17 y = 124 end_x = 3 end_y = 53 length = 953
-x = 17 y = 125 end_x = 3 end_y = 53 length = 954
-x = 16 y = 125 end_x = 3 end_y = 53 length = 955
-x = 15 y = 125 end_x = 3 end_y = 53 length = 956
-x = 14 y = 125 end_x = 3 end_y = 53 length = 957
-x = 13 y = 125 end_x = 3 end_y = 53 length = 958
-x = 13 y = 124 end_x = 3 end_y = 53 length = 959
-x = 13 y = 123 end_x = 3 end_y = 53 length = 960
-x = 13 y = 122 end_x = 3 end_y = 53 length = 961
-x = 15 y = 124 end_x = 3 end_y = 53 length = 957
-x = 15 y = 123 end_x = 3 end_y = 53 length = 958
-x = 15 y = 126 end_x = 3 end_y = 53 length = 957
-x = 15 y = 127 end_x = 3 end_y = 53 length = 958
-x = 14 y = 127 end_x = 3 end_y = 53 length = 959
-x = 13 y = 127 end_x = 3 end_y = 53 length = 960
-x = 12 y = 127 end_x = 3 end_y = 53 length = 961
-x = 11 y = 127 end_x = 3 end_y = 53 length = 962
-x = 19 y = 122 end_x = 3 end_y = 53 length = 951
-x = 22 y = 123 end_x = 3 end_y = 53 length = 949
-x = 23 y = 123 end_x = 3 end_y = 53 length = 950
-x = 24 y = 123 end_x = 3 end_y = 53 length = 951
-x = 25 y = 123 end_x = 3 end_y = 53 length = 952
-x = 26 y = 123 end_x = 3 end_y = 53 length = 953
-x = 27 y = 123 end_x = 3 end_y = 53 length = 954
-x = 28 y = 123 end_x = 3 end_y = 53 length = 955
-x = 29 y = 123 end_x = 3 end_y = 53 length = 956
-x = 30 y = 123 end_x = 3 end_y = 53 length = 957
-x = 31 y = 123 end_x = 3 end_y = 53 length = 958
-x = 32 y = 123 end_x = 3 end_y = 53 length = 959
-x = 33 y = 123 end_x = 3 end_y = 53 length = 960
-x = 33 y = 122 end_x = 3 end_y = 53 length = 961
-x = 33 y = 121 end_x = 3 end_y = 53 length = 962
-x = 34 y = 121 end_x = 3 end_y = 53 length = 963
-x = 35 y = 121 end_x = 3 end_y = 53 length = 964
-x = 36 y = 121 end_x = 3 end_y = 53 length = 965
-x = 37 y = 121 end_x = 3 end_y = 53 length = 966
-x = 38 y = 121 end_x = 3 end_y = 53 length = 967
-x = 39 y = 121 end_x = 3 end_y = 53 length = 968
-x = 37 y = 122 end_x = 3 end_y = 53 length = 967
-x = 37 y = 123 end_x = 3 end_y = 53 length = 968
-x = 36 y = 123 end_x = 3 end_y = 53 length = 969
-x = 35 y = 123 end_x = 3 end_y = 53 length = 970
-x = 37 y = 124 end_x = 3 end_y = 53 length = 969
-x = 37 y = 125 end_x = 3 end_y = 53 length = 970
-x = 36 y = 125 end_x = 3 end_y = 53 length = 971
-x = 35 y = 125 end_x = 3 end_y = 53 length = 972
-x = 37 y = 126 end_x = 3 end_y = 53 length = 971
-x = 37 y = 127 end_x = 3 end_y = 53 length = 972
-x = 36 y = 127 end_x = 3 end_y = 53 length = 973
-x = 35 y = 127 end_x = 3 end_y = 53 length = 974
-x = 34 y = 127 end_x = 3 end_y = 53 length = 975
-x = 33 y = 127 end_x = 3 end_y = 53 length = 976
-x = 32 y = 127 end_x = 3 end_y = 53 length = 977
-x = 31 y = 127 end_x = 3 end_y = 53 length = 978
-x = 30 y = 127 end_x = 3 end_y = 53 length = 979
-x = 29 y = 127 end_x = 3 end_y = 53 length = 980
-x = 28 y = 127 end_x = 3 end_y = 53 length = 981
-x = 27 y = 127 end_x = 3 end_y = 53 length = 982
-x = 27 y = 128 end_x = 3 end_y = 53 length = 983
-x = 27 y = 129 end_x = 3 end_y = 53 length = 984
-x = 26 y = 129 end_x = 3 end_y = 53 length = 985
-x = 25 y = 129 end_x = 3 end_y = 53 length = 986
-x = 25 y = 130 end_x = 3 end_y = 53 length = 987
-x = 25 y = 131 end_x = 3 end_y = 53 length = 988
-x = 24 y = 131 end_x = 3 end_y = 53 length = 989
-x = 23 y = 131 end_x = 3 end_y = 53 length = 990
-x = 23 y = 130 end_x = 3 end_y = 53 length = 991
-x = 23 y = 129 end_x = 3 end_y = 53 length = 992
-x = 22 y = 129 end_x = 3 end_y = 53 length = 993
-x = 21 y = 129 end_x = 3 end_y = 53 length = 994
-x = 21 y = 128 end_x = 3 end_y = 53 length = 995
-x = 21 y = 127 end_x = 3 end_y = 53 length = 996
-x = 21 y = 126 end_x = 3 end_y = 53 length = 997
+0 0 1 0 1 1 1 1 1 0 0 1 0 0 1 0 1 1 1 1 0
+1 0 1 0 1 1 1 1 1 0 0 1 1 0 1 0 1 1 1 1 1
+0 1 1 0 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 1 2
+1 1 1 0 1 1 1 1 1 0 0 1 1 1 1 0 1 1 1 1 3
+0 0 0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 1 1 1 4
+1 0 0 1 1 1 1 1 1 0 0 1 1 0 0 1 1 1 1 1 5
+0 1 0 1 1 1 1 1 1 0 0 1 0 1 0 1 1 1 1 1 6
+1 1 0 1 1 1 1 1 1 0 0 1 1 1 0 1 1 1 1 1 7
+0 0 1 1 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 8
+1 0 1 1 1 1 1 1 1 0 0 1 1 0 1 1 1 1 1 1 9
+0 1 1 1 1 1 1 1 1 0 0 1 0 1 1 1 1 1 1 1 10
+1 1 1 1 1 1 1 1 1 0 0 1 1 1 1 1 1 1 1 1 11
+0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 12
+1 0 0 0 0 0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 13
+0 1 0 0 0 0 0 0 0 1 0 1 0 1 0 0 0 0 0 0 14
+1 1 0 0 0 0 0 0 0 1 0 1 1 1 0 0 0 0 0 0 15
+0 0 1 0 0 0 0 0 0 1 0 1 0 0 1 0 0 0 0 0 16
+1 0 1 0 0 0 0 0 0 1 0 1 1 0 1 0 0 0 0 0 17
+0 1 1 0 0 0 0 0 0 1 0 1 0 1 1 0 0 0 0 0 18
+1 1 1 0 0 0 0 0 0 1 0 1 1 1 1 0 0 0 0 0 19
+0 0 0 1 0 0 0 0 0 1 0 1 0 0 0 1 0 0 0 0 20
+1 0 0 1 0 0 0 0 0 1 0 1 1 0 0 1 0 0 0 0 21
+0 1 0 1 0 0 0 0 0 1 0 1 0 1 0 1 0 0 0 0 22
+1 1 0 1 0 0 0 0 0 1 0 1 1 1 0 1 0 0 0 0 23
+0 0 1 1 0 0 0 0 0 1 0 1 0 0 1 1 0 0 0 0 24
+1 0 1 1 0 0 0 0 0 1 0 1 1 0 1 1 0 0 0 0 25
+0 1 1 1 0 0 0 0 0 1 0 1 0 1 1 1 0 0 0 0 26
+1 1 1 1 0 0 0 0 0 1 0 1 1 1 1 1 0 0 0 0 27
+0 0 0 0 1 0 0 0 0 1 0 1 0 0 0 0 1 0 0 0 28
+1 0 0 0 1 0 0 0 0 1 0 1 1 0 0 0 1 0 0 0 29
+0 1 0 0 1 0 0 0 0 1 0 1 0 1 0 0 1 0 0 0 30
+1 1 0 0 1 0 0 0 0 1 0 1 1 1 0 0 1 0 0 0 31
+0 0 1 0 1 0 0 0 0 1 0 1 0 0 1 0 1 0 0 0 32
+1 0 1 0 1 0 0 0 0 1 0 1 1 0 1 0 1 0 0 0 33
+0 1 1 0 1 0 0 0 0 1 0 1 0 1 1 0 1 0 0 0 34
+1 1 1 0 1 0 0 0 0 1 0 1 1 1 1 0 1 0 0 0 35
+0 0 0 1 1 0 0 0 0 1 0 1 0 0 0 1 1 0 0 0 36
+1 0 0 1 1 0 0 0 0 1 0 1 1 0 0 1 1 0 0 0 37
+0 1 0 1 1 0 0 0 0 1 0 1 0 1 0 1 1 0 0 0 38
+1 1 0 1 1 0 0 0 0 1 0 1 1 1 0 1 1 0 0 0 39
+0 0 1 1 1 0 0 0 0 1 0 1 0 0 1 1 1 0 0 0 40
+1 0 1 1 1 0 0 0 0 1 0 1 1 0 1 1 1 0 0 0 41
+0 1 1 1 1 0 0 0 0 1 0 1 0 1 1 1 1 0 0 0 42
+1 1 1 1 1 0 0 0 0 1 0 1 1 1 1 1 1 0 0 0 43
+0 0 0 0 0 1 0 0 0 1 0 1 0 0 0 0 0 1 0 0 44
+1 0 0 0 0 1 0 0 0 1 0 1 1 0 0 0 0 1 0 0 45
+0 1 0 0 0 1 0 0 0 1 0 1 0 1 0 0 0 1 0 0 46
+1 1 0 0 0 1 0 0 0 1 0 1 1 1 0 0 0 1 0 0 47
+0 0 1 0 0 1 0 0 0 1 0 1 0 0 1 0 0 1 0 0 48
+1 0 1 0 0 1 0 0 0 1 0 1 1 0 1 0 0 1 0 0 49
+0 1 1 0 0 1 0 0 0 1 0 1 0 1 1 0 0 1 0 0 50
+1 1 1 0 0 1 0 0 0 1 0 1 1 1 1 0 0 1 0 0 51
+0 0 0 1 0 1 0 0 0 1 0 1 0 0 0 1 0 1 0 0 52
+1 0 0 1 0 1 0 0 0 1 0 1 1 0 0 1 0 1 0 0 53
+0 1 0 1 0 1 0 0 0 1 0 1 0 1 0 1 0 1 0 0 54
+1 1 0 1 0 1 0 0 0 1 0 1 1 1 0 1 0 1 0 0 55
+0 0 1 1 0 1 0 0 0 1 0 1 0 0 1 1 0 1 0 0 56
+1 0 1 1 0 1 0 0 0 1 0 1 1 0 1 1 0 1 0 0 57
+0 1 1 1 0 1 0 0 0 1 0 1 0 1 1 1 0 1 0 0 58
+1 1 1 1 0 1 0 0 0 1 0 1 1 1 1 1 0 1 0 0 59
+0 0 0 0 1 1 0 0 0 1 0 1 0 0 0 0 1 1 0 0 60
+1 0 0 0 1 1 0 0 0 1 0 1 1 0 0 0 1 1 0 0 61
+0 1 0 0 1 1 0 0 0 1 0 1 0 1 0 0 1 1 0 0 62
+1 1 0 0 1 1 0 0 0 1 0 1 1 1 0 0 1 1 0 0 63
+0 0 1 0 1 1 0 0 0 1 0 1 0 0 1 0 1 1 0 0 64
+1 0 1 0 1 1 0 0 0 1 0 1 1 0 1 0 1 1 0 0 65
+0 1 1 0 1 1 0 0 0 1 0 1 0 1 1 0 1 1 0 0 66
+1 1 1 0 1 1 0 0 0 1 0 1 1 1 1 0 1 1 0 0 67
+0 0 0 1 1 1 0 0 0 1 0 1 0 0 0 1 1 1 0 0 68
+1 0 0 1 1 1 0 0 0 1 0 1 1 0 0 1 1 1 0 0 69
+0 1 0 1 1 1 0 0 0 1 0 1 0 1 0 1 1 1 0 0 70
+1 1 0 1 1 1 0 0 0 1 0 1 1 1 0 1 1 1 0 0 71
+0 0 1 1 1 1 0 0 0 1 0 1 0 0 1 1 1 1 0 0 72
+1 0 1 1 1 1 0 0 0 1 0 1 1 0 1 1 1 1 0 0 73
+0 1 1 1 1 1 0 0 0 1 0 1 0 1 1 1 1 1 0 0 74
+1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 1 1 1 0 0 75
+0 0 0 0 0 0 1 0 0 1 0 1 0 0 0 0 0 0 1 0 76
+1 0 0 0 0 0 1 0 0 1 0 1 1 0 0 0 0 0 1 0 77
+0 1 0 0 0 0 1 0 0 1 0 1 0 1 0 0 0 0 1 0 78
+1 1 0 0 0 0 1 0 0 1 0 1 1 1 0 0 0 0 1 0 79
+0 0 1 0 0 0 1 0 0 1 0 1 0 0 1 0 0 0 1 0 80
+1 0 1 0 0 0 1 0 0 1 0 1 1 0 1 0 0 0 1 0 81
+0 1 1 0 0 0 1 0 0 1 0 1 0 1 1 0 0 0 1 0 82
+1 1 1 0 0 0 1 0 0 1 0 1 1 1 1 0 0 0 1 0 83
+0 0 0 1 0 0 1 0 0 1 0 1 0 0 0 1 0 0 1 0 84
+1 0 0 1 0 0 1 0 0 1 0 1 1 0 0 1 0 0 1 0 85
+0 1 0 1 0 0 1 0 0 1 0 1 0 1 0 1 0 0 1 0 86
+1 1 0 1 0 0 1 0 0 1 0 1 1 1 0 1 0 0 1 0 87
+0 0 1 1 0 0 1 0 0 1 0 1 0 0 1 1 0 0 1 0 88
+1 0 1 1 0 0 1 0 0 1 0 1 1 0 1 1 0 0 1 0 89
+0 1 1 1 0 0 1 0 0 1 0 1 0 1 1 1 0 0 1 0 90
+1 1 1 1 0 0 1 0 0 1 0 1 1 1 1 1 0 0 1 0 91
+0 0 0 0 1 0 1 0 0 1 0 1 0 0 0 0 1 0 1 0 92
+1 0 0 0 1 0 1 0 0 1 0 1 1 0 0 0 1 0 1 0 93
+0 1 0 0 1 0 1 0 0 1 0 1 0 1 0 0 1 0 1 0 94
+1 1 0 0 1 0 1 0 0 1 0 1 1 1 0 0 1 0 1 0 95
+0 0 1 0 1 0 1 0 0 1 0 1 0 0 1 0 1 0 1 0 96
+1 0 1 0 1 0 1 0 0 1 0 1 1 0 1 0 1 0 1 0 97
+0 1 1 0 1 0 1 0 0 1 0 1 0 1 1 0 1 0 1 0 98
+1 1 1 0 1 0 1 0 0 1 0 1 1 1 1 0 1 0 1 0 99
+0 0 0 1 1 0 1 0 0 1 0 1 0 0 0 1 1 0 1 0 100
+1 0 0 1 1 0 1 0 0 1 0 1 1 0 0 1 1 0 1 0 101
+0 1 0 1 1 0 1 0 0 1 0 1 0 1 0 1 1 0 1 0 102
+1 1 0 1 1 0 1 0 0 1 0 1 1 1 0 1 1 0 1 0 103
+0 0 1 1 1 0 1 0 0 1 0 1 0 0 1 1 1 0 1 0 104
+1 0 1 1 1 0 1 0 0 1 0 1 1 0 1 1 1 0 1 0 105
+0 1 1 1 1 0 1 0 0 1 0 1 0 1 1 1 1 0 1 0 106
+1 1 1 1 1 0 1 0 0 1 0 1 1 1 1 1 1 0 1 0 107
+0 0 0 0 0 1 1 0 0 1 0 1 0 0 0 0 0 1 1 0 108
+1 0 0 0 0 1 1 0 0 1 0 1 1 0 0 0 0 1 1 0 109
+0 1 0 0 0 1 1 0 0 1 0 1 0 1 0 0 0 1 1 0 110
+1 1 0 0 0 1 1 0 0 1 0 1 1 1 0 0 0 1 1 0 111
+0 0 1 0 0 1 1 0 0 1 0 1 0 0 1 0 0 1 1 0 112
+1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 0 113
+0 1 1 0 0 1 1 0 0 1 0 1 0 1 1 0 0 1 1 0 114
+1 1 1 0 0 1 1 0 0 1 0 1 1 1 1 0 0 1 1 0 115
+0 0 0 1 0 1 1 0 0 1 0 1 0 0 0 1 0 1 1 0 116
+1 0 0 1 0 1 1 0 0 1 0 1 1 0 0 1 0 1 1 0 117
+0 1 0 1 0 1 1 0 0 1 0 1 0 1 0 1 0 1 1 0 118
+1 1 0 1 0 1 1 0 0 1 0 1 1 1 0 1 0 1 1 0 119
+0 0 1 1 0 1 1 0 0 1 0 1 0 0 1 1 0 1 1 0 120
+1 0 1 1 0 1 1 0 0 1 0 1 1 0 1 1 0 1 1 0 121
+0 1 1 1 0 1 1 0 0 1 0 1 0 1 1 1 0 1 1 0 122
+1 1 1 1 0 1 1 0 0 1 0 1 1 1 1 1 0 1 1 0 123
+0 0 0 0 1 1 1 0 0 1 0 1 0 0 0 0 1 1 1 0 124
+1 0 0 0 1 1 1 0 0 1 0 1 1 0 0 0 1 1 1 0 125
+0 1 0 0 1 1 1 0 0 1 0 1 0 1 0 0 1 1 1 0 126
+1 1 0 0 1 1 1 0 0 1 0 1 1 1 0 0 1 1 1 0 127
+0 0 1 0 1 1 1 0 0 1 0 1 0 0 1 0 1 1 1 0 128
+1 0 1 0 1 1 1 0 0 1 0 1 1 0 1 0 1 1 1 0 129
+0 1 1 0 1 1 1 0 0 1 0 1 0 1 1 0 1 1 1 0 130
+1 1 1 0 1 1 1 0 0 1 0 1 1 1 1 0 1 1 1 0 131
+0 0 0 1 1 1 1 0 0 1 0 1 0 0 0 1 1 1 1 0 132
+1 0 0 1 1 1 1 0 0 1 0 1 1 0 0 1 1 1 1 0 133
+0 1 0 1 1 1 1 0 0 1 0 1 0 1 0 1 1 1 1 0 134
+1 1 0 1 1 1 1 0 0 1 0 1 1 1 0 1 1 1 1 0 135
+0 0 1 1 1 1 1 0 0 1 0 1 0 0 1 1 1 1 1 0 136
+1 0 1 1 1 1 1 0 0 1 0 1 1 0 1 1 1 1 1 0 137
+0 1 1 1 1 1 1 0 0 1 0 1 0 1 1 1 1 1 1 0 138
+1 1 1 1 1 1 1 0 0 1 0 1 1 1 1 1 1 1 1 0 139
+0 0 0 0 0 0 0 1 0 1 0 1 0 0 0 0 0 0 0 1 140
+1 0 0 0 0 0 0 1 0 1 0 1 1 0 0 0 0 0 0 1 141
+0 1 0 0 0 0 0 1 0 1 0 1 0 1 0 0 0 0 0 1 142
+1 1 0 0 0 0 0 1 0 1 0 1 1 1 0 0 0 0 0 1 143
+0 0 1 0 0 0 0 1 0 1 0 1 0 0 1 0 0 0 0 1 144
+1 0 1 0 0 0 0 1 0 1 0 1 1 0 1 0 0 0 0 1 145
+0 1 1 0 0 0 0 1 0 1 0 1 0 1 1 0 0 0 0 1 146
+1 1 1 0 0 0 0 1 0 1 0 1 1 1 1 0 0 0 0 1 147
+0 0 0 1 0 0 0 1 0 1 0 1 0 0 0 1 0 0 0 1 148
+1 0 0 1 0 0 0 1 0 1 0 1 1 0 0 1 0 0 0 1 149
+0 1 0 1 0 0 0 1 0 1 0 1 0 1 0 1 0 0 0 1 150
+1 1 0 1 0 0 0 1 0 1 0 1 1 1 0 1 0 0 0 1 151
+0 0 1 1 0 0 0 1 0 1 0 1 0 0 1 1 0 0 0 1 152
+1 0 1 1 0 0 0 1 0 1 0 1 1 0 1 1 0 0 0 1 153
+0 1 1 1 0 0 0 1 0 1 0 1 0 1 1 1 0 0 0 1 154
+1 1 1 1 0 0 0 1 0 1 0 1 1 1 1 1 0 0 0 1 155
+0 0 0 0 1 0 0 1 0 1 0 1 0 0 0 0 1 0 0 1 156
+1 0 0 0 1 0 0 1 0 1 0 1 1 0 0 0 1 0 0 1 157
+0 1 0 0 1 0 0 1 0 1 0 1 0 1 0 0 1 0 0 1 158
+1 1 0 0 1 0 0 1 0 1 0 1 1 1 0 0 1 0 0 1 159
+0 0 1 0 1 0 0 1 0 1 0 1 0 0 1 0 1 0 0 1 160
+1 0 1 0 1 0 0 1 0 1 0 1 1 0 1 0 1 0 0 1 161
+0 1 1 0 1 0 0 1 0 1 0 1 0 1 1 0 1 0 0 1 162
+1 1 1 0 1 0 0 1 0 1 0 1 1 1 1 0 1 0 0 1 163
+0 0 0 1 1 0 0 1 0 1 0 1 0 0 0 1 1 0 0 1 164
+1 0 0 1 1 0 0 1 0 1 0 1 1 0 0 1 1 0 0 1 165
+0 1 0 1 1 0 0 1 0 1 0 1 0 1 0 1 1 0 0 1 166
+1 1 0 1 1 0 0 1 0 1 0 1 1 1 0 1 1 0 0 1 167
+0 0 1 1 1 0 0 1 0 1 0 1 0 0 1 1 1 0 0 1 168
+1 0 1 1 1 0 0 1 0 1 0 1 1 0 1 1 1 0 0 1 169
+0 1 1 1 1 0 0 1 0 1 0 1 0 1 1 1 1 0 0 1 170
+1 1 1 1 1 0 0 1 0 1 0 1 1 1 1 1 1 0 0 1 171
+0 0 0 0 0 1 0 1 0 1 0 1 0 0 0 0 0 1 0 1 172
+1 0 0 0 0 1 0 1 0 1 0 1 1 0 0 0 0 1 0 1 173
+0 1 0 0 0 1 0 1 0 1 0 1 0 1 0 0 0 1 0 1 174
+1 1 0 0 0 1 0 1 0 1 0 1 1 1 0 0 0 1 0 1 175
+0 0 1 0 0 1 0 1 0 1 0 1 0 0 1 0 0 1 0 1 176
+1 0 1 0 0 1 0 1 0 1 0 1 1 0 1 0 0 1 0 1 177
+0 1 1 0 0 1 0 1 0 1 0 1 0 1 1 0 0 1 0 1 178
+1 1 1 0 0 1 0 1 0 1 0 1 1 1 1 0 0 1 0 1 179
+0 0 0 1 0 1 0 1 0 1 0 1 0 0 0 1 0 1 0 1 180
+1 0 0 1 0 1 0 1 0 1 0 1 1 0 0 1 0 1 0 1 181
+0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 182
+1 1 0 1 0 1 0 1 0 1 0 1 1 1 0 1 0 1 0 1 183
+0 0 1 1 0 1 0 1 0 1 0 1 0 0 1 1 0 1 0 1 184
+1 0 1 1 0 1 0 1 0 1 0 1 1 0 1 1 0 1 0 1 185
+0 1 1 1 0 1 0 1 0 1 0 1 0 1 1 1 0 1 0 1 186
+1 1 1 1 0 1 0 1 0 1 0 1 1 1 1 1 0 1 0 1 187
+0 0 0 0 1 1 0 1 0 1 0 1 0 0 0 0 1 1 0 1 188
+1 0 0 0 1 1 0 1 0 1 0 1 1 0 0 0 1 1 0 1 189
+0 1 0 0 1 1 0 1 0 1 0 1 0 1 0 0 1 1 0 1 190
+1 1 0 0 1 1 0 1 0 1 0 1 1 1 0 0 1 1 0 1 191
+0 0 1 0 1 1 0 1 0 1 0 1 0 0 1 0 1 1 0 1 192
+1 0 1 0 1 1 0 1 0 1 0 1 1 0 1 0 1 1 0 1 193
+0 1 1 0 1 1 0 1 0 1 0 1 0 1 1 0 1 1 0 1 194
+1 1 1 0 1 1 0 1 0 1 0 1 1 1 1 0 1 1 0 1 195
+0 0 0 1 1 1 0 1 0 1 0 1 0 0 0 1 1 1 0 1 196
+1 0 0 1 1 1 0 1 0 1 0 1 1 0 0 1 1 1 0 1 197
+0 1 0 1 1 1 0 1 0 1 0 1 0 1 0 1 1 1 0 1 198
+1 1 0 1 1 1 0 1 0 1 0 1 1 1 0 1 1 1 0 1 199
+0 0 1 1 1 1 0 1 0 1 0 1 0 0 1 1 1 1 0 1 200
+1 0 1 1 1 1 0 1 0 1 0 1 1 0 1 1 1 1 0 1 201
+0 1 1 1 1 1 0 1 0 1 0 1 0 1 1 1 1 1 0 1 202
+1 1 1 1 1 1 0 1 0 1 0 1 1 1 1 1 1 1 0 1 203
+0 0 0 0 0 0 1 1 0 1 0 1 0 0 0 0 0 0 1 1 204
+1 0 0 0 0 0 1 1 0 1 0 1 1 0 0 0 0 0 1 1 205
+0 1 0 0 0 0 1 1 0 1 0 1 0 1 0 0 0 0 1 1 206
+1 1 0 0 0 0 1 1 0 1 0 1 1 1 0 0 0 0 1 1 207
+0 0 1 0 0 0 1 1 0 1 0 1 0 0 1 0 0 0 1 1 208
+1 0 1 0 0 0 1 1 0 1 0 1 1 0 1 0 0 0 1 1 209
+0 1 1 0 0 0 1 1 0 1 0 1 0 1 1 0 0 0 1 1 210
+1 1 1 0 0 0 1 1 0 1 0 1 1 1 1 0 0 0 1 1 211
+0 0 0 1 0 0 1 1 0 1 0 1 0 0 0 1 0 0 1 1 212
+1 0 0 1 0 0 1 1 0 1 0 1 1 0 0 1 0 0 1 1 213
+0 1 0 1 0 0 1 1 0 1 0 1 0 1 0 1 0 0 1 1 214
+1 1 0 1 0 0 1 1 0 1 0 1 1 1 0 1 0 0 1 1 215
+0 0 1 1 0 0 1 1 0 1 0 1 0 0 1 1 0 0 1 1 216
+1 0 1 1 0 0 1 1 0 1 0 1 1 0 1 1 0 0 1 1 217
+0 1 1 1 0 0 1 1 0 1 0 1 0 1 1 1 0 0 1 1 218
+1 1 1 1 0 0 1 1 0 1 0 1 1 1 1 1 0 0 1 1 219
+0 0 0 0 1 0 1 1 0 1 0 1 0 0 0 0 1 0 1 1 220
+1 0 0 0 1 0 1 1 0 1 0 1 1 0 0 0 1 0 1 1 221
+0 1 0 0 1 0 1 1 0 1 0 1 0 1 0 0 1 0 1 1 222
+1 1 0 0 1 0 1 1 0 1 0 1 1 1 0 0 1 0 1 1 223
+0 0 1 0 1 0 1 1 0 1 0 1 0 0 1 0 1 0 1 1 224
+1 0 1 0 1 0 1 1 0 1 0 1 1 0 1 0 1 0 1 1 225
+0 1 1 0 1 0 1 1 0 1 0 1 0 1 1 0 1 0 1 1 226
+1 1 1 0 1 0 1 1 0 1 0 1 1 1 1 0 1 0 1 1 227
+0 0 0 1 1 0 1 1 0 1 0 1 0 0 0 1 1 0 1 1 228
+1 0 0 1 1 0 1 1 0 1 0 1 1 0 0 1 1 0 1 1 229
+0 1 0 1 1 0 1 1 0 1 0 1 0 1 0 1 1 0 1 1 230
+1 1 0 1 1 0 1 1 0 1 0 1 1 1 0 1 1 0 1 1 231
+0 0 1 1 1 0 1 1 0 1 0 1 0 0 1 1 1 0 1 1 232
+1 0 1 1 1 0 1 1 0 1 0 1 1 0 1 1 1 0 1 1 233
+0 1 1 1 1 0 1 1 0 1 0 1 0 1 1 1 1 0 1 1 234
+1 1 1 1 1 0 1 1 0 1 0 1 1 1 1 1 1 0 1 1 235
+0 0 0 0 0 1 1 1 0 1 0 1 0 0 0 0 0 1 1 1 236
+1 0 0 0 0 1 1 1 0 1 0 1 1 0 0 0 0 1 1 1 237
+0 1 0 0 0 1 1 1 0 1 0 1 0 1 0 0 0 1 1 1 238
+1 1 0 0 0 1 1 1 0 1 0 1 1 1 0 0 0 1 1 1 239
+0 0 1 0 0 1 1 1 0 1 0 1 0 0 1 0 0 1 1 1 240
+1 0 1 0 0 1 1 1 0 1 0 1 1 0 1 0 0 1 1 1 241
+0 1 1 0 0 1 1 1 0 1 0 1 0 1 1 0 0 1 1 1 242
+1 1 1 0 0 1 1 1 0 1 0 1 1 1 1 0 0 1 1 1 243
+0 0 0 1 0 1 1 1 0 1 0 1 0 0 0 1 0 1 1 1 244
+1 0 0 1 0 1 1 1 0 1 0 1 1 0 0 1 0 1 1 1 245
+0 1 0 1 0 1 1 1 0 1 0 1 0 1 0 1 0 1 1 1 246
+1 1 0 1 0 1 1 1 0 1 0 1 1 1 0 1 0 1 1 1 247
+0 0 1 1 0 1 1 1 0 1 0 1 0 0 1 1 0 1 1 1 248
+1 0 1 1 0 1 1 1 0 1 0 1 1 0 1 1 0 1 1 1 249
+0 1 1 1 0 1 1 1 0 1 0 1 0 1 1 1 0 1 1 1 250
+1 1 1 1 0 1 1 1 0 1 0 1 1 1 1 1 0 1 1 1 251
+0 0 0 0 1 1 1 1 0 1 0 1 0 0 0 0 1 1 1 1 252
+1 0 0 0 1 1 1 1 0 1 0 1 1 0 0 0 1 1 1 1 253
+0 1 0 0 1 1 1 1 0 1 0 1 0 1 0 0 1 1 1 1 254
+1 1 0 0 1 1 1 1 0 1 0 1 1 1 0 0 1 1 1 1 255
+0 0 1 0 1 1 1 1 0 1 0 1 0 0 1 0 1 1 1 1 256
+1 0 1 0 1 1 1 1 0 1 0 1 1 0 1 0 1 1 1 1 257
+0 1 1 0 1 1 1 1 0 1 0 1 0 1 1 0 1 1 1 1 258
+1 1 1 0 1 1 1 1 0 1 0 1 1 1 1 0 1 1 1 1 259
+0 0 0 1 1 1 1 1 0 1 0 1 0 0 0 1 1 1 1 1 260
+1 0 0 1 1 1 1 1 0 1 0 1 1 0 0 1 1 1 1 1 261
+0 1 0 1 1 1 1 1 0 1 0 1 0 1 0 1 1 1 1 1 262
+1 1 0 1 1 1 1 1 0 1 0 1 1 1 0 1 1 1 1 1 263
+0 0 1 1 1 1 1 1 0 1 0 1 0 0 1 1 1 1 1 1 264
+1 0 1 1 1 1 1 1 0 1 0 1 1 0 1 1 1 1 1 1 265
+0 1 1 1 1 1 1 1 0 1 0 1 0 1 1 1 1 1 1 1 266
+1 1 1 1 1 1 1 1 0 1 0 1 1 1 1 1 1 1 1 1 267
+0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 268
+1 0 0 0 0 0 0 0 1 1 0 1 1 0 0 0 0 0 0 0 269
+0 1 0 0 0 0 0 0 1 1 0 1 0 1 0 0 0 0 0 0 270
+1 1 0 0 0 0 0 0 1 1 0 1 1 1 0 0 0 0 0 0 271
+0 0 1 0 0 0 0 0 1 1 0 1 0 0 1 0 0 0 0 0 272
+1 0 1 0 0 0 0 0 1 1 0 1 1 0 1 0 0 0 0 0 273
+0 1 1 0 0 0 0 0 1 1 0 1 0 1 1 0 0 0 0 0 274
+1 1 1 0 0 0 0 0 1 1 0 1 1 1 1 0 0 0 0 0 275
+0 0 0 1 0 0 0 0 1 1 0 1 0 0 0 1 0 0 0 0 276
+1 0 0 1 0 0 0 0 1 1 0 1 1 0 0 1 0 0 0 0 277
+0 1 0 1 0 0 0 0 1 1 0 1 0 1 0 1 0 0 0 0 278
+1 1 0 1 0 0 0 0 1 1 0 1 1 1 0 1 0 0 0 0 279
+0 0 1 1 0 0 0 0 1 1 0 1 0 0 1 1 0 0 0 0 280
+1 0 1 1 0 0 0 0 1 1 0 1 1 0 1 1 0 0 0 0 281
+0 1 1 1 0 0 0 0 1 1 0 1 0 1 1 1 0 0 0 0 282
+1 1 1 1 0 0 0 0 1 1 0 1 1 1 1 1 0 0 0 0 283
+0 0 0 0 1 0 0 0 1 1 0 1 0 0 0 0 1 0 0 0 284
+1 0 0 0 1 0 0 0 1 1 0 1 1 0 0 0 1 0 0 0 285
+0 1 0 0 1 0 0 0 1 1 0 1 0 1 0 0 1 0 0 0 286
+1 1 0 0 1 0 0 0 1 1 0 1 1 1 0 0 1 0 0 0 287
+0 0 1 0 1 0 0 0 1 1 0 1 0 0 1 0 1 0 0 0 288
+1 0 1 0 1 0 0 0 1 1 0 1 1 0 1 0 1 0 0 0 289
+0 1 1 0 1 0 0 0 1 1 0 1 0 1 1 0 1 0 0 0 290
+1 1 1 0 1 0 0 0 1 1 0 1 1 1 1 0 1 0 0 0 291
+0 0 0 1 1 0 0 0 1 1 0 1 0 0 0 1 1 0 0 0 292
+1 0 0 1 1 0 0 0 1 1 0 1 1 0 0 1 1 0 0 0 293
+0 1 0 1 1 0 0 0 1 1 0 1 0 1 0 1 1 0 0 0 294
+1 1 0 1 1 0 0 0 1 1 0 1 1 1 0 1 1 0 0 0 295
+0 0 1 1 1 0 0 0 1 1 0 1 0 0 1 1 1 0 0 0 296
+1 0 1 1 1 0 0 0 1 1 0 1 1 0 1 1 1 0 0 0 297
+0 1 1 1 1 0 0 0 1 1 0 1 0 1 1 1 1 0 0 0 298
+1 1 1 1 1 0 0 0 1 1 0 1 1 1 1 1 1 0 0 0 299
+0 0 0 0 0 1 0 0 1 1 0 1 0 0 0 0 0 1 0 0 300
+1 0 0 0 0 1 0 0 1 1 0 1 1 0 0 0 0 1 0 0 301
+0 1 0 0 0 1 0 0 1 1 0 1 0 1 0 0 0 1 0 0 302
+1 1 0 0 0 1 0 0 1 1 0 1 1 1 0 0 0 1 0 0 303
+0 0 1 0 0 1 0 0 1 1 0 1 0 0 1 0 0 1 0 0 304
+1 0 1 0 0 1 0 0 1 1 0 1 1 0 1 0 0 1 0 0 305
+0 1 1 0 0 1 0 0 1 1 0 1 0 1 1 0 0 1 0 0 306
+1 1 1 0 0 1 0 0 1 1 0 1 1 1 1 0 0 1 0 0 307
+0 0 0 1 0 1 0 0 1 1 0 1 0 0 0 1 0 1 0 0 308
+1 0 0 1 0 1 0 0 1 1 0 1 1 0 0 1 0 1 0 0 309
+0 1 0 1 0 1 0 0 1 1 0 1 0 1 0 1 0 1 0 0 310
+1 1 0 1 0 1 0 0 1 1 0 1 1 1 0 1 0 1 0 0 311
+0 0 1 1 0 1 0 0 1 1 0 1 0 0 1 1 0 1 0 0 312
+1 0 1 1 0 1 0 0 1 1 0 1 1 0 1 1 0 1 0 0 313
+0 1 1 1 0 1 0 0 1 1 0 1 0 1 1 1 0 1 0 0 314
+1 1 1 1 0 1 0 0 1 1 0 1 1 1 1 1 0 1 0 0 315
+0 0 0 0 1 1 0 0 1 1 0 1 0 0 0 0 1 1 0 0 316
+1 0 0 0 1 1 0 0 1 1 0 1 1 0 0 0 1 1 0 0 317
+0 1 0 0 1 1 0 0 1 1 0 1 0 1 0 0 1 1 0 0 318
+1 1 0 0 1 1 0 0 1 1 0 1 1 1 0 0 1 1 0 0 319
+0 0 1 0 1 1 0 0 1 1 0 1 0 0 1 0 1 1 0 0 320
+1 0 1 0 1 1 0 0 1 1 0 1 1 0 1 0 1 1 0 0 321
+0 1 1 0 1 1 0 0 1 1 0 1 0 1 1 0 1 1 0 0 322
+1 1 1 0 1 1 0 0 1 1 0 1 1 1 1 0 1 1 0 0 323
+0 0 0 1 1 1 0 0 1 1 0 1 0 0 0 1 1 1 0 0 324
+1 0 0 1 1 1 0 0 1 1 0 1 1 0 0 1 1 1 0 0 325
+0 1 0 1 1 1 0 0 1 1 0 1 0 1 0 1 1 1 0 0 326
+1 1 0 1 1 1 0 0 1 1 0 1 1 1 0 1 1 1 0 0 327
+0 0 1 1 1 1 0 0 1 1 0 1 0 0 1 1 1 1 0 0 328
+1 0 1 1 1 1 0 0 1 1 0 1 1 0 1 1 1 1 0 0 329
+0 1 1 1 1 1 0 0 1 1 0 1 0 1 1 1 1 1 0 0 330
+1 1 1 1 1 1 0 0 1 1 0 1 1 1 1 1 1 1 0 0 331
+0 0 0 0 0 0 1 0 1 1 0 1 0 0 0 0 0 0 1 0 332
+1 0 0 0 0 0 1 0 1 1 0 1 1 0 0 0 0 0 1 0 333
+0 1 0 0 0 0 1 0 1 1 0 1 0 1 0 0 0 0 1 0 334
+1 1 0 0 0 0 1 0 1 1 0 1 1 1 0 0 0 0 1 0 335
+0 0 1 0 0 0 1 0 1 1 0 1 0 0 1 0 0 0 1 0 336
+1 0 1 0 0 0 1 0 1 1 0 1 1 0 1 0 0 0 1 0 337
+0 1 1 0 0 0 1 0 1 1 0 1 0 1 1 0 0 0 1 0 338
+1 1 1 0 0 0 1 0 1 1 0 1 1 1 1 0 0 0 1 0 339
+0 0 0 1 0 0 1 0 1 1 0 1 0 0 0 1 0 0 1 0 340
+1 0 0 1 0 0 1 0 1 1 0 1 1 0 0 1 0 0 1 0 341
+0 1 0 1 0 0 1 0 1 1 0 1 0 1 0 1 0 0 1 0 342
+1 1 0 1 0 0 1 0 1 1 0 1 1 1 0 1 0 0 1 0 343
+0 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 0 0 1 0 344
+1 0 1 1 0 0 1 0 1 1 0 1 1 0 1 1 0 0 1 0 345
+0 1 1 1 0 0 1 0 1 1 0 1 0 1 1 1 0 0 1 0 346
+1 1 1 1 0 0 1 0 1 1 0 1 1 1 1 1 0 0 1 0 347
+0 0 0 0 1 0 1 0 1 1 0 1 0 0 0 0 1 0 1 0 348
+1 0 0 0 1 0 1 0 1 1 0 1 1 0 0 0 1 0 1 0 349
+0 1 0 0 1 0 1 0 1 1 0 1 0 1 0 0 1 0 1 0 350
+1 1 0 0 1 0 1 0 1 1 0 1 1 1 0 0 1 0 1 0 351
+0 0 1 0 1 0 1 0 1 1 0 1 0 0 1 0 1 0 1 0 352
+1 0 1 0 1 0 1 0 1 1 0 1 1 0 1 0 1 0 1 0 353
+0 1 1 0 1 0 1 0 1 1 0 1 0 1 1 0 1 0 1 0 354
+1 1 1 0 1 0 1 0 1 1 0 1 1 1 1 0 1 0 1 0 355
+0 0 0 1 1 0 1 0 1 1 0 1 0 0 0 1 1 0 1 0 356
+1 0 0 1 1 0 1 0 1 1 0 1 1 0 0 1 1 0 1 0 357
+0 1 0 1 1 0 1 0 1 1 0 1 0 1 0 1 1 0 1 0 358
+1 1 0 1 1 0 1 0 1 1 0 1 1 1 0 1 1 0 1 0 359
+0 0 1 1 1 0 1 0 1 1 0 1 0 0 1 1 1 0 1 0 360
+1 0 1 1 1 0 1 0 1 1 0 1 1 0 1 1 1 0 1 0 361
+0 1 1 1 1 0 1 0 1 1 0 1 0 1 1 1 1 0 1 0 362
+1 1 1 1 1 0 1 0 1 1 0 1 1 1 1 1 1 0 1 0 363
+0 0 0 0 0 1 1 0 1 1 0 1 0 0 0 0 0 1 1 0 364
+1 0 0 0 0 1 1 0 1 1 0 1 1 0 0 0 0 1 1 0 365
+0 1 0 0 0 1 1 0 1 1 0 1 0 1 0 0 0 1 1 0 366
+1 1 0 0 0 1 1 0 1 1 0 1 1 1 0 0 0 1 1 0 367
+0 0 1 0 0 1 1 0 1 1 0 1 0 0 1 0 0 1 1 0 368
+1 0 1 0 0 1 1 0 1 1 0 1 1 0 1 0 0 1 1 0 369
+0 1 1 0 0 1 1 0 1 1 0 1 0 1 1 0 0 1 1 0 370
+1 1 1 0 0 1 1 0 1 1 0 1 1 1 1 0 0 1 1 0 371
+0 0 0 1 0 1 1 0 1 1 0 1 0 0 0 1 0 1 1 0 372
+1 0 0 1 0 1 1 0 1 1 0 1 1 0 0 1 0 1 1 0 373
+0 1 0 1 0 1 1 0 1 1 0 1 0 1 0 1 0 1 1 0 374
+1 1 0 1 0 1 1 0 1 1 0 1 1 1 0 1 0 1 1 0 375
+0 0 1 1 0 1 1 0 1 1 0 1 0 0 1 1 0 1 1 0 376
+1 0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 0 377
+0 1 1 1 0 1 1 0 1 1 0 1 0 1 1 1 0 1 1 0 378
+1 1 1 1 0 1 1 0 1 1 0 1 1 1 1 1 0 1 1 0 379
+0 0 0 0 1 1 1 0 1 1 0 1 0 0 0 0 1 1 1 0 380
+1 0 0 0 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 0 381
+0 1 0 0 1 1 1 0 1 1 0 1 0 1 0 0 1 1 1 0 382
+1 1 0 0 1 1 1 0 1 1 0 1 1 1 0 0 1 1 1 0 383
+0 0 1 0 1 1 1 0 1 1 0 1 0 0 1 0 1 1 1 0 384
+1 0 1 0 1 1 1 0 1 1 0 1 1 0 1 0 1 1 1 0 385
+0 1 1 0 1 1 1 0 1 1 0 1 0 1 1 0 1 1 1 0 386
+1 1 1 0 1 1 1 0 1 1 0 1 1 1 1 0 1 1 1 0 387
+0 0 0 1 1 1 1 0 1 1 0 1 0 0 0 1 1 1 1 0 388
+1 0 0 1 1 1 1 0 1 1 0 1 1 0 0 1 1 1 1 0 389
+0 1 0 1 1 1 1 0 1 1 0 1 0 1 0 1 1 1 1 0 390
+1 1 0 1 1 1 1 0 1 1 0 1 1 1 0 1 1 1 1 0 391
+0 0 1 1 1 1 1 0 1 1 0 1 0 0 1 1 1 1 1 0 392
+1 0 1 1 1 1 1 0 1 1 0 1 1 0 1 1 1 1 1 0 393
+0 1 1 1 1 1 1 0 1 1 0 1 0 1 1 1 1 1 1 0 394
+1 1 1 1 1 1 1 0 1 1 0 1 1 1 1 1 1 1 1 0 395
+0 0 0 0 0 0 0 1 1 1 0 1 0 0 0 0 0 0 0 1 396
+1 0 0 0 0 0 0 1 1 1 0 1 1 0 0 0 0 0 0 1 397
+0 1 0 0 0 0 0 1 1 1 0 1 0 1 0 0 0 0 0 1 398
+1 1 0 0 0 0 0 1 1 1 0 1 1 1 0 0 0 0 0 1 399
+0 0 1 0 0 0 0 1 1 1 0 1 0 0 1 0 0 0 0 1 400
+1 0 1 0 0 0 0 1 1 1 0 1 1 0 1 0 0 0 0 1 401
+0 1 1 0 0 0 0 1 1 1 0 1 0 1 1 0 0 0 0 1 402
+1 1 1 0 0 0 0 1 1 1 0 1 1 1 1 0 0 0 0 1 403
+0 0 0 1 0 0 0 1 1 1 0 1 0 0 0 1 0 0 0 1 404
+1 0 0 1 0 0 0 1 1 1 0 1 1 0 0 1 0 0 0 1 405
+0 1 0 1 0 0 0 1 1 1 0 1 0 1 0 1 0 0 0 1 406
+1 1 0 1 0 0 0 1 1 1 0 1 1 1 0 1 0 0 0 1 407
+0 0 1 1 0 0 0 1 1 1 0 1 0 0 1 1 0 0 0 1 408
+1 0 1 1 0 0 0 1 1 1 0 1 1 0 1 1 0 0 0 1 409
+0 1 1 1 0 0 0 1 1 1 0 1 0 1 1 1 0 0 0 1 410
+1 1 1 1 0 0 0 1 1 1 0 1 1 1 1 1 0 0 0 1 411
+0 0 0 0 1 0 0 1 1 1 0 1 0 0 0 0 1 0 0 1 412
+1 0 0 0 1 0 0 1 1 1 0 1 1 0 0 0 1 0 0 1 413
+0 1 0 0 1 0 0 1 1 1 0 1 0 1 0 0 1 0 0 1 414
+1 1 0 0 1 0 0 1 1 1 0 1 1 1 0 0 1 0 0 1 415
+0 0 1 0 1 0 0 1 1 1 0 1 0 0 1 0 1 0 0 1 416
+1 0 1 0 1 0 0 1 1 1 0 1 1 0 1 0 1 0 0 1 417
+0 1 1 0 1 0 0 1 1 1 0 1 0 1 1 0 1 0 0 1 418
+1 1 1 0 1 0 0 1 1 1 0 1 1 1 1 0 1 0 
+0 1 0 0 0 0 0 1 1 1 0 1 0 1 0 0 0 0 0 1 398
+1 1 0 0 0 0 0 1  01 0 1 11 0 1 1 0 0 1 1 0 0 1 421
+0 1 0 1 1 0 0 1 1 1 0 1 0 1 0 1 1 0 0 1 422
+1 1 0 1 1 0 0 1 1 1 0 1 1 1 0 1 1 0 0 1 423
+0 0 1 1 1 0 0 1 1 1 0 1 0 0 1 1 1 0 0 1 424
+1 0 1 1 1 0 0 1 1 1 0 1 1 0 1 1 1 0 0 1 425
+0 1 1 1 1 0 0 1 1 1 0 1 0 1 1 1 1 0 0 1 426
+1 1 1 1 1 0 0 1 1 1 0 1 1 1 1 1 1 0 0 1 427
+0 0 0 0 0 1 0 1 1 1 0 1 0 0 0 0 0 1 0 1 428
+1 0 0 0 0 1 0 1 1 1 0 1 1 0 0 0 0 1 0 1 429
+0 1 0 0 0 1 0 1 1 1 0 1 0 1 0 0 0 1 0 1 430
+1 1 0 0 0 1 0 1 1 1 0 1 1 1 0 0 0 1 0 1 431
+0 0 1 0 0 1 0 1 1 1 0 1 0 0 1 0 0 1 0 1 432
+1 0 1 0 0 1 0 1 1 1 0 1 1 0 1 0 0 1 0 1 433
+0 1 1 0 0 1 0 1 1 1 0 1 0 1 1 0 0 1 0 1 434
+1 1 1 0 0 1 0 1 1 1 0 1 11 0 0 1 413
+0 1 0 0 1 0 0 1 1 1 0 1 0 1 0 0 1 0 0 1 414
+1 1 06
+ 1 0 0 1 1 1 0 1 1 1 0 0 1 0 0 1 415
+ 0 0 1 0 1 0 0 1 1 1 0 1  10 1 0 1 0 0 1 416
+ 1 0 1 0 1 0 0 1 1 1 0 1 1 0 1 0 1 0 0 1 4170  1 1 0 1 0 0 1 1 1 0 1 0 1 1 0 1 0 0 1 418
+ 1 1 1 0 1 0 0 1 1  00 1 1 1 1 0 1 0 
+ 0 1 0 0 0 0 0 1 1 1 0 1 0 1 0 0 0 0 0 1 398
+ 1 1 0 0 0 0 0 1  01 0 1 11 0 1 1 0 0 1 1 0 0 1 421
+ 0 1 0 1 1 0  01 1 1 0 1 0 1 0 1 1 0 00 1 1 0 1 444
+ 1 0 0 0 1 1 0 1 1 1 0 1 1 0 0 0 1 1 0 1 445
+ 0 1 0 0 1 1 0 1 1 1 0 1 0 1 0 0 1 1 0 1 446
+ 1 1 0 0 1 1 0 1 1 1 0 1 1 1 0 0 1 1 0 1 447
+ 0 0 1 0 1 1 0 1 1 1 0 1 0 0 1 0 1 1 0 1 448
+ 1 0 1 0 1 1 0 1 1 1 0 1 1 0 1 0 1 1 0 1 449
+ 0 1 1 0 1 1 0 1 1 1 0 1 0 1 1 0 1 1 0 1 450
+ 1 1 1 0 1 1 0 1 1 1 0 1 1 1 1 0 1 1 0 1 451
+ 0 0 0 1 1 1 0 1 1 1 0 1 0 0 0 1 1430
+ 1 1 0 0 0 1 0 1 1 1 0 1 1 1 0 0 0 1 0 1 431
+ 0 0 1 0 0 1 01  1 1 0 1 0 0 1 0 0 1 0 1 432
+ 1 0 1 0 0 1 0 1 1 1 0 1 1 0 1 0  11 0 1 433
+ 0 1 1 0 0 1 0 1 1 1 0 1 0 1 1 0 0 1 0 1 434
+ 1 1 1 01  1 0 1 1 1 0 1 11 0 0 1 413
+ 0 1 0 0 1 0 0 1 1 1 0 1 0 1 0 0 1 0 0 1 414
+ 1 1 06
+  1 0 0 1 1 1 0 1 1 1 0 0 1 0 0 1 415
+  0 0 1 0 1 0 0 1 1 1 0 1  10 1 0 1 0 0 1 416
+  1 0 1 0 1 0 0 1 1 1 0 1 1 0 1 1 1 0 1 1 0 0 0 0 0 1 1 461
+  0 1 0 0 0 0 1 1 1 1 0 1 0 1 0 0 0 1 0 1 0 0 1 1  00 1 1 1 1 0 1 0 
+  0 1 0 0 0 0 0 1 1 1 0 1 0 1  00 0 0 0 1 398
+  1 1 0 0 0 0 0 1  01 0 1 11 0 1 1 0 0 1 1 0 0 1 0 1
+  0 1 0 1 1 0  01 1 1 0 1 0 1 0 1 1 0 00 1 1 0 1 444
+  1 0 0 0  11 0 1 1 1 0 1 1 0 0 0 1 1 0 1 445
+  0 1 0 0 1 1 0 1 1 1 0 1 0 10  0 1 1 0 1 446
+  1 1 0 0 1 1 0 1 1 1 0 1 1 1 0 0 1 1 0 1 447
+  0  41 0 1 1 0 1 1 1 0 1 0 0 1 0 1 1 0 1 448
+  1 0 1 0 1 1 0 1 1 1 01  1 0 1 0 1 1 0 1 449
+  0 1 1 0 1 1 0 1 1 1 0 1 0 1 1 0 1 1 0 1  00
+  1 1 1 0 1 1 0 1 1 1 0 1 1 1 1 0 1 1 0 1 451
+  0 0 0 1 1 1 0 10  1 0 1 0 0 0 1 1430
+  1 1 0 0 0 1 0 1 1 1 0 1 1 1 0 0 0 1 0 1 4 1
+  0 0 1 0 0 1 01  1 1 0 1 0 0 1 0 0 1 0 1 432
+  1 0 1 0 0 1 0 1 0 1 0 1 1 0 1 0  11 0 1 433
+  0 1 1 0 0 1 0 1 1 1 0 1 0 1 1 0 0 1 1 1 434
+  1 1 1 01  1 0 1 1 1 0 1 11 0 0 1 413
+  0 1 0 0 1 0 0 1 147 0 1 0 1 0 0 1 0 0 1 414
+  1 1 06
+   1 0 0 1 1 1 0 1 1 1 0 0 1 0  11 415
+   0 0 1 0 1 0 0 1 1 1 0 1  10 1 0 1 0 0 1 416
+   1 0 1 0 1 00  1 1 1 0 1 1 0 1 1 1 0 1 1 0 0 0 0 0 1 1 461
+   0 1 0 0 0 0 1 1  01 0 1 0 1 0 0 0 1 0 1 0 0 1 1  00 1 1 1 1 0 1 0 
+   0 1 0 0 0 0 0 1 1 1 0 1 0 1  00 0 0 0 1 398
+   1 1 0 0 0 0 0 1  01 0 1 11 0 1  00 0 1 1 0 0 1 0 1
+   0 1 0 1 1 0  01 1 1 0 1 0 1 0 1 1 0 00 1 1 1 1 444
+   1 0 0 0  11 0 1 1 1 0 1 1 0 0 0 1 1 0 1 445
+   0 1 0 0 1 189 1 1 1 0 1 0 10  0 1 1 0 1 446
+   1 1 0 0 1 1 0 1 1 1 0 1 1 1 0 1 1 1 0 1 447
+   0  41 0 1 1 0 1 1 1 0 1 0 0 1 0 1 1 0 1 448
+   1 0 1 1 1 1 0 1 1 1 01  1 0 1 0 1 1 0 1 449
+   0 1 1 0 1 1 0 1 1 1 0 1 1 1 1 1 1 0 1 0 1 0 0 0 1 1 1 494
+   1 1 0 0 0 1 1 1 1 1 0 1 1 1 0 0 0 0 1 1 1 0 10  1 0 1 0 0 0 1 1430
+   1 1 0 0 0 1 0 1 1 1 0 1 11  0 0 0 1 0 1 4 1
+   0 0 1 0 0 1 01  1 1 0 1 0 0 1 0 0 1 0 1 432
+    00 1 0 0 1 0 1 0 1 0 1 1 0 1 0  11 0 1 433
+    0 1 1 0 0 1 0 1 1 19
+     1 0 1 1 0 0 1 1 1 434
+     1 1 1 01  1 0 1 1 1 0 1 11 0 0 1 413
+     0 1 0 0 1 0 0 1 147 0 1 0 1 0 0 1 0 0 1 414
+     1 1 06
+      1 0 0 1 1 1 1 1 1 1 0 0 1 0  11 415
+      0 0 1 0 1 0 0 1 1 1 0 1  10 1 0 1 0 0 1 1 1 1 1 0 1 0 0 1 1 0 1 1 1 504
+      1 0 1 1 0 1 1 1 1 1 0 1 1 0 1 1 1 0 0 0 0 1 1  01 0 1 0 1 0 0 0 1 0 1 0 0 1 1  00 1 1 1 1 0 1 1 
+      0 1 0 0 0 0 0 1 1 1 0 1 0 1  00 0 0 0 1 398
+      1 1 0 0 0 0 0 10 01 0 1 11 0 1  00 0 1 1 0 0 1 0 1
+      0 1 0 1 1 0  01 1 1 0 1 0 1
+      0 1 1 0 00 1 1 1 1 444
+      1 0 0 0  11 0 1 1 1 0 1 1 0 0 0 1 1 0 11 45
+      0 1 0 0 1 189 1 1 1 0 1 0 10  0 1 1 0 1 446
+      1 1 0 0 1 1 0  11 1 0 1 1 1 0 1 1 1 0 1 447
+      0  41 0 1 1 0 1 1 1 0 1 0 0 1 0 11  0 1 448
+      1 0 1 1 1 1 0 1 1 1 01  1 0 1 0 1 1 0 1 449
+      0 1 1 0  11 0 1 1 1 0 1 1 1 1 1 1 0 1 0 1 0 0 0 1 1 1 494
+      1 1 0 0 0 1 11  1 1 0 1 1 1 0 0 0 0 1 1 1 0 10  1 0 1 0 0 0 1 1430
+      1 1 0 0 0 1 0 1 1 1 0 1 11  0 0 0 1 0 1 4 1
+      0 0 1 0 0 1 01  1 1 0 1 0 0 0 0 0 1 0 1 432
+       00 1 0 0 1 0 1 0 1 0 1 1 0 1 0  11 0 1 433
+       0 1 0 0 0 1 0 1 1 19
+        1 0 1 1 0 0 1 1 1 434
+        1 1 1 01  1 0 1 1 1 0 1 11 0 0 1 413
+        0 1 0 0 1 0 0 1 147 0 1 0 1 0 0 1 0 0 1 414
+        1 1  0 0 0 1 1 0 0 0 0 0 0 0 0 524
+        1 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 10 1 0 1 0 0 1 1 1 1 1 0 1 0 0 1 1 0 1 1 1 504
+        1 0 1 1 0 1 1  01 1 0 1 1 0 1 1 1 0 0 0 0 1 1  01 0 1 0 1 0 0 0 1 0 1 0 0 1 10 00 1 1 1 1 0 1 1 
+        0 1 0 0 0 0 0 1 1 1 0 1 0 1  00 0 0 0 1 398 1 1 0 0 0 0 0 10 01 0 1 11 0 1  00 0 1 1 0 0 1 0 1
+        0 1 0 1 1 01 01 1 1 0 1 0 1
+        0 1 1 0 00 1 1 1 1 444
+        1 0 0 0  11 0 1 1 1 0 1 5 0 0 0 1 1 0 11 45
+        0 1 0 0 1 189 1 1 1 0 1 0 10  0 1 1 0 1 440 1 1 0 0 1 1 0  11 1 0 1 1 1 0 1 1 1 0 1 447
+        0  41 0 1 1 0 1 1 0 0 1 0 0 1 0 11  0 1 448
+        1 0 1 1 1 1 0 1 1 1 01  1 0 1 0 1 1 0 1 449
+        0 1 1 0  11 0 1 1 1 0 1 1 1 1 1 1 0 1 0 1 0 0 0 1 1 1 4 1
+        1 1 0 0 0 1 11  1 1 0 1 1 1 0 0 0 0 1 1 1 0 10  1 0 1 0 0 0 0 1430
+        1 1 0 0 0 1 0 1 1 1 0 1 11  0 0 0 1 0 1 4 1
+        0 0 1 0 0 1  1  1 1 0 1 0 0 0 0 0 1 0 1 432
+         00 1 0 0 1 0 1 0 1 0 1 1 0 1 05411 0 1 433
+         0 1 0 0 0 1 0 1 1 19
+          1 0 1 1 0 0 1 1 1 434
+          1 1 1  0  1 0 1 1 1 0 1 11 0 0 1 413
+          0 1 0 0 1 0 0 1 147 0 1 0 1 0 0 0 0 0 1 414
+          1 1  0 0 0 1 1 0 0 0 0 0 0 0 0 524
+          1 0 0 0 0 0 0 0  00 1 1 1 0 0 0 0 10 1 0 1 0 0 1 1 1 1 1 0 1 0 0 1 1 0 1 1 1 500 1 0 1 1 0 1 1  01 1 0 1 1 0 1 1 1 0 0 0 0 1 1  01 0 1 0 1 0 0 0 1 0 1 0 0 1 10 00 1 1 1 1 0 1 1 
+          0 1 0 0 0 0 0 1 1 1 0 1 0 11 00 0 0 0 1 398 1 1 0 0 0 0 0 10 01 0 1 11 0 1  00 0 1 1 0 0 152 1
+          0 1 0 1 1 01 01 1 1 0 1 0 1
+          0 1 1 0 00 1 1 1 1 444
+          1 0 0 00 11 0 1 1 1 0 1 5 0 0 0 1 1 0 11 45
+          0 1 0 0 1 189 1 1 1 0 1 0  0  0 1 1 0 1 440 1 1 0 0 1 1 0  11 1 0 1 1 1 0 1 1 1 0 1 447
+          01 41 0 1 1 0 1 1 0 0 1 0 0 1 0 11  0 1 448
+          1 0 1 1 1 1 0 1 1 1  0  1 0 1 0 1 1 0 1 449
+          0 1 1 0  11 0 1 1 1 0 1 1 1 1 1 1 0 1 01 0 0 1 0 0 0 0 1 1 0 0 1 0 0 1 0 0 560
+          1 0 1 0 0 1 0 0 0 0 1 1 1  1 0 1 0 0 0 0 1430
+          1 1 0 0 0 1 0 1 1 1 0 1 11  0 0 0 1 0 1 2
+          1
+          0 0 1 0 0 1  1  1 1 0 1 0 0 0 0 0 1 0 1 432
+           00 1 0 0 1 0 1 0 1 0 1 1 0 1 05411 0 1 433
+           0 1 0 0 0 1 0 1 1 19
+            1 0 1 1 0 0 0 1 1 434
+            1 1 1  0  1 0 1 1 1 0 1 11 0 0 1 413
+            0 1 0 0 1 0 0 1  0 0 0 0 1 1 1 1 0 1 0 1 0 0 567
+            0 0 1 1 0 1 0 0 0 0 1 1 0 0 1 1 0 0 0 0 0 0 0  00 1 1 1 0 0 0 0 10 1 0 1 0 0 1 1 1 1 1 0 1 0  1 0 1 0 0 0 0 1 1 0 1 1 1 0 1 0 0 570
+            1 1 1 1 0 1 0 0 0 0 1 1 1 01 0 1 0 1 0 0 0 1 0 1 0 0 1 10 00 1 1 1 1 0 1 1 
+            0 1 0 0 0 0
+            1 1 1 1 0 1 0 11 00 0 0 0 1 398 1 1 0 0 0 0 0 10 01 0 1 11 0 10 00 0 1 1 0 0 152 1
+            0 1 0 1 1 01 01 1 1 0 1 0 1
+            0 1 1 0 00 1 1 0 1 444
+            1 0 0 00 11 0 1 1 1 0 1 5 0 0 0 1 1 0 11 45
+            0 1 0 0 1 0 9 1 1 1 0 1 0  0  0 1 1 0 1 440 1 1 0 0 1 1 0  11 1 0 1 1 1 0 1 1 1 0 1 447
+            01 41 0 1 1 0 1 1 0 0 1 0 0 1 0 11  0 1 448
+            1 0 1 1 1 1 0 1 1 1  0  1 0 1 0 1 1 0 1 449
+            0 1 1 0  11 0 1 1 1 0 1 0 1 1 1 1 0 1 01 0 0 1 0 0 0 0 1 1 0 0 1 0 0 1 0 0 560
+            1 0 1 01  1 0 0 0 0 1 1 1  1 0 1 0 0 0 0 1430
+            1 1 0 0 0 1 0 1 1 1 0 1  1  0 0 0 1 0 1 2
+            1
+            0 0 1 0 0 1  1  1 1 0 1 0 0 0 0 0 1 0 1 4320 00 1 0 0 1 0 1 0 1 0 1 1 0 1 05411 0 1 433
+            0 1 0 0 0 1 0 1 1  0
+             1 0 1 1 0 0 0 1 1 434
+             1 1 1  0  1 0 1 1 1 0 1 11 0 0 1 413
+             0 1 0 0 1 0 0 1  0 0 0 0 1 1 1 1 0 1 0 1 0 0 567
+             0 0 1 1 0 1 0  00 0 1 1 0 0 1 1 0 0 0 0 0 0 0  00 1 1 1 0 0 0 0 10 1 0 1 0 0 1 1 1 1 1 0 1 0  1 0 1 0 0 0 0 1 1 0 1 1 1 0 1 0 0 570
+             1 1 1 1  01 0 0 0 0 1 1 1 01 0 1 0 1 0 0 0 1 0 1 0 0 1 10 00 1 1 1 1 0 1 1 
+             0 1 0 0 0 0
+             1 1 1 1 0 1 0 11 00 0 0 0 1 398 1 1 0 0 0 0 0  5 01 0 1 11 0 10 00 0 1 1 0 0 152 1
+             0 1 0 1 1 01 01 1 1 0 1 0 0 0 1 1 0 00 1 1 0 1 444
+             1 0 0 00 11 0 1 1 1 0 1 5 0 0 0 1 1 0  0 45
+             0 1 0 0 1 0 9 1 1 1 0 1 0  0  0 1 1 0 1 440 1 1 0 0 1 1 00   0 1 448
+             1 0 1 1 1 1 0 1 1 1  0  1 0 1 0 1 1 0 1 449
+             0 1 1 0  11 0 1 1 1 0 1 0 1 1 1 1 0 1 01 0 0 1 0 0 0 0 1 1 0 0 1 0 0 11 11 0 1 1 1 0 1 0 1 1 1 1 0 1 01 0 0 1 0 0 0 0 1 1 0 0 1 0 0 1 1 0 560
+             1 0 1 01  1 0 0 0 0 1 1 1  1 0 1 0 0 0 0 1430
+             1 1 0 0 605
+             0 1 0 0 1 0 1 0 0 0 1 1 0 1 0 0 1 0 1 0 606
+             1 1 0 0 1 0 1 0 0 0 0 1 0 1 4320 00 1 0 0 1 0 1 0 1 0 1 1 0 1 05411 0 1 433
+             0 0 0 0 0 1 0 1 1  0
+              1 0 1 1 0 0 0 1 1 434
+              1 1 1  0  1 0 1 1 1 0 0 11 0 0 1 413
+              0 1 0 0 1 0 0 1  0 0 0 0 1 1 1 1 0 1 0 1 0 0 561 0 0 1 1 0 1 0  00 0 1 1 0 0 1 1 0 0 0 0 0 0 0  00 1 1 1 0 0 0 0 10 1 0 1 0 0 1 1 1 1 1 0 1 0  1 0 1 0 0 0 0 1 1 0 1 1 1 0 1 1 0 570
+              1 1 1 1  01 0 0 0 0 1 1 1 01 0 1 0 1 0 0 0 1 0 1 0 0 1 15 00 1 1 1 1 0 1 1 
+              0 1 0 0 0 0
+              1 1 1 1 0 1 0 11 00 0 0 0 1 390 1 1 0 0 0 0 0  5 01 0 1 11 0 10 00 0 1 1 0 0 152 1
+              0 1 0 1 1  1 0 618
+              1 1 1 1 1 0 1 0 0 0 1 1 1 1 1 1 1 0 1 0 619
+              0 0 0 0 0 1 5 0 0 0 1 1 0  0 45
+              0 1 0 0 1 0 9 1 1 1 0 1 0  0  0 1 1 0 1 4 0 1 449
+              0 1 1 0  11 0 1 1 1 0 1 0 1 1 1 1 0 1 01 0 0 1 0 0 0 0 1 1 0 0 1 0 0 11 11 0 1 1 1 0 1 0 1 1 1 1 0 1 01 0 0 1 0 0 0 0 0 1 0 0 1 0 0 11 11 0 1 1 1 0 1 0 1 1 1 1 0 1 01 0 0 1 0 0 0 05
+               1 0 0 1 0 0 1 1 0 560
+               1 0 1 01  1 0 0 0 0 1 1 1  1 0 1 0 0 0 0 1430
+               1 1 0 0 605
+               0 1 0 0 1 0 1 0 0 0 1 1 0 1 0 0 1 0 1 0 6061 0 628
+               1 0 0 1 0 1 1 0 0 0 1 1 1 0 0 1 0 1 1 0 629
+               0 1 0 1 0 1 1411 0 1 433
+               0 0 0 0 0 1 0 1 1  0
+                1 0 1 1 0 0 0 1 1 434
+                1 1 11 0  1 0 1 1 1 0 0 11 0 0 1 413
+                0 1 0 0 1 0 0 1  0 0 0 0 1 1 1  1 0 1 1 0 0 0 1 1 1 0 1 1 0 1 1 0 633
+                0 1 1 1 0 1 1 0 0 0 1 1 0 00 1 1 1 0 0 0 0 10 1 0 1 0 0 1 1 1 1 1 0 1 0  1 0 1 0 0 0 0 
+                01 0 1 1 1 0 1 1 0 570
+                1 1 1 1  01 0 0 0 0 1 1 1 01 0 1 0 1 0 0 0 1 0 1 0 0 1 15 00 1 1 1 1 0 1 1 
+                0 1 0 0 0 0
+                1 1 1 1 0 1 0  0 00 0 0 0 1 390 1 1 0 0 0 0 0  5 01 0 1 11 0 10 00 0 1 1 0 0 1 2 1
+                0 1 0 1 1  1 0 618
+                1 1 1 1 1 0 1 0 0 0 1 1 1 1 1 1 1 0 1  10  0 1 1 0 1 4 0 1 449
+                0 1 1 0  11 0 1 1 1 0 1 0 1 1 1 1 0 1 0 1 1 1 0 0 0 1 1 1 1 1 0 1 1 1 0 643
+                0 0 0 1 1 1 1 0 0 0 1 1 0 0 0 0 1 0 0 0 0 1 1 0 0 1 0 0 11 11 0 1 1 1 0 1 0 1 1 1 1 0 1 0  0 0 1 0 0 0 05
+                 1 0 0 1 0 0 1 1 0 560
+                 1 0 1 01  1 0 0 0 0 1 1 1  1 0 1 0 0 0 0 1430
+                 1 1 0 0 605
+                 0 1 0 0 1 0 1 0 0 0 1 1 0 10 1  1 0 1 0 0 0 0 1430
+                 1 1 0 0 605
+                 0 1 0 0 1 0 1 0 0 0 1 1 0 1 0 0 1 0 1 0 6061 0 628
+                 1 0 0 1 0 1 1 0 0 0 1 1 1 0 0 1 0 1 1 01 29
+                 0 1 0 1 0 1 1411 0 1 433
+                 0 0 0 0 0 1 0 1 1  0
+                  1 0 1 1 0 0 0 1 1 434
+                  1 1 11 0  1 0 1 1 1 0 0 11 0 0 1 413
+                  0 1 0 0 1 0 0 11 0 0 0 0 1 1 1  1 0 1 1 0 0 0 1 1 1 0 1 1 0 1 1 0 633
+                  0 1 1 1  01 1 0 0 0 1 1 0 00 1 1 1 0 0 0 0 10 1 0 1 0 0 1 1 1 1 1 0 1 01 1 1 0 1 0 0 0 0 1 657
+                  0 1 1 0 0 0 0 1 0 0 1 1 0 1 1 0 0 0 0 1 6 01 0 1 0 1 0 0 0 1 0 1 0 0 1 15 00 1 1 1 1 0 1 1 
+                  0 1 0 0 0 1 1 1 1 1 0 1 0  0 00 0 0 0 1 390 1 1 0 0 0 0 0  5 01 0 1 11 0  0 00 0 1 1 0 0 1 2 1
+                  0 1 0 1 1  1 0 618
+                  1 1 1 1 1 0 1 0 0 0 1 0  1 0 0 0 1 1 0 0 0 0 1 0 0 0 0 1 1 0 0 1 0 0 11 11 0 1 1 1 

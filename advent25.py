@@ -1,8 +1,5 @@
 instructions = open("day25.txt", "r").read().strip().split("\n")
 
-index = 0
-env = {'a':2}
-
 def is_int(string):
     try:
         int(string)
@@ -19,8 +16,10 @@ def eval(instructions, environment, i):
 
     if command == "out":
         if is_int(arg1):
+            output.append(arg1)
             print arg1,
         else:
+            output.append(env[arg1])
             print env[arg1],
 
     if command == "cpy":
@@ -82,5 +81,13 @@ def eval(instructions, environment, i):
     else:
         return instructions, environment, index + 1
 
-while index < len(instructions) or len(output) < 20:
-    instructions, env, index = eval(instructions, env, index)
+output, integer, index = [], 0, 0
+env = {"a": integer}
+while output != [1, 0] * 10:
+    while index < len(instructions) and len(output) < 20:
+        instructions, env, index = eval(instructions, env, index)
+    print integer
+    output = []
+    integer += 1
+    index = 0
+    env = {"a": integer}
